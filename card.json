@@ -1,5 +1,6 @@
 {
- "IVAL_AJ_C": [
+ 
+ "IVAL_AY_C": [
     {
     "name": "<:C_LOGO:1089020314236764240> **IVE ANYUJIN** After Like",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/AY.png?format=png",
@@ -7,5 +8,46 @@
     "inv": "<:C_LOGO:1089020314236764240> After LIKE"
     
     }
+    ],
+ 
+  "IVAL_AY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **IVE ANYUJIN** After Like",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/AY.png?format=png",
+    "theme": "After LIKE",
+    "inv": "<:B_LOGO:1089020310508015626> After LIKE"
+    
+    }
+    ],
+ 
+   "IVAL_AY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **IVE ANYUJIN** After Like",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/AY.png?format=png",
+    "theme": "After LIKE",
+    "inv": "<:A_LOGO:1089020306556989592> After LIKE"
+    
+    }
+    ],
+ 
+    "IVAL_AY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **IVE ANYUJIN** After Like",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/AY.png?format=png",
+    "theme": "After LIKE",
+    "inv": "<:S_LOGO:1089020304254316624> After LIKE"
+    
+    }
+    ],
+ 
+    "IVAL_AY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **IVE ANYUJIN** After Like",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/AY.png?format=png",
+    "theme": "After LIKE",
+    "inv": "<:R_LOGO:1089020300332630096> After LIKE"
+    
+    }
     ]
-            }
+ 
+}
