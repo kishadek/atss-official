@@ -299,6 +299,256 @@
     "inv": "<:R_LOGO:1089020300332630096> After LIKE"
     
     }
+    ],
+ 
+ "RVBE_IN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **Red Velvet IRENE** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/IN.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:C_LOGO:1089020314236764240> Better Be"
+    
+    }
+    ],
+ 
+  "RVBE_IN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **Red Velvet IRENE** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/IN.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:B_LOGO:1089020310508015626> Better Be"
+    
+    }
+    ],
+ 
+   "RVBE_IN_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **Red Velvet IRENE** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/IN.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:A_LOGO:1089020306556989592> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_IN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **Red Velvet IRENE** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/IN.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:S_LOGO:1089020304254316624> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_IN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **Red Velvet IRENE** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/IN.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:R_LOGO:1089020300332630096> Better Be"
+    
+    }
+    ],
+ 
+ "RVBE_SG_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **Red Velvet SEULGI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/SG.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:C_LOGO:1089020314236764240> Better Be"
+    
+    }
+    ],
+ 
+  "RVBE_SG_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **Red Velvet SEULGI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/SG.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:B_LOGO:1089020310508015626> Better Be"
+    
+    }
+    ],
+ 
+   "RVBE_SG_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **Red Velvet SEULGI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/SG.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:A_LOGO:1089020306556989592> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_SG_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **Red Velvet SEULGI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/SG.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:S_LOGO:1089020304254316624> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_SG_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **Red Velvet SEULGI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/SG.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:R_LOGO:1089020300332630096> Better Be"
+    
+    }
+    ],
+ 
+ "RVBE_WD_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **Red Velvet WENDY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/WD.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:C_LOGO:1089020314236764240> Better Be"
+    
+    }
+    ],
+ 
+  "RVBE_WD_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **Red Velvet WENDY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/WD.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:B_LOGO:1089020310508015626> Better Be"
+    
+    }
+    ],
+ 
+   "RVBE_WD_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **Red Velvet WENDY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/WD.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:A_LOGO:1089020306556989592> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_WD_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **Red Velvet WENDY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/WD.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:S_LOGO:1089020304254316624> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_WD_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **Red Velvet WENDY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/WD.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:R_LOGO:1089020300332630096> Better Be"
+    
+    }
+    ],
+ 
+ "RVBE_JO_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **Red Velvet JOY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/JO.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:C_LOGO:1089020314236764240> Better Be"
+    
+    }
+    ],
+ 
+  "RVBE_JO_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **Red Velvet JOY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/JO.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:B_LOGO:1089020310508015626> Better Be"
+    
+    }
+    ],
+ 
+   "RVBE_JO_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **Red Velvet JOY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/JO.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:A_LOGO:1089020306556989592> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_JO_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **Red Velvet JOY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/JO.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:S_LOGO:1089020304254316624> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_JO_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **Red Velvet JOY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/JO.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:R_LOGO:1089020300332630096> Better Be"
+    
+    }
+    ],
+ 
+ "RVBE_YR_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **Red Velvet YERI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/YR.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:C_LOGO:1089020314236764240> Better Be"
+    
+    }
+    ],
+ 
+  "RVBE_YR_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **Red Velvet YERI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/YR.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:B_LOGO:1089020310508015626> Better Be"
+    
+    }
+    ],
+ 
+   "RVBE_YR_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **Red Velvet YERI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/YR.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:A_LOGO:1089020306556989592> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_YR_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **Red Velvet YERI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/YR.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:S_LOGO:1089020304254316624> Better Be"
+    
+    }
+    ],
+ 
+    "RVBE_YR_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **Red Velvet YERI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/YR.png?format=png",
+    "theme": "Better Be",
+    "inv": "<:R_LOGO:1089020300332630096> Better Be"
+    
+    }
     ]
  
  
