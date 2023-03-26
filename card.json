@@ -924,7 +924,7 @@
  "TYIN_D_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Dance** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/10png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/10..png?format=png",
          "theme": "INVU"
          "inv": "<:C_LOGO:1089020314236764240> INVU"
             
@@ -933,7 +933,7 @@
     "TYIN_D_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **TAEYEON Dance** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/9png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/9.png?format=png",
          "theme": "INVU"
          "inv": "<:B_LOGO:1089020310508015626> INVU"
          
@@ -942,7 +942,7 @@
     "TYIN_D_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **TAEYEON Dance** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/8ng?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/8.png?format=png",
          "theme": "INVU"
          "inv": "<:A_LOGO:1089020306556989592> INVU"
         }
@@ -950,7 +950,7 @@
     "TYIN_D_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **TAEYEON Dance** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/7png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/7.png?format=png",
          "theme": "INVU"
          "inv": "<:S_LOGO:1089020304254316624> INVU"
         }
@@ -959,11 +959,55 @@
     "TYIN_D_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **TAEYEON Dance** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/6png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/6.png?format=png",
          "theme": "INVU"
          "inv": "<:R_LOGO:1089020300332630096> INVU"
         }
     ],
+ 
+ "TYIN_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Rhythm** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/15.png?format=png",
+         "theme": "INVU"
+         "inv": "<:C_LOGO:1089020314236764240> INVU"
+            
+        }
+    ],
+    "TYIN_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **TAEYEON Rhythm** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/14.png?format=png",
+         "theme": "INVU"
+         "inv": "<:B_LOGO:1089020310508015626> INVU"
+         
+        }
+    ],
+    "TYIN_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **TAEYEON Rhythm** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/13.png?format=png",
+         "theme": "INVU"
+         "inv": "<:A_LOGO:1089020306556989592> INVU"
+        }
+    ],
+    "TYIN_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **TAEYEON Rhythm** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/12.png?format=png",
+         "theme": "INVU"
+         "inv": "<:S_LOGO:1089020304254316624> INVU"
+        }
+    ],
+    
+    "TYIN_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **TAEYEON Rhythm** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/11.png?format=png",
+         "theme": "INVU"
+         "inv": "<:R_LOGO:1089020300332630096> INVU"
+        }
+    ]
  
  
 }
