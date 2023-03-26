@@ -549,6 +549,108 @@
     "inv": "<:R_LOGO:1089020300332630096> Better Be"
     
     }
+    ],
+ 
+ {
+
+ 
+
+ "SCTB_SM_C": [
+
+    {
+
+    "name": "<:C_LOGO:1089020314236764240> **STAYC Sumin** Teddy Bear",
+
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/SM.png?format=png",
+
+    "theme": "Teddy Bear",
+
+    "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
+
+    
+
+    }
+
+    ],
+
+ 
+
+  "SCTB_SM_B": [
+
+    {
+
+    "name": "<:B_LOGO:1089020310508015626> **STAYC Sumin** Teddy Bear",
+
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/SM.png?format=png",
+
+    "theme": "Teddy Bear",
+
+    "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
+
+    
+
+    }
+
+    ],
+
+ 
+
+   "SCTB_SM_A": [
+
+    {
+
+    "name": "<:A_LOGO:1089020306556989592> **STAYC Sumin** Teddy Bear",
+
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/SM.png?format=png",
+
+    "theme": "Teddy Bear",
+
+    "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
+
+    
+
+    }
+
+    ],
+
+ 
+
+    "SCTB_SM_S": [
+
+    {
+
+    "name": "<:S_LOGO:1089020304254316624> **STAYC Sumin** Teddy Bear",
+
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/SM.png?format=png",
+
+    "theme": "Teddy Bear",
+
+    "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
+
+    
+
+    }
+
+    ],
+
+ 
+
+    "SCTB_SM_R": [
+
+    {
+
+    "name": "<:R_LOGO:1089020300332630096> **STAYC Sumin** Teddy Bear",
+
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/SM.png?format=png",
+
+    "theme": "Teddy Bear",
+
+    "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
+
+
+
+    }
+
     ]
  
  
