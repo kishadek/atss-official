@@ -8,8 +8,13 @@
       "RV_TEXT": "`Basic` **Red Velvet** Wallpaper",
       
       "NMIXX_BASIC": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/my_lobby/background/basic/nmixx_basic.png?format=png",
-      "NMIXX_TEXT": "`Basic` **NMIXX** Wallpaper"
+      "NMIXX_TEXT": "`Basic` **NMIXX** Wallpaper",
+      
+      "STAYC_BASIC": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/my_lobby/background/basic/stayc_basic.png?format=png",
+      "STAYC_TEXT": "`Basic` **STAYC** Wallpaper",
 
+      "TWICE_BASIC": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/my_lobby/background/basic/twice_basic.png?format=png",
+      "TWICE_TEXT": "`Basic` **TWICE** Wallpaper"
       
       }
       ]
