@@ -1139,6 +1139,270 @@
          "theme": "Sincerity",
          "inv": "<:R_LOGO:1089020300332630096> Sincerity"
         }
+    ],
+ 
+ "NMLM_HW_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NMIXX HAEWON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_C.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
+            
+        }
+    ],
+    "NMLM_HW_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NMIXX HAEWON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_B.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+         
+        }
+    ],
+    "NMLM_HW_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NMIXX HAEWON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_A.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+        }
+    ],
+    "NMLM_HW_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NMIXX HAEWON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_S.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+        }
+    ],
+    
+    "NMLM_HW_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NMIXX HAEWON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_R.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+        }
+    ],
+ 
+ "NMLM_LI_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NMIXX LILY** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_C.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
+            
+        }
+    ],
+    "NMLM_LI_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NMIXX LILY** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_B.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+         
+        }
+    ],
+    "NMLM_LI_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NMIXX LILY** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_A.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+        }
+    ],
+    "NMLM_LI_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NMIXX LILY** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_S.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+        }
+    ],
+    
+    "NMLM_LI_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NMIXX LILY** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_R.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+        }
+    ],
+ 
+ "NMLM_SY_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NMIXX SULLYOON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_C.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
+            
+        }
+    ],
+    "NMLM_SY_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NMIXX SULLYOON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_B.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+         
+        }
+    ],
+    "NMLM_SY_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NMIXX SULLYOON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_A.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+        }
+    ],
+    "NMLM_SY_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NMIXX SULLYOON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_S.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+        }
+    ],
+    
+    "NMLM_SY_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NMIXX SULLYOON** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_R.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+        }
+    ],
+ 
+ "NMLM_BA_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NMIXX BAE** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_C.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
+            
+        }
+    ],
+    "NMLM_BA_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NMIXX BAE** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_B.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+         
+        }
+    ],
+    "NMLM_BA_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NMIXX BAE** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_A.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+        }
+    ],
+    "NMLM_BA_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NMIXX BAE** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_S.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+        }
+    ],
+    
+    "NMLM_BA_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NMIXX BAE** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_R.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+        }
+    ],
+ 
+ "NMLM_JW_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NMIXX JIWOO** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_C.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
+            
+        }
+    ],
+    "NMLM_JW_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NMIXX JIWOO** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_B.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+         
+        }
+    ],
+    "NMLM_JW_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NMIXX JIWOO** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_A.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+        }
+    ],
+    "NMLM_JW_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NMIXX JIWOO** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_S.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+        }
+    ],
+    
+    "NMLM_JW_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NMIXX JIWOO** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_R.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+        }
+    ],
+ 
+ "NMLM_KJ_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NMIXX KYUJIN** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_C.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
+            
+        }
+    ],
+    "NMLM_KJ_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NMIXX KYUJIN** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_B.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
+         
+        }
+    ],
+    "NMLM_KJ_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NMIXX KYUJIN** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_A.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+        }
+    ],
+    "NMLM_KJ_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NMIXX KYUJIN** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_S.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+        }
+    ],
+    
+    "NMLM_KJ_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NMIXX KYUJIN** Love Me Like This",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_R.png?format=png",
+         "theme": "Love Me Like This",
+         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+        }
     ]
  
  
