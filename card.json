@@ -1007,6 +1007,138 @@
          "theme": "INVU",
          "inv": "<:R_LOGO:1089020300332630096> INVU"
         }
+    ],
+ 
+ "WPSC_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Vocal** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/5.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:C_LOGO:1089020314236764240> Sincerity"
+            
+        }
+    ],
+    "WPSC_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Vocal** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/4.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:B_LOGO:1089020310508015626> Sincerity"
+         
+        }
+    ],
+    "WPSC_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Vocal** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/3.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:A_LOGO:1089020306556989592> Sincerity"
+        }
+    ],
+    "WPSC_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Vocal** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/2.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:S_LOGO:1089020304254316624> Sincerity"
+        }
+    ],
+    
+    "WPSC_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Vocal** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/1.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:R_LOGO:1089020300332630096> Sincerity"
+        }
+    ],
+ 
+ "WPSC_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Dance** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/10.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:C_LOGO:1089020314236764240> Sincerity"
+            
+        }
+    ],
+    "WPSC_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Dance** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/9.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:B_LOGO:1089020310508015626> Sincerity"
+         
+        }
+    ],
+    "WPSC_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Dance** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/8.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:A_LOGO:1089020306556989592> Sincerity"
+        }
+    ],
+    "WPSC_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Dance** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/7.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:S_LOGO:1089020304254316624> Sincerity"
+        }
+    ],
+    
+    "WPSC_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Dance** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/6.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:R_LOGO:1089020300332630096> Sincerity"
+        }
+    ],
+ 
+ "WPSC_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Rhythm** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/15.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:C_LOGO:1089020314236764240> Sincerity"
+            
+        }
+    ],
+    "WPSC_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Rhythm** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/14.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:B_LOGO:1089020310508015626> Sincerity"
+         
+        }
+    ],
+    "WPSC_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Rhythm** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/13.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:A_LOGO:1089020306556989592> Sincerity"
+        }
+    ],
+    "WPSC_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Rhythm** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/12.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:S_LOGO:1089020304254316624> Sincerity"
+        }
+    ],
+    
+    "WPSC_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Rhythm** Sincerity",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/11.png?format=png",
+         "theme": "Sincerity",
+         "inv": "<:R_LOGO:1089020300332630096> Sincerity"
+        }
     ]
  
  
