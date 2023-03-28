@@ -1403,6 +1403,256 @@
          "theme": "Love Me Like This",
          "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
         }
+    ],
+ 
+"NJOM_MJ_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **NewJeans MINJI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_MJ.png?format=png",
+    "theme": "OMG",
+    "inv": "<:C_LOGO:1089020314236764240> OMG"
+    
+    }
+    ],
+ 
+  "NJOM_MJ_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **NewJeans MINJI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_MJ.png?format=png",
+    "theme": "OMG",
+    "inv": "<:B_LOGO:1089020310508015626> OMG"
+    
+    }
+    ],
+ 
+   "NJOM_MJ_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **NewJeans MINJI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_MJ.png?format=png",
+    "theme": "OMG",
+    "inv": "<:A_LOGO:1089020306556989592> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_MJ_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **NewJeans MINJI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_MJ.png?format=png",
+    "theme": "OMG",
+    "inv": "<:S_LOGO:1089020304254316624> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_MJ_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **NewJeans MINJI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_MJ.png?format=png",
+    "theme": "OMG",
+    "inv": "<:R_LOGO:1089020300332630096> OMG"
+    
+    }
+    ],
+ 
+ "NJOM_HN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **NewJeans HANNI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HN.png?format=png",
+    "theme": "OMG",
+    "inv": "<:C_LOGO:1089020314236764240> OMG"
+    
+    }
+    ],
+ 
+  "NJOM_HN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **NewJeans HANNI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HN.png?format=png",
+    "theme": "OMG",
+    "inv": "<:B_LOGO:1089020310508015626> OMG"
+    
+    }
+    ],
+ 
+   "NJOM_HN_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **NewJeans HANNI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HN.png?format=png",
+    "theme": "OMG",
+    "inv": "<:A_LOGO:1089020306556989592> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_HN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **NewJeans HANNI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HN.png?format=png",
+    "theme": "OMG",
+    "inv": "<:S_LOGO:1089020304254316624> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_HN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **NewJeans HANNI** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HN.png?format=png",
+    "theme": "OMG",
+    "inv": "<:R_LOGO:1089020300332630096> OMG"
+    
+    }
+    ],
+ 
+ "NJOM_DE_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **NewJeans DANIELLE** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_DE.png?format=png",
+    "theme": "OMG",
+    "inv": "<:C_LOGO:1089020314236764240> OMG"
+    
+    }
+    ],
+ 
+  "NJOM_DE_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **NewJeans DANIELLE** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_DE.png?format=png",
+    "theme": "OMG",
+    "inv": "<:B_LOGO:1089020310508015626> OMG"
+    
+    }
+    ],
+ 
+   "NJOM_DE_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **NewJeans DANIELLE** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_DE.png?format=png",
+    "theme": "OMG",
+    "inv": "<:A_LOGO:1089020306556989592> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_DE_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **NewJeans DANIELLE** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_DE.png?format=png",
+    "theme": "OMG",
+    "inv": "<:S_LOGO:1089020304254316624> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_DE_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **NewJeans DANIELLE** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_DE.png?format=png",
+    "theme": "OMG",
+    "inv": "<:R_LOGO:1089020300332630096> OMG"
+    
+    }
+    ],
+ 
+ "NJOM_HR_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **NewJeans HAERIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HR.png?format=png",
+    "theme": "OMG",
+    "inv": "<:C_LOGO:1089020314236764240> OMG"
+    
+    }
+    ],
+ 
+  "NJOM_HR_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **NewJeans HAERIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HR.png?format=png",
+    "theme": "OMG",
+    "inv": "<:B_LOGO:1089020310508015626> OMG"
+    
+    }
+    ],
+ 
+   "NJOM_HR_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **NewJeans HAERIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HR.png?format=png",
+    "theme": "OMG",
+    "inv": "<:A_LOGO:1089020306556989592> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_HR_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **NewJeans HAERIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HR.png?format=png",
+    "theme": "OMG",
+    "inv": "<:S_LOGO:1089020304254316624> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_HR_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **NewJeans HAERIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HR.png?format=png",
+    "theme": "OMG",
+    "inv": "<:R_LOGO:1089020300332630096> OMG"
+    
+    }
+    ],
+ 
+ "NJOM_HY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **NewJeans HYEIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HY.png?format=png",
+    "theme": "OMG",
+    "inv": "<:C_LOGO:1089020314236764240> OMG"
+    
+    }
+    ],
+ 
+  "NJOM_HY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **NewJeans HYEIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HY.png?format=png",
+    "theme": "OMG",
+    "inv": "<:B_LOGO:1089020310508015626> OMG"
+    
+    }
+    ],
+ 
+   "NJOM_HY_A": [
+    {
+    "name": " <:A_LOGO:1089020306556989592> **NewJeans HYEIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HY.png?format=png",
+    "theme": "OMG",
+    "inv": "<:A_LOGO:1089020306556989592> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_HY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **NewJeans HYEIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HY.png?format=png",
+    "theme": "OMG",
+    "inv": "<:S_LOGO:1089020304254316624> OMG"
+    
+    }
+    ],
+ 
+    "NJOM_HY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **NewJeans HYEIN** OMG",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HY.png?format=png",
+    "theme": "OMG",
+    "inv": "<:R_LOGO:1089020300332630096> OMG"
+    
+    }
     ]
  
  
