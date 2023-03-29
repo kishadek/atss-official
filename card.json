@@ -1653,7 +1653,256 @@
     "inv": "<:R_LOGO:1089020300332630096> OMG"
     
     }
+    ],
+ 
+ "AESV_AY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_C.png?format=png",
+    "theme": "Savage",
+    "inv": "<:C_LOGO:1089020314236764240> Savage"
+    
+    }
+    ],
+ 
+  "AESV_AY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_B.png?format=png",
+    "theme": "Savage",
+    "inv": "<:B_LOGO:1089020310508015626> Savage"
+    
+    }
+    ],
+ 
+   "AESV_AY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_A.png?format=png",
+    "theme": "Savage",
+    "inv": "<:A_LOGO:1089020306556989592> Savage"
+    
+    }
+    ],
+ 
+    "AESV_AY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_S.png?format=png",
+    "theme": "Savage",
+    "inv": "<:S_LOGO:1089020304254316624> Savage"
+    
+    }
+    ],
+ 
+    "AESV_AY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_R.png?format=png",
+    "theme": "Savage",
+    "inv": "<:R_LOGO:1089020300332630096> Savage"
+    
+    }
+    ],
+ 
+ 
+ "AESV_KR_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_C.png?format=png",
+    "theme": "Savage",
+    "inv": "<:C_LOGO:1089020314236764240> Savage"
+    
+    }
+    ],
+ 
+  "AESV_KR_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_B.png?format=png",
+    "theme": "Savage",
+    "inv": "<:B_LOGO:1089020310508015626> Savage"
+    
+    }
+    ],
+ 
+   "AESV_KR_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_A.png?format=png",
+    "theme": "Savage",
+    "inv": "<:A_LOGO:1089020306556989592> Savage"
+    
+    }
+    ],
+ 
+    "AESV_KR_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_S.png?format=png",
+    "theme": "Savage",
+    "inv": "<:S_LOGO:1089020304254316624> Savage"
+    
+    }
+    ],
+ 
+    "AESV_KR_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_R.png?format=png",
+    "theme": "Savage",
+    "inv": "<:R_LOGO:1089020300332630096> Savage"
+    
+    }
+    ],
+ 
+ "AESV_GS_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **aespa GISELLE** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_C.png?format=png",
+    "theme": "Savage",
+    "inv": "<:C_LOGO:1089020314236764240> Savage"
+    
+    }
+    ],
+ 
+  "AESV_GS_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **aespa GISELLE** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_B.png?format=png",
+    "theme": "Savage",
+    "inv": "<:B_LOGO:1089020310508015626> Savage"
+    
+    }
+    ],
+ 
+   "AESV_GS_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **aespa GISELLE** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_A.png?format=png",
+    "theme": "Savage",
+    "inv": "<:A_LOGO:1089020306556989592> Savage"
+    
+    }
+    ],
+ 
+    "AESV_GS_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **aespa GISELLE** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_S.png?format=png",
+    "theme": "Savage",
+    "inv": "<:S_LOGO:1089020304254316624> Savage"
+    
+    }
+    ],
+ 
+    "AESV_GS_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **aespa GISELLE** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_R.png?format=png",
+    "theme": "Savage",
+    "inv": "<:R_LOGO:1089020300332630096> Savage"
+    
+    }
+    ],
+ 
+ "AESV_WT_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **aespa WINTER** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_C.png?format=png",
+    "theme": "Savage",
+    "inv": "<:C_LOGO:1089020314236764240> Savage"
+    
+    }
+    ],
+ 
+  "AESV_WT_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **aespa WINTER** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_B.png?format=png",
+    "theme": "Savage",
+    "inv": "<:B_LOGO:1089020310508015626> Savage"
+    
+    }
+    ],
+ 
+   "AESV_WT_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **aespa WINTER** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_A.png?format=png",
+    "theme": "Savage",
+    "inv": "<:A_LOGO:1089020306556989592> Savage"
+    
+    }
+    ],
+ 
+    "AESV_WT_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **aespa WINTER** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_S.png?format=png",
+    "theme": "Savage",
+    "inv": "<:S_LOGO:1089020304254316624> Savage"
+    
+    }
+    ],
+ 
+    "AESV_WT_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **aespa WINTER** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_R.png?format=png",
+    "theme": "Savage",
+    "inv": "<:R_LOGO:1089020300332630096> Savage"
+    
+    }
+    ],
+ 
+ "AESV_NN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **aespa NINGNING** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_C.png?format=png",
+    "theme": "Savage",
+    "inv": "<:C_LOGO:1089020314236764240> Savage"
+    
+    }
+    ],
+ 
+  "AESV_NN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **aespa NINGNING** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_B.png?format=png",
+    "theme": "Savage",
+    "inv": "<:B_LOGO:1089020310508015626> Savage"
+    
+    }
+    ],
+ 
+   "AESV_NN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **aespa NINGNING** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_A.png?format=png",
+    "theme": "Savage",
+    "inv": "<:A_LOGO:1089020306556989592> Savage"
+    
+    }
+    ],
+ 
+    "AESV_NN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **aespa NINGNING** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_S.png?format=png",
+    "theme": "Savage",
+    "inv": "<:S_LOGO:1089020304254316624> Savage"
+    
+    }
+    ],
+ 
+    "AESV_NN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **aespa NINGNING** Savage",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_R.png?format=png",
+    "theme": "Savage",
+    "inv": "<:R_LOGO:1089020300332630096> Savage"
+    
+    }
     ]
- 
- 
 }
