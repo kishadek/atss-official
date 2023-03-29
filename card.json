@@ -1904,5 +1904,206 @@
     "inv": "<:R_LOGO:1089020300332630096> Savage"
     
     }
+    ],
+ 
+ "BPSD_JN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_C.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+    
+    }
+    ],
+ 
+  "BPSD_JN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_B.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+    
+    }
+    ],
+ 
+   "BPSD_JN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_A.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_JN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_S.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_JN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_R.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+    
+    }
+    ],
+ 
+ "BPSD_JS_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_C.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+    
+    }
+    ],
+ 
+  "BPSD_JS_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_B.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+    
+    }
+    ],
+ 
+   "BPSD_JS_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_A.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_JS_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_S.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_JS_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_R.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+    
+    }
+    ],
+ 
+ "BPSD_RS_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_C.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+    
+    }
+    ],
+ 
+  "BPSD_RS_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_B.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+    
+    }
+    ],
+ 
+   "BPSD_RS_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_A.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_RS_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_S.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_RS_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_R.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+    
+    }
+    ],
+ 
+ "BPSD_LS_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_C.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+    
+    }
+    ],
+ 
+  "BPSD_LS_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_B.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+    
+    }
+    ],
+ 
+   "BPSD_LS_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_A.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_LS_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_S.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+    
+    }
+    ],
+ 
+    "BPSD_LS_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** Shut Down",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_R.png?format=png",
+    "theme": "Shut Down",
+    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+    
+    }
     ]
+ 
 }
