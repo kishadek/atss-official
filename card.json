@@ -2104,6 +2104,256 @@
     "inv": "<:R_LOGO:1089020300332630096> Shut Down"
     
     }
+    ],
+ 
+ "LSAF_SK_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_C.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+  "LSAF_SK_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_B.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+   "LSAF_SK_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_A.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_SK_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_S.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_SK_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_R.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+ "LSAF_CW_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_C.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+  "LSAF_CW_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_B.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+   "LSAF_CW_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_A.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_CW_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_S.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_CW_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_R.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+ "LSAF_HY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_C.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+  "LSAF_HY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_B.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+   "LSAF_HY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_A.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_HY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_S.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_HY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_R.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+ "LSAF_KZ_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_C.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+  "LSAF_KZ_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_B.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+   "LSAF_KZ_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_A.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_KZ_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_S.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_KZ_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_R.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+ "LSAF_EC_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_C.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+  "LSAF_EC_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_B.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+   "LSAF_EC_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_A.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_EC_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_S.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+    
+    }
+    ],
+ 
+    "LSAF_EC_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_R.png?format=png",
+    "theme": "ANTIFRAGILE",
+    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+    
+    }
     ]
  
 }
