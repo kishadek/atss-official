@@ -1,2559 +1,2082 @@
 {
- 
- "IVAL_AY_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **IVE ANYUJIN** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/AY.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:C_LOGO:1089020314236764240> After LIKE"
-    
-    }
+    "IVAL_AY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE ANYUJIN** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/AY.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:C_LOGO:1089020314236764240> After LIKE"
+        }
     ],
- 
-  "IVAL_AY_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **IVE ANYUJIN** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/AY.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:B_LOGO:1089020310508015626> After LIKE"
-    
-    }
+    "IVAL_AY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE ANYUJIN** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/AY.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:B_LOGO:1089020310508015626> After LIKE"
+        }
     ],
- 
-   "IVAL_AY_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **IVE ANYUJIN** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/AY.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:A_LOGO:1089020306556989592> After LIKE"
-    
-    }
+    "IVAL_AY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **IVE ANYUJIN** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/AY.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:A_LOGO:1089020306556989592> After LIKE"
+        }
     ],
- 
     "IVAL_AY_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **IVE ANYUJIN** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/AY.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:S_LOGO:1089020304254316624> After LIKE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE ANYUJIN** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/AY.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:S_LOGO:1089020304254316624> After LIKE"
+        }
     ],
- 
     "IVAL_AY_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **IVE ANYUJIN** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/AY.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:R_LOGO:1089020300332630096> After LIKE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE ANYUJIN** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/AY.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:R_LOGO:1089020300332630096> After LIKE"
+        }
     ],
- 
- 
- "IVAL_JW_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **IVE JANGWONYOUNG** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/JW.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:C_LOGO:1089020314236764240> After LIKE"
-    
-    }
+    "IVAL_JW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE JANGWONYOUNG** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/JW.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:C_LOGO:1089020314236764240> After LIKE"
+        }
     ],
- 
-  "IVAL_JW_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **IVE JANGWONYOUNG** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/JW.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:B_LOGO:1089020310508015626> After LIKE"
-    
-    }
+    "IVAL_JW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE JANGWONYOUNG** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/JW.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:B_LOGO:1089020310508015626> After LIKE"
+        }
     ],
- 
-   "IVAL_JW_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **IVE JANGWONYOUNG** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/JW.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:A_LOGO:1089020306556989592> After LIKE"
-    
-    }
+    "IVAL_JW_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE JANGWONYOUNG** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/JW.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:A_LOGO:1089020306556989592> After LIKE"
+        }
     ],
- 
     "IVAL_JW_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **IVE JANGWONYOUNG** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/JW.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:S_LOGO:1089020304254316624> After LIKE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE JANGWONYOUNG** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/JW.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:S_LOGO:1089020304254316624> After LIKE"
+        }
     ],
- 
     "IVAL_JW_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **IVE JANGWONYOUNG** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/JW.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:R_LOGO:1089020300332630096> After LIKE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE JANGWONYOUNG** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/JW.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:R_LOGO:1089020300332630096> After LIKE"
+        }
     ],
- 
- "IVAL_LI_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **IVE LIZ** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/LI.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:C_LOGO:1089020314236764240> After LIKE"
-    
-    }
+    "IVAL_LI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE LIZ** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/LI.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:C_LOGO:1089020314236764240> After LIKE"
+        }
     ],
- 
-  "IVAL_LI_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **IVE LIZ** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/LI.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:B_LOGO:1089020310508015626> After LIKE"
-    
-    }
+    "IVAL_LI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE LIZ** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/LI.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:B_LOGO:1089020310508015626> After LIKE"
+        }
     ],
- 
-   "IVAL_LI_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **IVE LIZ** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/LI.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:A_LOGO:1089020306556989592> After LIKE"
-    
-    }
+    "IVAL_LI_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE LIZ** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/LI.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:A_LOGO:1089020306556989592> After LIKE"
+        }
     ],
- 
     "IVAL_LI_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **IVE LIZ** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/LI.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:S_LOGO:1089020304254316624> After LIKE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE LIZ** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/LI.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:S_LOGO:1089020304254316624> After LIKE"
+        }
     ],
- 
     "IVAL_LI_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **IVE LIZ** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/LI.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:R_LOGO:1089020300332630096> After LIKE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE LIZ** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/LI.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:R_LOGO:1089020300332630096> After LIKE"
+        }
     ],
- 
- "IVAL_LS_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **IVE LEESEO** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/LS.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:C_LOGO:1089020314236764240> After LIKE"
-    
-    }
+    "IVAL_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE LEESEO** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/LS.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:C_LOGO:1089020314236764240> After LIKE"
+        }
     ],
- 
-  "IVAL_LS_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **IVE LEESEO** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/LS.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:B_LOGO:1089020310508015626> After LIKE"
-    
-    }
+    "IVAL_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE LEESEO** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/LS.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:B_LOGO:1089020310508015626> After LIKE"
+        }
     ],
- 
-   "IVAL_LS_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **IVE LEESEO** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/LS.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:A_LOGO:1089020306556989592> After LIKE"
-    
-    }
+    "IVAL_LS_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE LEESEO** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/LS.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:A_LOGO:1089020306556989592> After LIKE"
+        }
     ],
- 
     "IVAL_LS_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **IVE LEESEO** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/LS.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:S_LOGO:1089020304254316624> After LIKE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE LEESEO** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/LS.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:S_LOGO:1089020304254316624> After LIKE"
+        }
     ],
- 
     "IVAL_LS_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **IVE LEESEO** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/LS.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:R_LOGO:1089020300332630096> After LIKE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE LEESEO** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/LS.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:R_LOGO:1089020300332630096> After LIKE"
+        }
     ],
- 
- "IVAL_RE_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **IVE REI** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/RE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:C_LOGO:1089020314236764240> After LIKE"
-    
-    }
+    "IVAL_RE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE REI** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/RE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:C_LOGO:1089020314236764240> After LIKE"
+        }
     ],
- 
-  "IVAL_RE_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **IVE REI** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/RE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:B_LOGO:1089020310508015626> After LIKE"
-    
-    }
+    "IVAL_RE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE REI** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/RE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:B_LOGO:1089020310508015626> After LIKE"
+        }
     ],
- 
-   "IVAL_RE_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **IVE REI** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/RE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:A_LOGO:1089020306556989592> After LIKE"
-    
-    }
+    "IVAL_RE_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE REI** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/RE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:A_LOGO:1089020306556989592> After LIKE"
+        }
     ],
- 
     "IVAL_RE_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **IVE REI** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/RE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:S_LOGO:1089020304254316624> After LIKE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE REI** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/RE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:S_LOGO:1089020304254316624> After LIKE"
+        }
     ],
- 
     "IVAL_RE_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **IVE REI** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/RE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:R_LOGO:1089020300332630096> After LIKE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE REI** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/RE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:R_LOGO:1089020300332630096> After LIKE"
+        }
     ],
- 
- "IVAL_GE_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **IVE GAEUL** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/GE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:C_LOGO:1089020314236764240> After LIKE"
-    
-    }
+    "IVAL_GE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE GAEUL** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/C/GE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:C_LOGO:1089020314236764240> After LIKE"
+        }
     ],
- 
-  "IVAL_GE_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **IVE GAEUL** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/GE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:B_LOGO:1089020310508015626> After LIKE"
-    
-    }
+    "IVAL_GE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE GAEUL** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/B/GE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:B_LOGO:1089020310508015626> After LIKE"
+        }
     ],
- 
-   "IVAL_GE_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **IVE GAEUL** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/GE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:A_LOGO:1089020306556989592> After LIKE"
-    
-    }
+    "IVAL_GE_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE GAEUL** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/A/GE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:A_LOGO:1089020306556989592> After LIKE"
+        }
     ],
- 
     "IVAL_GE_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **IVE GAEUL** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/GE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:S_LOGO:1089020304254316624> After LIKE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE GAEUL** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/S/GE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:S_LOGO:1089020304254316624> After LIKE"
+        }
     ],
- 
     "IVAL_GE_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **IVE GAEUL** After LIKE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/GE.png?format=png",
-    "theme": "After LIKE",
-    "inv": "<:R_LOGO:1089020300332630096> After LIKE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE GAEUL** After LIKE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/al/R/GE.png?format=png",
+            "theme": "After LIKE",
+            "inv": "<:R_LOGO:1089020300332630096> After LIKE"
+        }
     ],
- 
- "RVBE_IN_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **Red Velvet IRENE** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/IN.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:C_LOGO:1089020314236764240> Better Be"
-    
-    }
+    "RVBE_IN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet IRENE** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/IN.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:C_LOGO:1089020314236764240> Better Be"
+        }
     ],
- 
-  "RVBE_IN_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **Red Velvet IRENE** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/IN.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:B_LOGO:1089020310508015626> Better Be"
-    
-    }
+    "RVBE_IN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet IRENE** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/IN.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:B_LOGO:1089020310508015626> Better Be"
+        }
     ],
- 
-   "RVBE_IN_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **Red Velvet IRENE** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/IN.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:A_LOGO:1089020306556989592> Better Be"
-    
-    }
+    "RVBE_IN_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet IRENE** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/IN.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:A_LOGO:1089020306556989592> Better Be"
+        }
     ],
- 
     "RVBE_IN_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **Red Velvet IRENE** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/IN.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:S_LOGO:1089020304254316624> Better Be"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet IRENE** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/IN.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:S_LOGO:1089020304254316624> Better Be"
+        }
     ],
- 
     "RVBE_IN_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **Red Velvet IRENE** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/IN.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:R_LOGO:1089020300332630096> Better Be"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet IRENE** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/IN.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:R_LOGO:1089020300332630096> Better Be"
+        }
     ],
- 
- "RVBE_SG_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **Red Velvet SEULGI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/SG.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:C_LOGO:1089020314236764240> Better Be"
-    
-    }
+    "RVBE_SG_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet SEULGI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/SG.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:C_LOGO:1089020314236764240> Better Be"
+        }
     ],
- 
-  "RVBE_SG_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **Red Velvet SEULGI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/SG.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:B_LOGO:1089020310508015626> Better Be"
-    
-    }
+    "RVBE_SG_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet SEULGI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/SG.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:B_LOGO:1089020310508015626> Better Be"
+        }
     ],
- 
-   "RVBE_SG_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **Red Velvet SEULGI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/SG.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:A_LOGO:1089020306556989592> Better Be"
-    
-    }
+    "RVBE_SG_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet SEULGI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/SG.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:A_LOGO:1089020306556989592> Better Be"
+        }
     ],
- 
     "RVBE_SG_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **Red Velvet SEULGI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/SG.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:S_LOGO:1089020304254316624> Better Be"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet SEULGI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/SG.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:S_LOGO:1089020304254316624> Better Be"
+        }
     ],
- 
     "RVBE_SG_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **Red Velvet SEULGI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/SG.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:R_LOGO:1089020300332630096> Better Be"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet SEULGI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/SG.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:R_LOGO:1089020300332630096> Better Be"
+        }
     ],
- 
- "RVBE_WD_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **Red Velvet WENDY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/WD.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:C_LOGO:1089020314236764240> Better Be"
-    
-    }
+    "RVBE_WD_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet WENDY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/WD.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:C_LOGO:1089020314236764240> Better Be"
+        }
     ],
- 
-  "RVBE_WD_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **Red Velvet WENDY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/WD.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:B_LOGO:1089020310508015626> Better Be"
-    
-    }
+    "RVBE_WD_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet WENDY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/WD.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:B_LOGO:1089020310508015626> Better Be"
+        }
     ],
- 
-   "RVBE_WD_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **Red Velvet WENDY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/WD.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:A_LOGO:1089020306556989592> Better Be"
-    
-    }
+    "RVBE_WD_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet WENDY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/WD.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:A_LOGO:1089020306556989592> Better Be"
+        }
     ],
- 
     "RVBE_WD_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **Red Velvet WENDY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/WD.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:S_LOGO:1089020304254316624> Better Be"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet WENDY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/WD.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:S_LOGO:1089020304254316624> Better Be"
+        }
     ],
- 
     "RVBE_WD_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **Red Velvet WENDY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/WD.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:R_LOGO:1089020300332630096> Better Be"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet WENDY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/WD.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:R_LOGO:1089020300332630096> Better Be"
+        }
     ],
- 
- "RVBE_JO_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **Red Velvet JOY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/JO.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:C_LOGO:1089020314236764240> Better Be"
-    
-    }
+    "RVBE_JO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet JOY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/JO.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:C_LOGO:1089020314236764240> Better Be"
+        }
     ],
- 
-  "RVBE_JO_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **Red Velvet JOY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/JO.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:B_LOGO:1089020310508015626> Better Be"
-    
-    }
+    "RVBE_JO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet JOY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/JO.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:B_LOGO:1089020310508015626> Better Be"
+        }
     ],
- 
-   "RVBE_JO_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **Red Velvet JOY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/JO.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:A_LOGO:1089020306556989592> Better Be"
-    
-    }
+    "RVBE_JO_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet JOY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/JO.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:A_LOGO:1089020306556989592> Better Be"
+        }
     ],
- 
     "RVBE_JO_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **Red Velvet JOY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/JO.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:S_LOGO:1089020304254316624> Better Be"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet JOY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/JO.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:S_LOGO:1089020304254316624> Better Be"
+        }
     ],
- 
     "RVBE_JO_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **Red Velvet JOY** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/JO.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:R_LOGO:1089020300332630096> Better Be"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet JOY** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/JO.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:R_LOGO:1089020300332630096> Better Be"
+        }
     ],
- 
- "RVBE_YR_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **Red Velvet YERI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/YR.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:C_LOGO:1089020314236764240> Better Be"
-    
-    }
+    "RVBE_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet YERI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/C/YR.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:C_LOGO:1089020314236764240> Better Be"
+        }
     ],
- 
-  "RVBE_YR_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **Red Velvet YERI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/YR.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:B_LOGO:1089020310508015626> Better Be"
-    
-    }
+    "RVBE_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet YERI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/B/YR.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:B_LOGO:1089020310508015626> Better Be"
+        }
     ],
- 
-   "RVBE_YR_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **Red Velvet YERI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/YR.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:A_LOGO:1089020306556989592> Better Be"
-    
-    }
+    "RVBE_YR_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet YERI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/A/YR.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:A_LOGO:1089020306556989592> Better Be"
+        }
     ],
- 
     "RVBE_YR_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **Red Velvet YERI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/YR.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:S_LOGO:1089020304254316624> Better Be"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet YERI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/S/YR.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:S_LOGO:1089020304254316624> Better Be"
+        }
     ],
- 
     "RVBE_YR_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **Red Velvet YERI** Better Be",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/YR.png?format=png",
-    "theme": "Better Be",
-    "inv": "<:R_LOGO:1089020300332630096> Better Be"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet YERI** Better Be",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/bb/R/YR.png?format=png",
+            "theme": "Better Be",
+            "inv": "<:R_LOGO:1089020300332630096> Better Be"
+        }
     ],
- 
-
-
- "SCTB_SM_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **STAYC Sumin** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/SM.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
-
-    }
+    "SCTB_SM_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sumin** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/SM.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
+        }
     ],
-
- 
-
-  "SCTB_SM_B": [
-
-    {
-
-    "name": "<:B_LOGO:1089020310508015626> **STAYC Sumin** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/SM.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
-}
-],
-
- 
-
-   "SCTB_SM_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **STAYC Sumin** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/SM.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
-    
-    }
+    "SCTB_SM_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sumin** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/SM.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
+        }
     ],
-
+    "SCTB_SM_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sumin** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/SM.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
+        }
+    ],
     "SCTB_SM_S": [
-
-    {
-    "name": "<:S_LOGO:1089020304254316624> **STAYC Sumin** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/SM.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sumin** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/SM.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
+        }
     ],
-
     "SCTB_SM_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **STAYC Sumin** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/SM.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sumin** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/SM.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
+        }
     ],
- 
- "SCTB_SI_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **STAYC Sieun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/SI.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
-
-    }
+    "SCTB_SI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sieun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/SI.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
+        }
     ],
-
- 
-
-  "SCTB_SI_B": [
-
-    {
-
-    "name": "<:B_LOGO:1089020310508015626> **STAYC Sieun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/SI.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
-}
-],
-
- 
-
-   "SCTB_SI_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **STAYC Sieun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/SI.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
-    
-    }
+    "SCTB_SI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sieun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/SI.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
+        }
     ],
-
+    "SCTB_SI_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sieun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/SI.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
+        }
+    ],
     "SCTB_SI_S": [
-
-    {
-    "name": "<:S_LOGO:1089020304254316624> **STAYC Sieun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/SI.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sieun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/SI.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
+        }
     ],
-
     "SCTB_SI_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **STAYC Sieun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/SI.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sieun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/SI.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
+        }
     ],
- 
- "SCTB_IS_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **STAYC Isa** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/IS.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
-
-    }
+    "SCTB_IS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Isa** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/IS.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
+        }
     ],
-
- 
-
-  "SCTB_IS_B": [
-
-    {
-
-    "name": "<:B_LOGO:1089020310508015626> **STAYC Isa** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/IS.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
-}
-],
-
- 
-
-   "SCTB_IS_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **STAYC Isa** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/IS.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
-    
-    }
+    "SCTB_IS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Isa** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/IS.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
+        }
     ],
-
+    "SCTB_IS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Isa** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/IS.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
+        }
+    ],
     "SCTB_IS_S": [
-
-    {
-    "name": "<:S_LOGO:1089020304254316624> **STAYC Isa** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/IS.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Isa** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/IS.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
+        }
     ],
-
     "SCTB_IS_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **STAYC Isa** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/IS.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Isa** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/IS.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
+        }
     ],
- 
- "SCTB_SE_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **STAYC Seeun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/SE.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
-
-    }
+    "SCTB_SE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Seeun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/SE.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
+        }
     ],
-
- 
-
-  "SCTB_SE_B": [
-
-    {
-
-    "name": "<:B_LOGO:1089020310508015626> **STAYC Seeun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/SE.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
-}
-],
-
- 
-
-   "SCTB_SE_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **STAYC Seeun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/SE.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
-    
-    }
+    "SCTB_SE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Seeun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/SE.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
+        }
     ],
-
+    "SCTB_SE_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Seeun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/SE.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
+        }
+    ],
     "SCTB_SE_S": [
-
-    {
-    "name": "<:S_LOGO:1089020304254316624> **STAYC Seeun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/SE.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Seeun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/SE.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
+        }
     ],
-
     "SCTB_SE_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **STAYC Seeun** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/SE.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Seeun** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/SE.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
+        }
     ],
- 
- "SCTB_YO_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **STAYC Yoon** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/YO.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
-
-    }
+    "SCTB_YO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Yoon** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/YO.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
+        }
     ],
-
- 
-
-  "SCTB_YO_B": [
-
-    {
-
-    "name": "<:B_LOGO:1089020310508015626> **STAYC Yoon** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/YO.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
-}
-],
-
- 
-
-   "SCTB_YO_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **STAYC Yoon** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/YO.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
-    
-    }
+    "SCTB_YO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Yoon** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/YO.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
+        }
     ],
-
+    "SCTB_YO_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Yoon** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/YO.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
+        }
+    ],
     "SCTB_YO_S": [
-
-    {
-    "name": "<:S_LOGO:1089020304254316624> **STAYC Yoon** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/YO.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Yoon** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/YO.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
+        }
     ],
-
     "SCTB_YO_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **STAYC Yoon** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/YO.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Yoon** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/YO.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
+        }
     ],
- 
- "SCTB_J_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **STAYC J** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/J.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
-
-    }
+    "SCTB_J_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC J** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/C/J.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:C_LOGO:1089020314236764240> Teddy Bear"
+        }
     ],
-
- 
-
-  "SCTB_J_B": [
-
-    {
-
-    "name": "<:B_LOGO:1089020310508015626> **STAYC J** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/J.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
-}
-],
-
- 
-
-   "SCTB_J_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **STAYC J** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/J.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
-    
-    }
+    "SCTB_J_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC J** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/B/J.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:B_LOGO:1089020310508015626> Teddy Bear"
+        }
     ],
-
+    "SCTB_J_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC J** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/A/J.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:A_LOGO:1089020306556989592> Teddy Bear"
+        }
+    ],
     "SCTB_J_S": [
-
-    {
-    "name": "<:S_LOGO:1089020304254316624> **STAYC J** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/J.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC J** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/S/J.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:S_LOGO:1089020304254316624> Teddy Bear"
+        }
     ],
-
     "SCTB_J_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **STAYC J** Teddy Bear",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/J.png?format=png",
-    "theme": "Teddy Bear",
-    "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC J** Teddy Bear",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/tdbr/R/J.png?format=png",
+            "theme": "Teddy Bear",
+            "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
+        }
     ],
- 
- "TYIN_V_C": [
+    "TYIN_V_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Vocal** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/5.png?format=png",
-         "theme": "INVU",
-         "inv": "<:C_LOGO:1089020314236764240> INVU"
-            
+            "theme": "INVU",
+            "inv": "<:C_LOGO:1089020314236764240> INVU"
         }
     ],
     "TYIN_V_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **TAEYEON Vocal** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/4.png?format=png",
-         "theme": "INVU",
-         "inv": "<:B_LOGO:1089020310508015626> INVU"
-         
+            "theme": "INVU",
+            "inv": "<:B_LOGO:1089020310508015626> INVU"
         }
     ],
     "TYIN_V_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **TAEYEON Vocal** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/3.png?format=png",
-         "theme": "INVU",
-         "inv": "<:A_LOGO:1089020306556989592> INVU"
+            "theme": "INVU",
+            "inv": "<:A_LOGO:1089020306556989592> INVU"
         }
     ],
     "TYIN_V_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **TAEYEON Vocal** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/2.png?format=png",
-         "theme": "INVU",
-         "inv": "<:S_LOGO:1089020304254316624> INVU"
+            "theme": "INVU",
+            "inv": "<:S_LOGO:1089020304254316624> INVU"
         }
     ],
-    
     "TYIN_V_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **TAEYEON Vocal** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/1.png?format=png",
-         "theme": "INVU",
-         "inv": "<:R_LOGO:1089020300332630096> INVU"
+            "theme": "INVU",
+            "inv": "<:R_LOGO:1089020300332630096> INVU"
         }
     ],
- 
- "TYIN_D_C": [
+    "TYIN_D_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Dance** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/10..png?format=png",
-         "theme": "INVU",
-         "inv": "<:C_LOGO:1089020314236764240> INVU"
-            
+            "theme": "INVU",
+            "inv": "<:C_LOGO:1089020314236764240> INVU"
         }
     ],
     "TYIN_D_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **TAEYEON Dance** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/9.png?format=png",
-         "theme": "INVU",
-         "inv": "<:B_LOGO:1089020310508015626> INVU"
-         
+            "theme": "INVU",
+            "inv": "<:B_LOGO:1089020310508015626> INVU"
         }
     ],
     "TYIN_D_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **TAEYEON Dance** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/8.png?format=png",
-         "theme": "INVU",
-         "inv": "<:A_LOGO:1089020306556989592> INVU"
+            "theme": "INVU",
+            "inv": "<:A_LOGO:1089020306556989592> INVU"
         }
     ],
     "TYIN_D_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **TAEYEON Dance** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/7.png?format=png",
-         "theme": "INVU",
-         "inv": "<:S_LOGO:1089020304254316624> INVU"
+            "theme": "INVU",
+            "inv": "<:S_LOGO:1089020304254316624> INVU"
         }
     ],
-    
     "TYIN_D_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **TAEYEON Dance** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/6.png?format=png",
-         "theme": "INVU",
-         "inv": "<:R_LOGO:1089020300332630096> INVU"
+            "theme": "INVU",
+            "inv": "<:R_LOGO:1089020300332630096> INVU"
         }
     ],
- 
- "TYIN_R_C": [
+    "TYIN_R_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Rhythm** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/15.png?format=png",
-         "theme": "INVU",
-         "inv": "<:C_LOGO:1089020314236764240> INVU"
-            
+            "theme": "INVU",
+            "inv": "<:C_LOGO:1089020314236764240> INVU"
         }
     ],
     "TYIN_R_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **TAEYEON Rhythm** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/14.png?format=png",
-         "theme": "INVU",
-         "inv": "<:B_LOGO:1089020310508015626> INVU"
-         
+            "theme": "INVU",
+            "inv": "<:B_LOGO:1089020310508015626> INVU"
         }
     ],
     "TYIN_R_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **TAEYEON Rhythm** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/13.png?format=png",
-         "theme": "INVU",
-         "inv": "<:A_LOGO:1089020306556989592> INVU"
+            "theme": "INVU",
+            "inv": "<:A_LOGO:1089020306556989592> INVU"
         }
     ],
     "TYIN_R_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **TAEYEON Rhythm** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/12.png?format=png",
-         "theme": "INVU",
-         "inv": "<:S_LOGO:1089020304254316624> INVU"
+            "theme": "INVU",
+            "inv": "<:S_LOGO:1089020304254316624> INVU"
         }
     ],
-    
     "TYIN_R_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **TAEYEON Rhythm** INVU",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/11.png?format=png",
-         "theme": "INVU",
-         "inv": "<:R_LOGO:1089020300332630096> INVU"
+            "theme": "INVU",
+            "inv": "<:R_LOGO:1089020300332630096> INVU"
         }
     ],
- 
- "WPSC_V_C": [
+    "WPSC_V_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Vocal** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/5.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:C_LOGO:1089020314236764240> Sincerity"
-            
+            "theme": "Sincerity",
+            "inv": "<:C_LOGO:1089020314236764240> Sincerity"
         }
     ],
     "WPSC_V_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Vocal** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/4.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:B_LOGO:1089020310508015626> Sincerity"
-         
+            "theme": "Sincerity",
+            "inv": "<:B_LOGO:1089020310508015626> Sincerity"
         }
     ],
     "WPSC_V_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Vocal** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/3.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:A_LOGO:1089020306556989592> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:A_LOGO:1089020306556989592> Sincerity"
         }
     ],
     "WPSC_V_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Vocal** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/2.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:S_LOGO:1089020304254316624> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:S_LOGO:1089020304254316624> Sincerity"
         }
     ],
-    
     "WPSC_V_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Vocal** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/1.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:R_LOGO:1089020300332630096> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:R_LOGO:1089020300332630096> Sincerity"
         }
     ],
- 
- "WPSC_D_C": [
+    "WPSC_D_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Dance** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/10.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:C_LOGO:1089020314236764240> Sincerity"
-            
+            "theme": "Sincerity",
+            "inv": "<:C_LOGO:1089020314236764240> Sincerity"
         }
     ],
     "WPSC_D_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Dance** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/9.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:B_LOGO:1089020310508015626> Sincerity"
-         
+            "theme": "Sincerity",
+            "inv": "<:B_LOGO:1089020310508015626> Sincerity"
         }
     ],
     "WPSC_D_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Dance** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/8.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:A_LOGO:1089020306556989592> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:A_LOGO:1089020306556989592> Sincerity"
         }
     ],
     "WPSC_D_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Dance** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/7.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:S_LOGO:1089020304254316624> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:S_LOGO:1089020304254316624> Sincerity"
         }
     ],
-    
     "WPSC_D_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Dance** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/6.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:R_LOGO:1089020300332630096> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:R_LOGO:1089020300332630096> Sincerity"
         }
     ],
- 
- "WPSC_R_C": [
+    "WPSC_R_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Rhythm** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/15.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:C_LOGO:1089020314236764240> Sincerity"
-            
+            "theme": "Sincerity",
+            "inv": "<:C_LOGO:1089020314236764240> Sincerity"
         }
     ],
     "WPSC_R_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Rhythm** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/14.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:B_LOGO:1089020310508015626> Sincerity"
-         
+            "theme": "Sincerity",
+            "inv": "<:B_LOGO:1089020310508015626> Sincerity"
         }
     ],
     "WPSC_R_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Rhythm** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/13.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:A_LOGO:1089020306556989592> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:A_LOGO:1089020306556989592> Sincerity"
         }
     ],
     "WPSC_R_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Rhythm** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/12.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:S_LOGO:1089020304254316624> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:S_LOGO:1089020304254316624> Sincerity"
         }
     ],
-    
     "WPSC_R_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Rhythm** Sincerity",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/day6/wonpil/scrt/11.png?format=png",
-         "theme": "Sincerity",
-         "inv": "<:R_LOGO:1089020300332630096> Sincerity"
+            "theme": "Sincerity",
+            "inv": "<:R_LOGO:1089020300332630096> Sincerity"
         }
     ],
- 
- "NMLM_HW_C": [
+    "NMLM_HW_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **NMIXX HAEWON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_C.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
-            
+            "theme": "Love Me Like This",
+            "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
         }
     ],
     "NMLM_HW_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **NMIXX HAEWON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_B.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
-         
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
         }
     ],
     "NMLM_HW_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **NMIXX HAEWON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_A.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
         }
     ],
     "NMLM_HW_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **NMIXX HAEWON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_S.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
         }
     ],
-    
     "NMLM_HW_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **NMIXX HAEWON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/HW_R.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
         }
     ],
- 
- "NMLM_LI_C": [
+    "NMLM_LI_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **NMIXX LILY** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_C.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
-            
+            "theme": "Love Me Like This",
+            "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
         }
     ],
     "NMLM_LI_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **NMIXX LILY** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_B.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
-         
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
         }
     ],
     "NMLM_LI_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **NMIXX LILY** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_A.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
         }
     ],
     "NMLM_LI_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **NMIXX LILY** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_S.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
         }
     ],
-    
     "NMLM_LI_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **NMIXX LILY** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/LI_R.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
         }
     ],
- 
- "NMLM_SY_C": [
+    "NMLM_SY_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **NMIXX SULLYOON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_C.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
-            
+            "theme": "Love Me Like This",
+            "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
         }
     ],
     "NMLM_SY_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **NMIXX SULLYOON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_B.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
-         
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
         }
     ],
     "NMLM_SY_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **NMIXX SULLYOON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_A.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
         }
     ],
     "NMLM_SY_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **NMIXX SULLYOON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_S.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
         }
     ],
-    
     "NMLM_SY_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **NMIXX SULLYOON** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/SY_R.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
         }
     ],
- 
- "NMLM_BA_C": [
+    "NMLM_BA_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **NMIXX BAE** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_C.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
-            
+            "theme": "Love Me Like This",
+            "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
         }
     ],
     "NMLM_BA_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **NMIXX BAE** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_B.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
-         
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
         }
     ],
     "NMLM_BA_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **NMIXX BAE** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_A.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
         }
     ],
     "NMLM_BA_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **NMIXX BAE** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_S.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
         }
     ],
-    
     "NMLM_BA_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **NMIXX BAE** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/BA_R.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
         }
     ],
- 
- "NMLM_JW_C": [
+    "NMLM_JW_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **NMIXX JIWOO** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_C.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
-            
+            "theme": "Love Me Like This",
+            "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
         }
     ],
     "NMLM_JW_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **NMIXX JIWOO** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_B.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
-         
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
         }
     ],
     "NMLM_JW_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **NMIXX JIWOO** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_A.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
         }
     ],
     "NMLM_JW_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **NMIXX JIWOO** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_S.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
         }
     ],
-    
     "NMLM_JW_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **NMIXX JIWOO** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/JW_R.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
         }
     ],
- 
- "NMLM_KJ_C": [
+    "NMLM_KJ_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **NMIXX KYUJIN** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_C.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
-            
+            "theme": "Love Me Like This",
+            "inv": "<:C_LOGO:1089020314236764240> Love Me Like This"
         }
     ],
     "NMLM_KJ_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **NMIXX KYUJIN** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_B.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
-         
+            "theme": "Love Me Like This",
+            "inv": "<:B_LOGO:1089020310508015626> Love Me Like This"
         }
     ],
     "NMLM_KJ_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **NMIXX KYUJIN** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_A.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:A_LOGO:1089020306556989592> Love Me Like This"
         }
     ],
     "NMLM_KJ_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **NMIXX KYUJIN** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_S.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:S_LOGO:1089020304254316624> Love Me Like This"
         }
     ],
-    
     "NMLM_KJ_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **NMIXX KYUJIN** Love Me Like This",
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nmixx/lmlt/KJ_R.png?format=png",
-         "theme": "Love Me Like This",
-         "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
+            "theme": "Love Me Like This",
+            "inv": "<:R_LOGO:1089020300332630096> Love Me Like This"
         }
     ],
- 
-"NJOM_MJ_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **NewJeans MINJI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_MJ.png?format=png",
-    "theme": "OMG",
-    "inv": "<:C_LOGO:1089020314236764240> OMG"
-    
-    }
+    "NJOM_MJ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans MINJI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_MJ.png?format=png",
+            "theme": "OMG",
+            "inv": "<:C_LOGO:1089020314236764240> OMG"
+        }
     ],
- 
-  "NJOM_MJ_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **NewJeans MINJI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_MJ.png?format=png",
-    "theme": "OMG",
-    "inv": "<:B_LOGO:1089020310508015626> OMG"
-    
-    }
+    "NJOM_MJ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans MINJI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_MJ.png?format=png",
+            "theme": "OMG",
+            "inv": "<:B_LOGO:1089020310508015626> OMG"
+        }
     ],
- 
-   "NJOM_MJ_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **NewJeans MINJI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_MJ.png?format=png",
-    "theme": "OMG",
-    "inv": "<:A_LOGO:1089020306556989592> OMG"
-    
-    }
+    "NJOM_MJ_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans MINJI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_MJ.png?format=png",
+            "theme": "OMG",
+            "inv": "<:A_LOGO:1089020306556989592> OMG"
+        }
     ],
- 
     "NJOM_MJ_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **NewJeans MINJI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_MJ.png?format=png",
-    "theme": "OMG",
-    "inv": "<:S_LOGO:1089020304254316624> OMG"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans MINJI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_MJ.png?format=png",
+            "theme": "OMG",
+            "inv": "<:S_LOGO:1089020304254316624> OMG"
+        }
     ],
- 
     "NJOM_MJ_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **NewJeans MINJI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_MJ.png?format=png",
-    "theme": "OMG",
-    "inv": "<:R_LOGO:1089020300332630096> OMG"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans MINJI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_MJ.png?format=png",
+            "theme": "OMG",
+            "inv": "<:R_LOGO:1089020300332630096> OMG"
+        }
     ],
- 
- "NJOM_HN_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **NewJeans HANNI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HN.png?format=png",
-    "theme": "OMG",
-    "inv": "<:C_LOGO:1089020314236764240> OMG"
-    
-    }
+    "NJOM_HN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans HANNI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HN.png?format=png",
+            "theme": "OMG",
+            "inv": "<:C_LOGO:1089020314236764240> OMG"
+        }
     ],
- 
-  "NJOM_HN_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **NewJeans HANNI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HN.png?format=png",
-    "theme": "OMG",
-    "inv": "<:B_LOGO:1089020310508015626> OMG"
-    
-    }
+    "NJOM_HN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans HANNI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HN.png?format=png",
+            "theme": "OMG",
+            "inv": "<:B_LOGO:1089020310508015626> OMG"
+        }
     ],
- 
-   "NJOM_HN_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **NewJeans HANNI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HN.png?format=png",
-    "theme": "OMG",
-    "inv": "<:A_LOGO:1089020306556989592> OMG"
-    
-    }
+    "NJOM_HN_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans HANNI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HN.png?format=png",
+            "theme": "OMG",
+            "inv": "<:A_LOGO:1089020306556989592> OMG"
+        }
     ],
- 
     "NJOM_HN_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **NewJeans HANNI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HN.png?format=png",
-    "theme": "OMG",
-    "inv": "<:S_LOGO:1089020304254316624> OMG"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans HANNI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HN.png?format=png",
+            "theme": "OMG",
+            "inv": "<:S_LOGO:1089020304254316624> OMG"
+        }
     ],
- 
     "NJOM_HN_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **NewJeans HANNI** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HN.png?format=png",
-    "theme": "OMG",
-    "inv": "<:R_LOGO:1089020300332630096> OMG"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans HANNI** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HN.png?format=png",
+            "theme": "OMG",
+            "inv": "<:R_LOGO:1089020300332630096> OMG"
+        }
     ],
- 
- "NJOM_DE_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **NewJeans DANIELLE** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_DE.png?format=png",
-    "theme": "OMG",
-    "inv": "<:C_LOGO:1089020314236764240> OMG"
-    
-    }
+    "NJOM_DE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans DANIELLE** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_DE.png?format=png",
+            "theme": "OMG",
+            "inv": "<:C_LOGO:1089020314236764240> OMG"
+        }
     ],
- 
-  "NJOM_DE_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **NewJeans DANIELLE** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_DE.png?format=png",
-    "theme": "OMG",
-    "inv": "<:B_LOGO:1089020310508015626> OMG"
-    
-    }
+    "NJOM_DE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans DANIELLE** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_DE.png?format=png",
+            "theme": "OMG",
+            "inv": "<:B_LOGO:1089020310508015626> OMG"
+        }
     ],
- 
-   "NJOM_DE_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **NewJeans DANIELLE** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_DE.png?format=png",
-    "theme": "OMG",
-    "inv": "<:A_LOGO:1089020306556989592> OMG"
-    
-    }
+    "NJOM_DE_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans DANIELLE** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_DE.png?format=png",
+            "theme": "OMG",
+            "inv": "<:A_LOGO:1089020306556989592> OMG"
+        }
     ],
- 
     "NJOM_DE_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **NewJeans DANIELLE** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_DE.png?format=png",
-    "theme": "OMG",
-    "inv": "<:S_LOGO:1089020304254316624> OMG"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans DANIELLE** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_DE.png?format=png",
+            "theme": "OMG",
+            "inv": "<:S_LOGO:1089020304254316624> OMG"
+        }
     ],
- 
     "NJOM_DE_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **NewJeans DANIELLE** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_DE.png?format=png",
-    "theme": "OMG",
-    "inv": "<:R_LOGO:1089020300332630096> OMG"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans DANIELLE** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_DE.png?format=png",
+            "theme": "OMG",
+            "inv": "<:R_LOGO:1089020300332630096> OMG"
+        }
     ],
- 
- "NJOM_HR_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **NewJeans HAERIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HR.png?format=png",
-    "theme": "OMG",
-    "inv": "<:C_LOGO:1089020314236764240> OMG"
-    
-    }
+    "NJOM_HR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans HAERIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HR.png?format=png",
+            "theme": "OMG",
+            "inv": "<:C_LOGO:1089020314236764240> OMG"
+        }
     ],
- 
-  "NJOM_HR_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **NewJeans HAERIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HR.png?format=png",
-    "theme": "OMG",
-    "inv": "<:B_LOGO:1089020310508015626> OMG"
-    
-    }
+    "NJOM_HR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans HAERIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HR.png?format=png",
+            "theme": "OMG",
+            "inv": "<:B_LOGO:1089020310508015626> OMG"
+        }
     ],
- 
-   "NJOM_HR_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **NewJeans HAERIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HR.png?format=png",
-    "theme": "OMG",
-    "inv": "<:A_LOGO:1089020306556989592> OMG"
-    
-    }
+    "NJOM_HR_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans HAERIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HR.png?format=png",
+            "theme": "OMG",
+            "inv": "<:A_LOGO:1089020306556989592> OMG"
+        }
     ],
- 
     "NJOM_HR_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **NewJeans HAERIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HR.png?format=png",
-    "theme": "OMG",
-    "inv": "<:S_LOGO:1089020304254316624> OMG"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans HAERIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HR.png?format=png",
+            "theme": "OMG",
+            "inv": "<:S_LOGO:1089020304254316624> OMG"
+        }
     ],
- 
     "NJOM_HR_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **NewJeans HAERIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HR.png?format=png",
-    "theme": "OMG",
-    "inv": "<:R_LOGO:1089020300332630096> OMG"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans HAERIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HR.png?format=png",
+            "theme": "OMG",
+            "inv": "<:R_LOGO:1089020300332630096> OMG"
+        }
     ],
- 
- "NJOM_HY_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **NewJeans HYEIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HY.png?format=png",
-    "theme": "OMG",
-    "inv": "<:C_LOGO:1089020314236764240> OMG"
-    
-    }
+    "NJOM_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans HYEIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/C_HY.png?format=png",
+            "theme": "OMG",
+            "inv": "<:C_LOGO:1089020314236764240> OMG"
+        }
     ],
- 
-  "NJOM_HY_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **NewJeans HYEIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HY.png?format=png",
-    "theme": "OMG",
-    "inv": "<:B_LOGO:1089020310508015626> OMG"
-    
-    }
+    "NJOM_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans HYEIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/B_HY.png?format=png",
+            "theme": "OMG",
+            "inv": "<:B_LOGO:1089020310508015626> OMG"
+        }
     ],
- 
-   "NJOM_HY_A": [
-    {
-    "name": " <:A_LOGO:1089020306556989592> **NewJeans HYEIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HY.png?format=png",
-    "theme": "OMG",
-    "inv": "<:A_LOGO:1089020306556989592> OMG"
-    
-    }
+    "NJOM_HY_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans HYEIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/A_HY.png?format=png",
+            "theme": "OMG",
+            "inv": "<:A_LOGO:1089020306556989592> OMG"
+        }
     ],
- 
     "NJOM_HY_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **NewJeans HYEIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HY.png?format=png",
-    "theme": "OMG",
-    "inv": "<:S_LOGO:1089020304254316624> OMG"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans HYEIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/S_HY.png?format=png",
+            "theme": "OMG",
+            "inv": "<:S_LOGO:1089020304254316624> OMG"
+        }
     ],
- 
     "NJOM_HY_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **NewJeans HYEIN** OMG",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HY.png?format=png",
-    "theme": "OMG",
-    "inv": "<:R_LOGO:1089020300332630096> OMG"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans HYEIN** OMG",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/omg/R_HY.png?format=png",
+            "theme": "OMG",
+            "inv": "<:R_LOGO:1089020300332630096> OMG"
+        }
     ],
- 
- "AESV_AY_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_C.png?format=png",
-    "theme": "Savage",
-    "inv": "<:C_LOGO:1089020314236764240> Savage"
-    
-    }
+    "AESV_AY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_C.png?format=png",
+            "theme": "Savage",
+            "inv": "<:C_LOGO:1089020314236764240> Savage"
+        }
     ],
- 
-  "AESV_AY_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_B.png?format=png",
-    "theme": "Savage",
-    "inv": "<:B_LOGO:1089020310508015626> Savage"
-    
-    }
+    "AESV_AY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_B.png?format=png",
+            "theme": "Savage",
+            "inv": "<:B_LOGO:1089020310508015626> Savage"
+        }
     ],
- 
-   "AESV_AY_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_A.png?format=png",
-    "theme": "Savage",
-    "inv": "<:A_LOGO:1089020306556989592> Savage"
-    
-    }
+    "AESV_AY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_A.png?format=png",
+            "theme": "Savage",
+            "inv": "<:A_LOGO:1089020306556989592> Savage"
+        }
     ],
- 
     "AESV_AY_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_S.png?format=png",
-    "theme": "Savage",
-    "inv": "<:S_LOGO:1089020304254316624> Savage"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_S.png?format=png",
+            "theme": "Savage",
+            "inv": "<:S_LOGO:1089020304254316624> Savage"
+        }
     ],
- 
     "AESV_AY_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_R.png?format=png",
-    "theme": "Savage",
-    "inv": "<:R_LOGO:1089020300332630096> Savage"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_R.png?format=png",
+            "theme": "Savage",
+            "inv": "<:R_LOGO:1089020300332630096> Savage"
+        }
     ],
- 
- 
- "AESV_KR_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_C.png?format=png",
-    "theme": "Savage",
-    "inv": "<:C_LOGO:1089020314236764240> Savage"
-    
-    }
+    "AESV_KR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_C.png?format=png",
+            "theme": "Savage",
+            "inv": "<:C_LOGO:1089020314236764240> Savage"
+        }
     ],
- 
-  "AESV_KR_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_B.png?format=png",
-    "theme": "Savage",
-    "inv": "<:B_LOGO:1089020310508015626> Savage"
-    
-    }
+    "AESV_KR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_B.png?format=png",
+            "theme": "Savage",
+            "inv": "<:B_LOGO:1089020310508015626> Savage"
+        }
     ],
- 
-   "AESV_KR_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_A.png?format=png",
-    "theme": "Savage",
-    "inv": "<:A_LOGO:1089020306556989592> Savage"
-    
-    }
+    "AESV_KR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_A.png?format=png",
+            "theme": "Savage",
+            "inv": "<:A_LOGO:1089020306556989592> Savage"
+        }
     ],
- 
     "AESV_KR_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_S.png?format=png",
-    "theme": "Savage",
-    "inv": "<:S_LOGO:1089020304254316624> Savage"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_S.png?format=png",
+            "theme": "Savage",
+            "inv": "<:S_LOGO:1089020304254316624> Savage"
+        }
     ],
- 
     "AESV_KR_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_R.png?format=png",
-    "theme": "Savage",
-    "inv": "<:R_LOGO:1089020300332630096> Savage"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_KR_R.png?format=png",
+            "theme": "Savage",
+            "inv": "<:R_LOGO:1089020300332630096> Savage"
+        }
     ],
- 
- "AESV_GS_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **aespa GISELLE** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_C.png?format=png",
-    "theme": "Savage",
-    "inv": "<:C_LOGO:1089020314236764240> Savage"
-    
-    }
+    "AESV_GS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa GISELLE** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_C.png?format=png",
+            "theme": "Savage",
+            "inv": "<:C_LOGO:1089020314236764240> Savage"
+        }
     ],
- 
-  "AESV_GS_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **aespa GISELLE** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_B.png?format=png",
-    "theme": "Savage",
-    "inv": "<:B_LOGO:1089020310508015626> Savage"
-    
-    }
+    "AESV_GS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa GISELLE** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_B.png?format=png",
+            "theme": "Savage",
+            "inv": "<:B_LOGO:1089020310508015626> Savage"
+        }
     ],
- 
-   "AESV_GS_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **aespa GISELLE** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_A.png?format=png",
-    "theme": "Savage",
-    "inv": "<:A_LOGO:1089020306556989592> Savage"
-    
-    }
+    "AESV_GS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa GISELLE** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_A.png?format=png",
+            "theme": "Savage",
+            "inv": "<:A_LOGO:1089020306556989592> Savage"
+        }
     ],
- 
     "AESV_GS_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **aespa GISELLE** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_S.png?format=png",
-    "theme": "Savage",
-    "inv": "<:S_LOGO:1089020304254316624> Savage"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa GISELLE** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_S.png?format=png",
+            "theme": "Savage",
+            "inv": "<:S_LOGO:1089020304254316624> Savage"
+        }
     ],
- 
     "AESV_GS_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **aespa GISELLE** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_R.png?format=png",
-    "theme": "Savage",
-    "inv": "<:R_LOGO:1089020300332630096> Savage"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa GISELLE** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_GS_R.png?format=png",
+            "theme": "Savage",
+            "inv": "<:R_LOGO:1089020300332630096> Savage"
+        }
     ],
- 
- "AESV_WT_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **aespa WINTER** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_C.png?format=png",
-    "theme": "Savage",
-    "inv": "<:C_LOGO:1089020314236764240> Savage"
-    
-    }
+    "AESV_WT_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa WINTER** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_C.png?format=png",
+            "theme": "Savage",
+            "inv": "<:C_LOGO:1089020314236764240> Savage"
+        }
     ],
- 
-  "AESV_WT_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **aespa WINTER** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_B.png?format=png",
-    "theme": "Savage",
-    "inv": "<:B_LOGO:1089020310508015626> Savage"
-    
-    }
+    "AESV_WT_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa WINTER** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_B.png?format=png",
+            "theme": "Savage",
+            "inv": "<:B_LOGO:1089020310508015626> Savage"
+        }
     ],
- 
-   "AESV_WT_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **aespa WINTER** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_A.png?format=png",
-    "theme": "Savage",
-    "inv": "<:A_LOGO:1089020306556989592> Savage"
-    
-    }
+    "AESV_WT_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa WINTER** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_A.png?format=png",
+            "theme": "Savage",
+            "inv": "<:A_LOGO:1089020306556989592> Savage"
+        }
     ],
- 
     "AESV_WT_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **aespa WINTER** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_S.png?format=png",
-    "theme": "Savage",
-    "inv": "<:S_LOGO:1089020304254316624> Savage"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa WINTER** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_S.png?format=png",
+            "theme": "Savage",
+            "inv": "<:S_LOGO:1089020304254316624> Savage"
+        }
     ],
- 
     "AESV_WT_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **aespa WINTER** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_R.png?format=png",
-    "theme": "Savage",
-    "inv": "<:R_LOGO:1089020300332630096> Savage"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa WINTER** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_WT_R.png?format=png",
+            "theme": "Savage",
+            "inv": "<:R_LOGO:1089020300332630096> Savage"
+        }
     ],
- 
- "AESV_NN_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **aespa NINGNING** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_C.png?format=png",
-    "theme": "Savage",
-    "inv": "<:C_LOGO:1089020314236764240> Savage"
-    
-    }
+    "AESV_NN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa NINGNING** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_C.png?format=png",
+            "theme": "Savage",
+            "inv": "<:C_LOGO:1089020314236764240> Savage"
+        }
     ],
- 
-  "AESV_NN_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **aespa NINGNING** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_B.png?format=png",
-    "theme": "Savage",
-    "inv": "<:B_LOGO:1089020310508015626> Savage"
-    
-    }
+    "AESV_NN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa NINGNING** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_B.png?format=png",
+            "theme": "Savage",
+            "inv": "<:B_LOGO:1089020310508015626> Savage"
+        }
     ],
- 
-   "AESV_NN_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **aespa NINGNING** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_A.png?format=png",
-    "theme": "Savage",
-    "inv": "<:A_LOGO:1089020306556989592> Savage"
-    
-    }
+    "AESV_NN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa NINGNING** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_A.png?format=png",
+            "theme": "Savage",
+            "inv": "<:A_LOGO:1089020306556989592> Savage"
+        }
     ],
- 
     "AESV_NN_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **aespa NINGNING** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_S.png?format=png",
-    "theme": "Savage",
-    "inv": "<:S_LOGO:1089020304254316624> Savage"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa NINGNING** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_S.png?format=png",
+            "theme": "Savage",
+            "inv": "<:S_LOGO:1089020304254316624> Savage"
+        }
     ],
- 
     "AESV_NN_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **aespa NINGNING** Savage",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_R.png?format=png",
-    "theme": "Savage",
-    "inv": "<:R_LOGO:1089020300332630096> Savage"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa NINGNING** Savage",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/savage/AESV_NN_R.png?format=png",
+            "theme": "Savage",
+            "inv": "<:R_LOGO:1089020300332630096> Savage"
+        }
     ],
- 
- "BPSD_JN_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_C.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
-    
-    }
+    "BPSD_JN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_C.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+        }
     ],
- 
-  "BPSD_JN_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_B.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
-    
-    }
+    "BPSD_JN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_B.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+        }
     ],
- 
-   "BPSD_JN_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_A.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
-    
-    }
+    "BPSD_JN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_A.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+        }
     ],
- 
     "BPSD_JN_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_S.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_S.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+        }
     ],
- 
     "BPSD_JN_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_R.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JN_R.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+        }
     ],
- 
- "BPSD_JS_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_C.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
-    
-    }
+    "BPSD_JS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_C.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+        }
     ],
- 
-  "BPSD_JS_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_B.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
-    
-    }
+    "BPSD_JS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_B.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+        }
     ],
- 
-   "BPSD_JS_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_A.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
-    
-    }
+    "BPSD_JS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_A.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+        }
     ],
- 
     "BPSD_JS_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_S.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_S.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+        }
     ],
- 
     "BPSD_JS_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_R.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/JS_R.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+        }
     ],
- 
- "BPSD_RS_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_C.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
-    
-    }
+    "BPSD_RS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_C.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+        }
     ],
- 
-  "BPSD_RS_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_B.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
-    
-    }
+    "BPSD_RS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_B.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+        }
     ],
- 
-   "BPSD_RS_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_A.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
-    
-    }
+    "BPSD_RS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_A.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+        }
     ],
- 
     "BPSD_RS_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_S.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_S.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+        }
     ],
- 
     "BPSD_RS_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_R.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/RS_R.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+        }
     ],
- 
- "BPSD_LS_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_C.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:C_LOGO:1089020314236764240> Shut Down"
-    
-    }
+    "BPSD_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_C.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:C_LOGO:1089020314236764240> Shut Down"
+        }
     ],
- 
-  "BPSD_LS_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_B.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:B_LOGO:1089020310508015626> Shut Down"
-    
-    }
+    "BPSD_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_B.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:B_LOGO:1089020310508015626> Shut Down"
+        }
     ],
- 
-   "BPSD_LS_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_A.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:A_LOGO:1089020306556989592> Shut Down"
-    
-    }
+    "BPSD_LS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_A.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:A_LOGO:1089020306556989592> Shut Down"
+        }
     ],
- 
     "BPSD_LS_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_S.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:S_LOGO:1089020304254316624> Shut Down"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_S.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:S_LOGO:1089020304254316624> Shut Down"
+        }
     ],
- 
     "BPSD_LS_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** Shut Down",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_R.png?format=png",
-    "theme": "Shut Down",
-    "inv": "<:R_LOGO:1089020300332630096> Shut Down"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** Shut Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/shutdown/LS_R.png?format=png",
+            "theme": "Shut Down",
+            "inv": "<:R_LOGO:1089020300332630096> Shut Down"
+        }
     ],
- 
- "LSAF_SK_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM SAKURA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_C.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
-    
-    }
+    "LSAF_SK_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_C.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+        }
     ],
- 
-  "LSAF_SK_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM SAKURA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_B.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
-    
-    }
+    "LSAF_SK_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_B.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+        }
     ],
- 
-   "LSAF_SK_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM SAKURA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_A.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
-    
-    }
+    "LSAF_SK_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_A.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_SK_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM SAKURA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_S.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_S.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_SK_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM SAKURA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_R.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/SK_R.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+        }
     ],
- 
- "LSAF_CW_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_C.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
-    
-    }
+    "LSAF_CW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_C.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+        }
     ],
- 
-  "LSAF_CW_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_B.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
-    
-    }
+    "LSAF_CW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_B.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+        }
     ],
- 
-   "LSAF_CW_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_A.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
-    
-    }
+    "LSAF_CW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_A.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_CW_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_S.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_S.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_CW_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_R.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM CHAEWON** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/CW_R.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+        }
     ],
- 
- "LSAF_HY_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_C.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
-    
-    }
+    "LSAF_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_C.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+        }
     ],
- 
-  "LSAF_HY_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_B.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
-    
-    }
+    "LSAF_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_B.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+        }
     ],
- 
-   "LSAF_HY_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_A.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
-    
-    }
+    "LSAF_HY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_A.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_HY_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_S.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_S.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_HY_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_R.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HY_R.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+        }
     ],
- 
- "LSAF_KZ_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_C.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
-    
-    }
+    "LSAF_KZ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_C.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+        }
     ],
- 
-  "LSAF_KZ_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_B.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
-    
-    }
+    "LSAF_KZ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_B.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+        }
     ],
- 
-   "LSAF_KZ_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_A.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
-    
-    }
+    "LSAF_KZ_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_A.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_KZ_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_S.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_S.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_KZ_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_R.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/KZ_R.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+        }
     ],
- 
- "LSAF_EC_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_C.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
-    
-    }
+    "LSAF_EC_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_C.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:C_LOGO:1089020314236764240> ANTIFRAGILE"
+        }
     ],
- 
-  "LSAF_EC_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_B.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
-    
-    }
+    "LSAF_EC_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_B.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:B_LOGO:1089020310508015626> ANTIFRAGILE"
+        }
     ],
- 
-   "LSAF_EC_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_A.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
-    
-    }
+    "LSAF_EC_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_A.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:A_LOGO:1089020306556989592> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_EC_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_S.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_S.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:S_LOGO:1089020304254316624> ANTIFRAGILE"
+        }
     ],
- 
     "LSAF_EC_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_R.png?format=png",
-    "theme": "ANTIFRAGILE",
-    "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM EUNCHAE** ANTIFRAGILE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_R.png?format=png",
+            "theme": "ANTIFRAGILE",
+            "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+        }
     ],
- 
-"FFCP_SI_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY SIO** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_C.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:C_LOGO:1089020314236764240> Cupid"
-    
-    }
+    "FFCP_SI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_C.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:C_LOGO:1089020314236764240> Cupid"
+        }
     ],
- 
-  "FFCP_SI_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY SIO** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_B.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:B_LOGO:1089020310508015626> Cupid"
-    
-    }
+    "FFCP_SI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_B.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:B_LOGO:1089020310508015626> Cupid"
+        }
     ],
- 
-   "FFCP_SI_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY SIO** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_A.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:A_LOGO:1089020306556989592> Cupid"
-    
-    }
+    "FFCP_SI_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_A.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:A_LOGO:1089020306556989592> Cupid"
+        }
     ],
- 
     "FFCP_SI_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY SIO** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_S.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:S_LOGO:1089020304254316624> Cupid"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_S.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:S_LOGO:1089020304254316624> Cupid"
+        }
     ],
- 
     "FFCP_SI_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY SIO** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_R.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:R_LOGO:1089020300332630096> Cupid"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY SIO** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_R.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:R_LOGO:1089020300332630096> Cupid"
+        }
     ],
- 
- "FFCP_SN_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY SAENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_C.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:C_LOGO:1089020314236764240> Cupid"
-    
-    }
+    "FFCP_SN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_C.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:C_LOGO:1089020314236764240> Cupid"
+        }
     ],
- 
-  "FFCP_SN_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY SAENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_B.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:B_LOGO:1089020310508015626> Cupid"
-    
-    }
+    "FFCP_SN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_B.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:B_LOGO:1089020310508015626> Cupid"
+        }
     ],
- 
-   "FFCP_SN_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY SAENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_A.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:A_LOGO:1089020306556989592> Cupid"
-    
-    }
+    "FFCP_SN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_A.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:A_LOGO:1089020306556989592> Cupid"
+        }
     ],
- 
     "FFCP_SN_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY SAENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_S.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:S_LOGO:1089020304254316624> Cupid"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_S.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:S_LOGO:1089020304254316624> Cupid"
+        }
     ],
- 
     "FFCP_SN_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY SAENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_R.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:R_LOGO:1089020300332630096> Cupid"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY SAENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_R.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:R_LOGO:1089020300332630096> Cupid"
+        }
     ],
- 
- "FFCP_KN_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY KEENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_C.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:C_LOGO:1089020314236764240> Cupid"
-    
-    }
+    "FFCP_KN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_C.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:C_LOGO:1089020314236764240> Cupid"
+        }
     ],
- 
-  "FFCP_KN_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY KEENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_B.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:B_LOGO:1089020310508015626> Cupid"
-    
-    }
+    "FFCP_KN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_B.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:B_LOGO:1089020310508015626> Cupid"
+        }
     ],
- 
-   "FFCP_KN_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY KEENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_A.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:A_LOGO:1089020306556989592> Cupid"
-    
-    }
+    "FFCP_KN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_A.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:A_LOGO:1089020306556989592> Cupid"
+        }
     ],
- 
     "FFCP_KN_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY KEENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_S.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:S_LOGO:1089020304254316624> Cupid"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_S.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:S_LOGO:1089020304254316624> Cupid"
+        }
     ],
- 
     "FFCP_KN_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY KEENA** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_R.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:R_LOGO:1089020300332630096> Cupid"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY KEENA** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_R.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:R_LOGO:1089020300332630096> Cupid"
+        }
     ],
- 
- "FFCP_AR_C": [
-    {
-    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY ARAN** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_C.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:C_LOGO:1089020314236764240> Cupid"
-    
-    }
+    "FFCP_AR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_C.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:C_LOGO:1089020314236764240> Cupid"
+        }
     ],
- 
-  "FFCP_AR_B": [
-    {
-    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY ARAN** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_B.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:B_LOGO:1089020310508015626> Cupid"
-    
-    }
+    "FFCP_AR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_B.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:B_LOGO:1089020310508015626> Cupid"
+        }
     ],
- 
-   "FFCP_AR_A": [
-    {
-    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY ARAN** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_A.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:A_LOGO:1089020306556989592> Cupid"
-    
-    }
+    "FFCP_AR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_A.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:A_LOGO:1089020306556989592> Cupid"
+        }
     ],
- 
     "FFCP_AR_S": [
-    {
-    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY ARAN** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_S.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:S_LOGO:1089020304254316624> Cupid"
-    
-    }
+        {
+            "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_S.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:S_LOGO:1089020304254316624> Cupid"
+        }
     ],
- 
     "FFCP_AR_R": [
-    {
-    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY ARAN** Cupid",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_R.png?format=png",
-    "theme": "Cupid",
-    "inv": "<:R_LOGO:1089020300332630096> Cupid"
-    
-    }
+        {
+            "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY ARAN** Cupid",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_R.png?format=png",
+            "theme": "Cupid",
+            "inv": "<:R_LOGO:1089020300332630096> Cupid"
+        }
     ]
- 
 }
