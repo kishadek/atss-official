@@ -679,44 +679,87 @@
             "inv": "<:R_LOGO:1089020300332630096> Teddy Bear"
         }
     ],
-    "TYIN_V_C": [
+,
+
+"JSME_V_C": [
         {
-            "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Vocal** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/5.png?format=png",
-            "theme": "INVU",
-            "inv": "<:C_LOGO:1089020314236764240> INVU"
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/5.png?format=png",
+            "theme": "ME",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
         }
     ],
-    "TYIN_V_B": [
+    "JSME_V_B": [
         {
-            "name": "<:B_EMBLEM:1080736338938171443> **TAEYEON Vocal** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/4.png?format=png",
-            "theme": "INVU",
-            "inv": "<:B_LOGO:1089020310508015626> INVU"
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/4.png?format=png",
+            "theme": "ME",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
         }
     ],
-    "TYIN_V_A": [
+    "JSME_V_A": [
         {
-            "name": "<:A_EMBLEM:1080736335591112764> **TAEYEON Vocal** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/3.png?format=png",
-            "theme": "INVU",
-            "inv": "<:A_LOGO:1089020306556989592> INVU"
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/3.png?format=png",
+            "theme": "ME",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
         }
     ],
-    "TYIN_V_S": [
+    "JSME_V_S": [
         {
-            "name": "<:S_EMBLEM:1080736333615616030> **TAEYEON Vocal** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/2.png?format=png",
-            "theme": "INVU",
-            "inv": "<:S_LOGO:1089020304254316624> INVU"
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/2.png?format=png",
+            "theme": "ME",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
         }
     ],
-    "TYIN_V_R": [
+    "JSME_V_R": [
         {
-            "name": "<:R_EMBLEM:1080736329735880724> **TAEYEON Vocal** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/1.png?format=png",
-            "theme": "INVU",
-            "inv": "<:R_LOGO:1089020300332630096> INVU"
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/1.png?format=png",
+            "theme": "ME",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
+        }
+    ],
+    
+    "JSME_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/5.png?format=png",
+            "theme": "ME",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
+        }
+    ],
+    "JSME_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/4.png?format=png",
+            "theme": "ME",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
+        }
+    ],
+    "JSME_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/3.png?format=png",
+            "theme": "ME",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
+        }
+    ],
+    "JSME_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/2.png?format=png",
+            "theme": "ME",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
+        }
+    ],
+    "JSME_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/1.png?format=png",
+            "theme": "ME",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
         }
     ],
     "TYIN_D_C": [
@@ -2528,5 +2571,130 @@
     "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
     
     }
+    ],
+    
+    "JSME_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/5.png?format=png",
+            "theme": "ME",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
+        }
+    ],
+    "JSME_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/4.png?format=png",
+            "theme": "ME",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
+        }
+    ],
+    "JSME_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/3.png?format=png",
+            "theme": "ME",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
+        }
+    ],
+    "JSME_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/2.png?format=png",
+            "theme": "ME",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
+        }
+    ],
+    "JSME_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/1.png?format=png",
+            "theme": "ME",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
+        }
+    ],
+    
+    "JSME_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/10.png?format=png",
+            "theme": "ME",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
+        }
+    ],
+    "JSME_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/9.png?format=png",
+            "theme": "ME",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
+        }
+    ],
+    "JSME_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/8.png?format=png",
+            "theme": "ME",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
+        }
+    ],
+    "JSME_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/7.png?format=png",
+            "theme": "ME",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
+        }
+    ],
+    "JSME_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/6.png?format=png",
+            "theme": "ME",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
+        }
+    ],
+    
+    "JSME_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/15.png?format=png",
+            "theme": "ME",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
+        }
+    ],
+    "JSME_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/14.png?format=png",
+            "theme": "ME",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
+        }
+    ],
+    "JSME_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/13.png?format=png",
+            "theme": "ME",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
+        }
+    ],
+    "JSME_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/12.png?format=png",
+            "theme": "ME",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
+        }
+    ],
+    "JSME_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/11.png?format=png",
+            "theme": "ME",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
+        }
     ]
+    
+    
 }
