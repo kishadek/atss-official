@@ -12,7 +12,9 @@
 "OMG_MJ": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_omg_minji.png?format=png",
             "OMG_MJ_TEXT": "`Limited` OMG MINJI Profile Picture",
             "OMG_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/omg_event.png?format=png",
-            "OMG_TEXT": "`Event` **NewJeans OMG** Wallpaper"
+            "OMG_TEXT": "`Event` **NewJeans OMG** Wallpaper",
+            "CUPID_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/my_lobby/background/limited/mylobby_bg_fifty_fifty_cupid_l.png?format=png",
+            "CUPID_TEXT": "`Event` **FIFTY FIFTY Cupid** Wallpaper"
         }
     ]
 }
