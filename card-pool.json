@@ -14,5 +14,21 @@
       
       
       }
-      ]
+      ],
+  
+  "le": [
+    {
+   "card1": "NJOM_HY;NJOM_HN;NJOM_MJ;NJOM_DE;NJOM_HN",
+      "card2": "NJOM_HY;NJOM_HN;NJOM_HN;NJOM_MJ;NJOM_DE",
+      "card3": "NJOM_MJ;NJOM_HY;NJOM_HN;NJOM_DE;NJOM_HN",
+      "card4": "NJOM_HY;NJOM_HN;NJOM_HN;NJOM_MJ;NJOM_DE",
+      "card5": "NJOM_HY;NJOM_MJ;NJOM_DE;NJOM_HN;NJOM_HN",
+      "card6": "NJOM_HY;NJOM_HN;NJOM_MJ;NJOM_DE;NJOM_HN",
+      "card7": "NJOM_HY;NJOM_HN;NJOM_MJ;NJOM_DE;NJOM_HN",
+      "card8": "NJOM_HY;NJOM_HN;NJOM_MJ;NJOM_DE;NJOM_HN",
+      "card9": "NJOM_HY;NJOM_HN;NJOM_MJ;NJOM_DE;NJOM_HN",
+      "card10": "NJOM_HY;NJOM_HN;NJOM_MJ;NJOM_DE;NJOM_HN"
+      
+    }
+    ]
                              }
