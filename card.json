@@ -2078,5 +2078,455 @@
             "theme": "Cupid",
             "inv": "<:R_LOGO:1089020300332630096> Cupid"
         }
+    ],
+    
+    "TWSM_NY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE NAYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/NY_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_NY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE NAYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/NY_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_NY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE NAYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/NY_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_NY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE NAYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/NY_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_NY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE NAYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/NY_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_JY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE JEONGYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JY_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_JY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE JEONGYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JY_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_JY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE JEONGYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JY_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_JY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE JEONGYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JY_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_JY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE JEONGYEON** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JY_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_MO_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE MOMO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MO_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_MO_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE MOMO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MO_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_MO_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE MOMO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MO_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_MO_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE MOMO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MO_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_MO_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE MOMO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MO_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_SN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE SANA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/SN_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_SN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE SANA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/SN_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_SN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE SANA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/SN_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_SN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE SANA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/SN_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_SN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE SANA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/SN_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_JH_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE JIHYO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JH_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_JH_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE JIHYO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JH_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_JH_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE JIHYO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JH_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_JH_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE JIHYO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JH_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_JH_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE JIHYO** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/JH_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_MN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE MINA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MN_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_MN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE MINA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MN_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_MN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE MINA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MN_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_MN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE MINA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MN_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_MN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE MINA** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/MN_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_DH_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE DAHYUN** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/DH_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_DH_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE DAHYUN** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/DH_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_DH_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE DAHYUN** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/DH_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_DH_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE DAHYUN** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/DH_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_DH_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE DAHYUN** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/DH_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_CY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE CHAEYOUNG** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/CY_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_CY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE CHAEYOUNG** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/CY_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_CY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE CHAEYOUNG** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/CY_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_CY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE CHAEYOUNG** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/CY_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_CY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE CHAEYOUNG** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/CY_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
+    ],
+    
+    "TWSM_TZ_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE TZUYU** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/TZ_C.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:C_LOGO:1089020314236764240> SET ME FREE"
+    
+    }
+    ],
+ 
+  "TWSM_TZ_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE TZUYU** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/TZ_B.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:B_LOGO:1089020310508015626> SET ME FREE"
+    
+    }
+    ],
+ 
+   "TWSM_TZ_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE TZUYU** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/TZ_A.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:A_LOGO:1089020306556989592> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_TZ_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE TZUYU** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/TZ_S.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:S_LOGO:1089020304254316624> SET ME FREE"
+    
+    }
+    ],
+ 
+    "TWSM_TZ_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE TZUYU** SET ME FREE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/setmefree/TZ_R.png?format=png",
+    "theme": "SET ME FREE",
+    "inv": "<:R_LOGO:1089020300332630096> SET ME FREE"
+    
+    }
     ]
 }
