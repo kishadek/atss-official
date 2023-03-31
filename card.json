@@ -2354,6 +2354,206 @@
     "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
     
     }
+    ],
+ 
+"FFCP_SI_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY SIO** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_C.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:C_LOGO:1089020314236764240> Cupid"
+    
+    }
+    ],
+ 
+  "FFCP_SI_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY SIO** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_B.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:B_LOGO:1089020310508015626> Cupid"
+    
+    }
+    ],
+ 
+   "FFCP_SI_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY SIO** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_A.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:A_LOGO:1089020306556989592> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_SI_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY SIO** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_S.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:S_LOGO:1089020304254316624> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_SI_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY SIO** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SI_R.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:R_LOGO:1089020300332630096> Cupid"
+    
+    }
+    ],
+ 
+ "FFCP_SN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY SAENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_C.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:C_LOGO:1089020314236764240> Cupid"
+    
+    }
+    ],
+ 
+  "FFCP_SN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY SAENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_B.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:B_LOGO:1089020310508015626> Cupid"
+    
+    }
+    ],
+ 
+   "FFCP_SN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY SAENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_A.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:A_LOGO:1089020306556989592> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_SN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY SAENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_S.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:S_LOGO:1089020304254316624> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_SN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY SAENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/SN_R.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:R_LOGO:1089020300332630096> Cupid"
+    
+    }
+    ],
+ 
+ "FFCP_KN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY KEENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_C.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:C_LOGO:1089020314236764240> Cupid"
+    
+    }
+    ],
+ 
+  "FFCP_KN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY KEENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_B.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:B_LOGO:1089020310508015626> Cupid"
+    
+    }
+    ],
+ 
+   "FFCP_KN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY KEENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_A.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:A_LOGO:1089020306556989592> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_KN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY KEENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_S.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:S_LOGO:1089020304254316624> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_KN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY KEENA** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_R.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:R_LOGO:1089020300332630096> Cupid"
+    
+    }
+    ],
+ 
+ "FFCP_AR_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **FIFTY FIFTY ARAN** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_C.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:C_LOGO:1089020314236764240> Cupid"
+    
+    }
+    ],
+ 
+  "FFCP_AR_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **FIFTY FIFTY ARAN** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_B.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:B_LOGO:1089020310508015626> Cupid"
+    
+    }
+    ],
+ 
+   "FFCP_AR_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **FIFTY FIFTY ARAN** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_A.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:A_LOGO:1089020306556989592> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_AR_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **FIFTY FIFTY ARAN** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_S.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:S_LOGO:1089020304254316624> Cupid"
+    
+    }
+    ],
+ 
+    "FFCP_AR_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **FIFTY FIFTY ARAN** Cupid",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/fiftyfifty/cupid/KN_R.png?format=png",
+    "theme": "Cupid",
+    "inv": "<:R_LOGO:1089020300332630096> Cupid"
+    
+    }
     ]
  
 }
