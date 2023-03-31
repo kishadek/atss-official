@@ -2693,6 +2693,457 @@
             "theme": "ME",
             "inv": "<:R_LOGO:1089020300332630096> ME"
         }
+    ],
+    
+    "TBRO_HJ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ HYUNJAE** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/HJ_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_HJ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ HYUNJAE** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/HJ_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_HJ_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ HYUNJAE** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/HJ_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_HJ_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ HYUNJAE** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/HJ_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_HJ_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ HYUNJAE** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/HJ_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_SY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ SANGYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SY_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_SY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ SANGYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SY_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_SY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ SANGYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SY_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_SY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ SANGYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SY_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_SY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ SANGYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SY_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_KV_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ KEVIN** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/KV_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_KV_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ KEVIN** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/KV_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_KV_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ KEVIN** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/KV_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_KV_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ KEVIN** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/KV_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_KV_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ KEVIN** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/KV_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_JC_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ JACOB** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JC_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_JC_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ JACOB** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JC_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_JC_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ JACOB** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JC_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_JC_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ JACOB** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JC_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_JC_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ JACOB** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JC_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_YH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ YOUNGHOON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/YH_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_YH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ YOUNGHOON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/YH_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_YH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ YOUNGHOON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/YH_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_YH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ YOUNGHOON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/YH_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_YH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ YOUNGHOON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/YH_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_JY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ JUYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JY_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_JY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ JUYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JY_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_JY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ JUYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JY_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_JY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ JUYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JY_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_JY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ JUYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JY_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_NE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ NEW** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/NE_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_NE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ NEW** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/NE_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_NE_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ NEW** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/NE_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_NE_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ NEW** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/NE_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_NE_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ NEW** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/NE_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_Q_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ Q** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/Q_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_Q_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ Q** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/Q_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_Q_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ Q** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/Q_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_Q_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ Q** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/Q_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_Q_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ Q** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/Q_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_JH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ JUHAKNYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JH_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_JH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ JUHAKNYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JH_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_JH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ JUHAKNYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JH_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_JH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ JUHAKNYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JH_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_JH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ JUHAKNYEON** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/JH_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_SW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ SUNWOO** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SW_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_SW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ SUNWOO** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SW_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_SW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ SUNWOO** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SW_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_SW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ SUNWOO** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SW_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_SW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ SUNWOO** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/SW_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
+    ],
+    
+    "TBRO_ER_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **THE BOYZ ERIC** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/ER_C.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:C_LOGO:1089020314236764240> ROAR"
+        }
+    ],
+    "TBRO_ER_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **THE BOYZ ERIC** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/ER_B.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:B_LOGO:1089020310508015626> ROAR"
+        }
+    ],
+    "TBRO_ER_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **THE BOYZ ERIC** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/ER_A.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:A_LOGO:1089020306556989592> ROAR"
+        }
+    ],
+    "TBRO_ER_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **THE BOYZ ERIC** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/ER_S.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:S_LOGO:1089020304254316624> ROAR"
+        }
+    ],
+    "TBRO_ER_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **THE BOYZ ERIC** ROAR",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/tbz/roar/ER_R.png?format=png",
+            "theme": "ROAR",
+            "inv": "<:R_LOGO:1089020300332630096> ROAR"
+        }
     ]
     
     
