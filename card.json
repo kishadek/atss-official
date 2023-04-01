@@ -3267,6 +3267,408 @@
             "theme": "Underwater",
             "inv": "<:R_LOGO:1089020300332630096> Underwater"
         }
+    ],
+    
+    "RVRT_IN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet IRENE** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/C/IN.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:C_LOGO:1089020314236764240> R To V"
+        }
+    ],
+    "RVRT_IN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet IRENE** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/B/IN.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:B_LOGO:1089020310508015626> R To V"
+        }
+    ],
+    "RVRT_IN_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet IRENE** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/A/IN.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:A_LOGO:1089020306556989592> R To V"
+        }
+    ],
+    "RVRT_IN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet IRENE** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/S/IN.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:S_LOGO:1089020304254316624> R To V"
+        }
+    ],
+    "RVRT_IN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet IRENE** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/R/IN.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:R_LOGO:1089020300332630096> R To V"
+        }
+    ],
+    "RVRT_SG_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet SEULGI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/C/SG.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:C_LOGO:1089020314236764240> R To V"
+        }
+    ],
+    "RVRT_SG_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet SEULGI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/B/SG.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:B_LOGO:1089020310508015626> R To V"
+        }
+    ],
+    "RVRT_SG_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet SEULGI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/A/SG.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:A_LOGO:1089020306556989592> R To V"
+        }
+    ],
+    "RVRT_SG_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet SEULGI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/S/SG.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:S_LOGO:1089020304254316624> R To V"
+        }
+    ],
+    "RVRT_SG_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet SEULGI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/R/SG.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:R_LOGO:1089020300332630096> R To V"
+        }
+    ],
+    "RVRT_WD_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet WENDY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/C/WD.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:C_LOGO:1089020314236764240> R To V"
+        }
+    ],
+    "RVRT_WD_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet WENDY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/B/WD.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:B_LOGO:1089020310508015626> R To V"
+        }
+    ],
+    "RVRT_WD_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet WENDY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/A/WD.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:A_LOGO:1089020306556989592> R To V"
+        }
+    ],
+    "RVRT_WD_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet WENDY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/S/WD.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:S_LOGO:1089020304254316624> R To V"
+        }
+    ],
+    "RVRT_WD_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet WENDY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/R/WD.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:R_LOGO:1089020300332630096> R To V"
+        }
+    ],
+    "RVRT_JO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet JOY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/C/JO.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:C_LOGO:1089020314236764240> R To V"
+        }
+    ],
+    "RVRT_JO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet JOY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/B/JO.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:B_LOGO:1089020310508015626> R To V"
+        }
+    ],
+    "RVRT_JO_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet JOY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/A/JO.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:A_LOGO:1089020306556989592> R To V"
+        }
+    ],
+    "RVRT_JO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet JOY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/S/JO.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:S_LOGO:1089020304254316624> R To V"
+        }
+    ],
+    "RVRT_JO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet JOY** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/R/JO.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:R_LOGO:1089020300332630096> R To V"
+        }
+    ],
+    "RVRT_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet YERI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/C/YR.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:C_LOGO:1089020314236764240> R To V"
+        }
+    ],
+    "RVRT_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet YERI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/B/YR.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:B_LOGO:1089020310508015626> R To V"
+        }
+    ],
+    "RVRT_YR_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet YERI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/A/YR.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:A_LOGO:1089020306556989592> R To V"
+        }
+    ],
+    "RVRT_YR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet YERI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/S/YR.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:S_LOGO:1089020304254316624> R To V"
+        }
+    ],
+    "RVRT_YR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet YERI** R To V",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/r_to_v/R/YR.png?format=png",
+            "theme": "On A Ride",
+            "inv": "<:R_LOGO:1089020300332630096> R To V"
+        }
+    ],
+    
+    "RVFN_IN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet IRENE** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/C/IN.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:C_LOGO:1089020314236764240> Finale"
+        }
+    ],
+    "RVFN_IN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet IRENE** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/B/IN.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:B_LOGO:1089020310508015626> Finale"
+        }
+    ],
+    "RVFN_IN_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet IRENE** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/A/IN.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:A_LOGO:1089020306556989592> Finale"
+        }
+    ],
+    "RVFN_IN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet IRENE** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/S/IN.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:S_LOGO:1089020304254316624> Finale"
+        }
+    ],
+    "RVFN_IN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet IRENE** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/R/IN.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:R_LOGO:1089020300332630096> Finale"
+        }
+    ],
+    "RVFN_SG_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet SEULGI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/C/SG.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:C_LOGO:1089020314236764240> Finale"
+        }
+    ],
+    "RVFN_SG_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet SEULGI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/B/SG.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:B_LOGO:1089020310508015626> Finale"
+        }
+    ],
+    "RVFN_SG_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet SEULGI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/A/SG.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:A_LOGO:1089020306556989592> Finale"
+        }
+    ],
+    "RVFN_SG_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet SEULGI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/S/SG.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:S_LOGO:1089020304254316624> Finale"
+        }
+    ],
+    "RVFN_SG_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet SEULGI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/R/SG.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:R_LOGO:1089020300332630096> Finale"
+        }
+    ],
+    "RVFN_WD_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet WENDY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/C/WD.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:C_LOGO:1089020314236764240> Finale"
+        }
+    ],
+    "RVFN_WD_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet WENDY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/B/WD.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:B_LOGO:1089020310508015626> Finale"
+        }
+    ],
+    "RVFN_WD_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet WENDY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/A/WD.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:A_LOGO:1089020306556989592> Finale"
+        }
+    ],
+    "RVFN_WD_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet WENDY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/S/WD.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:S_LOGO:1089020304254316624> Finale"
+        }
+    ],
+    "RVFN_WD_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet WENDY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/R/WD.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:R_LOGO:1089020300332630096> Finale"
+        }
+    ],
+    "RVFN_JO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet JOY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/C/JO.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:C_LOGO:1089020314236764240> Finale"
+        }
+    ],
+    "RVFN_JO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet JOY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/B/JO.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:B_LOGO:1089020310508015626> Finale"
+        }
+    ],
+    "RVFN_JO_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet JOY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/A/JO.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:A_LOGO:1089020306556989592> Finale"
+        }
+    ],
+    "RVFN_JO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet JOY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/S/JO.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:S_LOGO:1089020304254316624> Finale"
+        }
+    ],
+    "RVFN_JO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet JOY** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/R/JO.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:R_LOGO:1089020300332630096> Finale"
+        }
+    ],
+    "RVFN_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet YERI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/C/YR.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:C_LOGO:1089020314236764240> Finale"
+        }
+    ],
+    "RVFN_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet YERI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/B/YR.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:B_LOGO:1089020310508015626> Finale"
+        }
+    ],
+    "RVFN_YR_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet YERI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/A/YR.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:A_LOGO:1089020306556989592> Finale"
+        }
+    ],
+    "RVFN_YR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet YERI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/S/YR.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:S_LOGO:1089020304254316624> Finale"
+        }
+    ],
+    "RVFN_YR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet YERI** Finale",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/finale/R/YR.png?format=png",
+            "theme": "Remember Forever",
+            "inv": "<:R_LOGO:1089020300332630096> Finale"
+        }
     ]
     
     
