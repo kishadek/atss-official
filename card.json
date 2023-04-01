@@ -4398,6 +4398,248 @@
             "theme": "MALA",
             "inv": "<:R_LOGO:1089020300332630096> MALA"
         }
+    ],
+    
+    "ORHP_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Olivia Rodrigo Vocal** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/5.png?format=png",
+            "theme": "happier",
+            "inv": "<:C_LOGO:1089020314236764240> happier"
+        }
+    ],
+    "ORHP_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Olivia Rodrigo Vocal** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/4.png?format=png",
+            "theme": "happier",
+            "inv": "<:B_LOGO:1089020310508015626> happier"
+        }
+    ],
+    "ORHP_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Olivia Rodrigo Vocal** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/3.png?format=png",
+            "theme": "happier",
+            "inv": "<:A_LOGO:1089020306556989592> happier"
+        }
+    ],
+    "ORHP_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Olivia Rodrigo Vocal** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/2.png?format=png",
+            "theme": "happier",
+            "inv": "<:S_LOGO:1089020304254316624> happier"
+        }
+    ],
+    "ORHP_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Olivia Rodrigo Vocal** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/1.png?format=png",
+            "theme": "happier",
+            "inv": "<:R_LOGO:1089020300332630096> happier"
+        }
+    ],
+    "ORHP_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Olivia Rodrigo Dance** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/10.png?format=png",
+            "theme": "happier",
+            "inv": "<:C_LOGO:1089020314236764240> happier"
+        }
+    ],
+    "ORHP_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Olivia Rodrigo Dance** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/9.png?format=png",
+            "theme": "happier",
+            "inv": "<:B_LOGO:1089020310508015626> happier"
+        }
+    ],
+    "ORHP_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Olivia Rodrigo Dance** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/8.png?format=png",
+            "theme": "happier",
+            "inv": "<:A_LOGO:1089020306556989592> happier"
+        }
+    ],
+    "ORHP_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Olivia Rodrigo Dance** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/7.png?format=png",
+            "theme": "happier",
+            "inv": "<:S_LOGO:1089020304254316624> happier"
+        }
+    ],
+    "ORHP_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Olivia Rodrigo Dance** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/6.png?format=png",
+            "theme": "happier",
+            "inv": "<:R_LOGO:1089020300332630096> happier"
+        }
+    ],
+    "ORHP_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Olivia Rodrigo Rhythm** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/15.png?format=png",
+            "theme": "happier",
+            "inv": "<:C_LOGO:1089020314236764240> happier"
+        }
+    ],
+    "ORHP_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Olivia Rodrigo Rhythm** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/14.png?format=png",
+            "theme": "happier",
+            "inv": "<:B_LOGO:1089020310508015626> happier"
+        }
+    ],
+    "ORHP_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Olivia Rodrigo Rhythm** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/13.png?format=png",
+            "theme": "happier",
+            "inv": "<:A_LOGO:1089020306556989592> happier"
+        }
+    ],
+    "ORHP_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Olivia Rodrigo Rhythm** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/12.png?format=png",
+            "theme": "happier",
+            "inv": "<:S_LOGO:1089020304254316624> happier"
+        }
+    ],
+    "ORHP_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Olivia Rodrigo Rhythm** happier",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/or/happier/11.png?format=png",
+            "theme": "happier",
+            "inv": "<:R_LOGO:1089020300332630096> happier"
+        }
+    ],
+    
+    "LGHO_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Vocal** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/5.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:C_LOGO:1089020314236764240> Hold My Hand"
+        }
+    ],
+    "LGHO_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Vocal** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/4.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:B_LOGO:1089020310508015626> Hold My Hand"
+        }
+    ],
+    "LGHO_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Vocal** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/3.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:A_LOGO:1089020306556989592> Hold My Hand"
+        }
+    ],
+    "LGHO_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Vocal** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/2.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:S_LOGO:1089020304254316624> Hold My Hand"
+        }
+    ],
+    "LGHO_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Vocal** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/1.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:R_LOGO:1089020300332630096> Hold My Hand"
+        }
+    ],
+    "LGHO_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Dance** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/10.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:C_LOGO:1089020314236764240> Hold My Hand"
+        }
+    ],
+    "LGHO_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Dance** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/9.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:B_LOGO:1089020310508015626> Hold My Hand"
+        }
+    ],
+    "LGHO_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Dance** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/8.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:A_LOGO:1089020306556989592> Hold My Hand"
+        }
+    ],
+    "LGHO_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Dance** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/7.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:S_LOGO:1089020304254316624> Hold My Hand"
+        }
+    ],
+    "LGHO_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Dance** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/6.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:R_LOGO:1089020300332630096> Hold My Hand"
+        }
+    ],
+    "LGHO_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Rhythm** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/15.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:C_LOGO:1089020314236764240> Hold My Hand"
+        }
+    ],
+    "LGHO_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Rhythm** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/14.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:B_LOGO:1089020310508015626> Hold My Hand"
+        }
+    ],
+    "LGHO_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Rhythm** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/13.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:A_LOGO:1089020306556989592> Hold My Hand"
+        }
+    ],
+    "LGHO_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Rhythm** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/12.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:S_LOGO:1089020304254316624> Hold My Hand"
+        }
+    ],
+    "LGHO_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Rhythm** Hold My Hand",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/11.png?format=png",
+            "theme": "Hold My Hand",
+            "inv": "<:R_LOGO:1089020300332630096> Hold My Hand"
+        }
     ]
     
     
