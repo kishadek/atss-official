@@ -3144,6 +3144,129 @@
             "theme": "ROAR",
             "inv": "<:R_LOGO:1089020300332630096> ROAR"
         }
+    ],
+    
+    "KEUN_V_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **KWON EUN BI Vocal** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/V_C.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:C_LOGO:1089020314236764240> Underwater"
+        }
+    ],
+    "KEUN_V_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **KWON EUN BI Vocal** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/V_B.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:B_LOGO:1089020310508015626> Underwater"
+        }
+    ],
+    "KEUN_V_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **KWON EUN BI Vocal** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/V_A.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:A_LOGO:1089020306556989592> Underwater"
+        }
+    ],
+    "KEUN_V_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **KWON EUN BI Vocal** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/V_S.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:S_LOGO:1089020304254316624> Underwater"
+        }
+    ],
+    "KEUN_V_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **KWON EUN BI Vocal** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/V_R.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:R_LOGO:1089020300332630096> Underwater"
+        }
+    ],
+    
+    "KEUN_D_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **KWON EUN BI Dance** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/D_C.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:C_LOGO:1089020314236764240> Underwater"
+        }
+    ],
+    "KEUN_D_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **KWON EUN BI Dance** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/D_B.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:B_LOGO:1089020310508015626> Underwater"
+        }
+    ],
+    "KEUN_D_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **KWON EUN BI Dance** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/D_A.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:A_LOGO:1089020306556989592> Underwater"
+        }
+    ],
+    "KEUN_D_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **KWON EUN BI Dance** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/D_S.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:S_LOGO:1089020304254316624> Underwater"
+        }
+    ],
+    "KEUN_D_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **KWON EUN BI Dance** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/D_R.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:R_LOGO:1089020300332630096> Underwater"
+        }
+    ],
+
+"KEUN_R_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **KWON EUN BI Rhythm** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/R_C.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:C_LOGO:1089020314236764240> Underwater"
+        }
+    ],
+    "KEUN_R_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **KWON EUN BI Rhythm** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/R_B.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:B_LOGO:1089020310508015626> Underwater"
+        }
+    ],
+    "KEUN_R_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **KWON EUN BI Rhythm** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/R_A.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:A_LOGO:1089020306556989592> Underwater"
+        }
+    ],
+    "KEUN_R_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **KWON EUN BI Rhythm** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/R_S.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:S_LOGO:1089020304254316624> Underwater"
+        }
+    ],
+    "KEUN_R_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **KWON EUN BI Rhythm** Underwater",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/eunbi/underwater/R_R.png?format=png",
+            "theme": "Underwater",
+            "inv": "<:R_LOGO:1089020300332630096> Underwater"
+        }
     ]
     
     
