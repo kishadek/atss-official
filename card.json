@@ -3669,6 +3669,448 @@
             "theme": "Remember Forever",
             "inv": "<:R_LOGO:1089020300332630096> Finale"
         }
+    ],
+    
+    "SCR2_SM_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sumin** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/SM.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:C_LOGO:1089020314236764240> RUN2U"
+        }
+    ],
+    "SCR2_SM_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sumin** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/SM.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:B_LOGO:1089020310508015626> RUN2U"
+        }
+    ],
+    "SCR2_SM_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sumin** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/SM.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:A_LOGO:1089020306556989592> RUN2U"
+        }
+    ],
+    "SCR2_SM_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sumin** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/SM.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:S_LOGO:1089020304254316624> RUN2U"
+        }
+    ],
+    "SCR2_SM_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sumin** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/SM.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:R_LOGO:1089020300332630096> RUN2U"
+        }
+    ],
+    "SCR2_SI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sieun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/SI.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:C_LOGO:1089020314236764240> RUN2U"
+        }
+    ],
+    "SCR2_SI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sieun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/SI.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:B_LOGO:1089020310508015626> RUN2U"
+        }
+    ],
+    "SCR2_SI_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sieun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/SI.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:A_LOGO:1089020306556989592> RUN2U"
+        }
+    ],
+    "SCR2_SI_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sieun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/SI.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:S_LOGO:1089020304254316624> RUN2U"
+        }
+    ],
+    "SCR2_SI_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sieun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/SI.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:R_LOGO:1089020300332630096> RUN2U"
+        }
+    ],
+    "SCR2_IS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Isa** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/IS.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:C_LOGO:1089020314236764240> RUN2U"
+        }
+    ],
+    "SCR2_IS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Isa** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/IS.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:B_LOGO:1089020310508015626> RUN2U"
+        }
+    ],
+    "SCR2_IS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Isa** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/IS.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:A_LOGO:1089020306556989592> RUN2U"
+        }
+    ],
+    "SCR2_IS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Isa** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/IS.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:S_LOGO:1089020304254316624> RUN2U"
+        }
+    ],
+    "SCR2_IS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Isa** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/IS.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:R_LOGO:1089020300332630096> RUN2U"
+        }
+    ],
+    "SCR2_SE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Seeun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/SE.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:C_LOGO:1089020314236764240> RUN2U"
+        }
+    ],
+    "SCR2_SE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Seeun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/SE.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:B_LOGO:1089020310508015626> RUN2U"
+        }
+    ],
+    "SCR2_SE_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Seeun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/SE.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:A_LOGO:1089020306556989592> RUN2U"
+        }
+    ],
+    "SCR2_SE_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Seeun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/SE.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:S_LOGO:1089020304254316624> RUN2U"
+        }
+    ],
+    "SCR2_SE_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Seeun** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/SE.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:R_LOGO:1089020300332630096> RUN2U"
+        }
+    ],
+    "SCR2_YO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Yoon** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/YO.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:C_LOGO:1089020314236764240> RUN2U"
+        }
+    ],
+    "SCR2_YO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Yoon** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/YO.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:B_LOGO:1089020310508015626> RUN2U"
+        }
+    ],
+    "SCR2_YO_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Yoon** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/YO.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:A_LOGO:1089020306556989592> RUN2U"
+        }
+    ],
+    "SCR2_YO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Yoon** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/YO.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:S_LOGO:1089020304254316624> RUN2U"
+        }
+    ],
+    "SCR2_YO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Yoon** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/YO.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:R_LOGO:1089020300332630096> RUN2U"
+        }
+    ],
+    "SCR2_J_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC J** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/J.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:C_LOGO:1089020314236764240> RUN2U"
+        }
+    ],
+    "SCR2_J_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC J** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/J.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:B_LOGO:1089020310508015626> RUN2U"
+        }
+    ],
+    "SCR2_J_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC J** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/J.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:A_LOGO:1089020306556989592> RUN2U"
+        }
+    ],
+    "SCR2_J_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC J** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/J.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:S_LOGO:1089020304254316624> RUN2U"
+        }
+    ],
+    "SCR2_J_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC J** RUN2U",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/J.png?format=png",
+            "theme": "RUN2U",
+            "inv": "<:R_LOGO:1089020300332630096> RUN2U"
+        }
+    ],
+    
+    "LSFL_SK_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM SAKURA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/SK_C.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:C_LOGO:1089020314236764240> FEARLESS"
+        }
+    ],
+    "LSFL_SK_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM SAKURA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/SK_B.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:B_LOGO:1089020310508015626> FEARLESS"
+        }
+    ],
+    "LSFL_SK_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM SAKURA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/SK_A.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:A_LOGO:1089020306556989592> FEARLESS"
+        }
+    ],
+    "LSFL_SK_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM SAKURA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/SK_S.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:S_LOGO:1089020304254316624> FEARLESS"
+        }
+    ],
+    "LSFL_SK_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM SAKURA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/SK_R.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:R_LOGO:1089020300332630096> FEARLESS"
+        }
+    ],
+    "LSFL_CW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM CHAEWON** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/CW_C.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:C_LOGO:1089020314236764240> FEARLESS"
+        }
+    ],
+    "LSFL_CW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM CHAEWON** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/CW_B.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:B_LOGO:1089020310508015626> FEARLESS"
+        }
+    ],
+    "LSFL_CW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM CHAEWON** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/CW_A.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:A_LOGO:1089020306556989592> FEARLESS"
+        }
+    ],
+    "LSFL_CW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM CHAEWON** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/CW_S.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:S_LOGO:1089020304254316624> FEARLESS"
+        }
+    ],
+    "LSFL_CW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM CHAEWON** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/CW_R.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:R_LOGO:1089020300332630096> FEARLESS"
+        }
+    ],
+    "LSFL_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HY_C.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:C_LOGO:1089020314236764240> FEARLESS"
+        }
+    ],
+    "LSFL_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HY_B.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:B_LOGO:1089020310508015626> FEARLESS"
+        }
+    ],
+    "LSFL_HY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HY_A.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:A_LOGO:1089020306556989592> FEARLESS"
+        }
+    ],
+    "LSFL_HY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HY_S.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:S_LOGO:1089020304254316624> FEARLESS"
+        }
+    ],
+    "LSFL_HY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HY_R.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:R_LOGO:1089020300332630096> FEARLESS"
+        }
+    ],
+    "LSFL_KZ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM KAZUHA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/KZ_C.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:C_LOGO:1089020314236764240> FEARLESS"
+        }
+    ],
+    "LSFL_KZ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM KAZUHA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/KZ_B.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:B_LOGO:1089020310508015626> FEARLESS"
+        }
+    ],
+    "LSFL_KZ_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM KAZUHA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/KZ_A.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:A_LOGO:1089020306556989592> FEARLESS"
+        }
+    ],
+    "LSFL_KZ_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM KAZUHA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/KZ_S.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:S_LOGO:1089020304254316624> FEARLESS"
+        }
+    ],
+    "LSFL_KZ_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM KAZUHA** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/KZ_R.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:R_LOGO:1089020300332630096> FEARLESS"
+        }
+    ],
+    "LSFL_EC_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM EUNCHAE** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HC_C.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:C_LOGO:1089020314236764240> FEARLESS"
+        }
+    ],
+    "LSFL_EC_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM EUNCHAE** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HC_B.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:B_LOGO:1089020310508015626> FEARLESS"
+        }
+    ],
+    "LSFL_EC_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM EUNCHAE** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HC_A.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:A_LOGO:1089020306556989592> FEARLESS"
+        }
+    ],
+    "LSFL_EC_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM EUNCHAE** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HC_S.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:S_LOGO:1089020304254316624> FEARLESS"
+        }
+    ],
+    "LSFL_EC_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM EUNCHAE** FEARLESS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/fearless/HC_R.png?format=png",
+            "theme": "FEARLESS",
+            "inv": "<:R_LOGO:1089020300332630096> FEARLESS"
+        }
     ]
     
     
