@@ -4111,6 +4111,293 @@
             "theme": "FEARLESS",
             "inv": "<:R_LOGO:1089020300332630096> FEARLESS"
         }
+    ],
+    
+    "GTMA_TY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GOT The Beat TAEYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/C/TY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:C_LOGO:1089020314236764240> MALA"
+        }
+    ],
+    "GTMA_TY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GOT The Beat TAEYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/B/TY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:B_LOGO:1089020310508015626> MALA"
+        }
+    ],
+    "GTMA_TY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GOT The Beat TAEYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/A/TY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:A_LOGO:1089020306556989592> MALA"
+        }
+    ],
+    "GTMA_TY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GOT The Beat TAEYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/S/TY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:S_LOGO:1089020304254316624> MALA"
+        }
+    ],
+    "GTMA_TY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GOT The Beat TAEYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/R/TY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:R_LOGO:1089020300332630096> MALA"
+        }
+    ],
+    
+    "GTMA_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GOT The Beat HYOYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/C/HY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:C_LOGO:1089020314236764240> MALA"
+        }
+    ],
+    "GTMA_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GOT The Beat HYOYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/B/HY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:B_LOGO:1089020310508015626> MALA"
+        }
+    ],
+    "GTMA_HY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GOT The Beat HYOYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/A/HY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:A_LOGO:1089020306556989592> MALA"
+        }
+    ],
+    "GTMA_HY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GOT The Beat HYOYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/S/HY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:S_LOGO:1089020304254316624> MALA"
+        }
+    ],
+    "GTMA_HY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GOT The Beat HYOYEON** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/R/HY.png?format=png",
+            "theme": "MALA",
+            "inv": "<:R_LOGO:1089020300332630096> MALA"
+        }
+    ],
+    
+    "GTMA_KR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GOT The Beat KARINA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/C/KR.png?format=png",
+            "theme": "MALA",
+            "inv": "<:C_LOGO:1089020314236764240> MALA"
+        }
+    ],
+    "GTMA_KR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GOT The Beat KARINA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/B/KR.png?format=png",
+            "theme": "MALA",
+            "inv": "<:B_LOGO:1089020310508015626> MALA"
+        }
+    ],
+    "GTMA_KR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GOT The Beat KARINA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/A/KR.png?format=png",
+            "theme": "MALA",
+            "inv": "<:A_LOGO:1089020306556989592> MALA"
+        }
+    ],
+    "GTMA_KR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GOT The Beat KARINA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/S/KR.png?format=png",
+            "theme": "MALA",
+            "inv": "<:S_LOGO:1089020304254316624> MALA"
+        }
+    ],
+    "GTMA_KR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GOT The Beat KARINA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/R/KR.png?format=png",
+            "theme": "MALA",
+            "inv": "<:R_LOGO:1089020300332630096> MALA"
+        }
+    ],
+    
+    "GTMA_WT_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GOT The Beat WINTER** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/C/WT.png?format=png",
+            "theme": "MALA",
+            "inv": "<:C_LOGO:1089020314236764240> MALA"
+        }
+    ],
+    "GTMA_WT_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GOT The Beat WINTER** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/B/WT.png?format=png",
+            "theme": "MALA",
+            "inv": "<:B_LOGO:1089020310508015626> MALA"
+        }
+    ],
+    "GTMA_WT_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GOT The Beat WINTER** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/A/WT.png?format=png",
+            "theme": "MALA",
+            "inv": "<:A_LOGO:1089020306556989592> MALA"
+        }
+    ],
+    "GTMA_WT_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GOT The Beat WINTER** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/S/WT.png?format=png",
+            "theme": "MALA",
+            "inv": "<:S_LOGO:1089020304254316624> MALA"
+        }
+    ],
+    "GTMA_WT_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GOT The Beat WINTER** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/R/WT.png?format=png",
+            "theme": "MALA",
+            "inv": "<:R_LOGO:1089020300332630096> MALA"
+        }
+    ],
+    
+    "GTMA_SG_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GOT The Beat SEULGI** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/C/SG.png?format=png",
+            "theme": "MALA",
+            "inv": "<:C_LOGO:1089020314236764240> MALA"
+        }
+    ],
+    "GTMA_SG_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GOT The Beat SEULGI** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/B/SG.png?format=png",
+            "theme": "MALA",
+            "inv": "<:B_LOGO:1089020310508015626> MALA"
+        }
+    ],
+    "GTMA_SG_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GOT The Beat SEULGI** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/A/SG.png?format=png",
+            "theme": "MALA",
+            "inv": "<:A_LOGO:1089020306556989592> MALA"
+        }
+    ],
+    "GTMA_SG_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GOT The Beat SEULGI** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/S/SG.png?format=png",
+            "theme": "MALA",
+            "inv": "<:S_LOGO:1089020304254316624> MALA"
+        }
+    ],
+    "GTMA_SG_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GOT The Beat SEULGI** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/R/SG.png?format=png",
+            "theme": "MALA",
+            "inv": "<:R_LOGO:1089020300332630096> MALA"
+        }
+    ],
+    
+    "GTMA_WD_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GOT The Beat WENDY** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/C/WD.png?format=png",
+            "theme": "MALA",
+            "inv": "<:C_LOGO:1089020314236764240> MALA"
+        }
+    ],
+    "GTMA_WD_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GOT The Beat WENDY** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/B/WD.png?format=png",
+            "theme": "MALA",
+            "inv": "<:B_LOGO:1089020310508015626> MALA"
+        }
+    ],
+    "GTMA_WD_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GOT The Beat WENDY** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/A/WD.png?format=png",
+            "theme": "MALA",
+            "inv": "<:A_LOGO:1089020306556989592> MALA"
+        }
+    ],
+    "GTMA_WD_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GOT The Beat WENDY** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/S/WD.png?format=png",
+            "theme": "MALA",
+            "inv": "<:S_LOGO:1089020304254316624> MALA"
+        }
+    ],
+    "GTMA_WD_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GOT The Beat WENDY** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/R/WD.png?format=png",
+            "theme": "MALA",
+            "inv": "<:R_LOGO:1089020300332630096> MALA"
+        }
+    ],
+    
+    "GTMA_BO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GOT The Beat BoA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/C/BO.png?format=png",
+            "theme": "MALA",
+            "inv": "<:C_LOGO:1089020314236764240> MALA"
+        }
+    ],
+    "GTMA_BO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GOT The Beat BoA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/B/BO.png?format=png",
+            "theme": "MALA",
+            "inv": "<:B_LOGO:1089020310508015626> MALA"
+        }
+    ],
+    "GTMA_BO_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GOT The Beat BoA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/A/BO.png?format=png",
+            "theme": "MALA",
+            "inv": "<:A_LOGO:1089020306556989592> MALA"
+        }
+    ],
+    "GTMA_BO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GOT The Beat BoA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/S/BO.png?format=png",
+            "theme": "MALA",
+            "inv": "<:S_LOGO:1089020304254316624> MALA"
+        }
+    ],
+    "GTMA_BO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GOT The Beat BoA** MALA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got/mala/R/BO.png?format=png",
+            "theme": "MALA",
+            "inv": "<:R_LOGO:1089020300332630096> MALA"
+        }
     ]
     
     
