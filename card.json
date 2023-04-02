@@ -4640,6 +4640,211 @@
             "theme": "Hold My Hand",
             "inv": "<:R_LOGO:1089020300332630096> Hold My Hand"
         }
+    ],
+    
+    "OGGI_TY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation OH!GG TAEYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/C/TY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> Give it Up"
+        }
+    ],
+    "OGGI_TY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation OH!GG TAEYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/B/TY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> Give it Up"
+        }
+    ],
+    "OGGI_TY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation OH!GG TAEYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/A/TY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> Give it Up"
+        }
+    ],
+    "OGGI_TY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation OH!GG TAEYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/S/TY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> Give it Up"
+        }
+    ],
+    "OGGI_TY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation OH!GG TAEYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/R/TY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> Give it Up"
+        }
+    ],
+    
+    "OGGI_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation OH!GG HYOYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/C/HY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> Give it Up"
+        }
+    ],
+    "OGGI_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation OH!GG HYOYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/B/HY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> Give it Up"
+        }
+    ],
+    "OGGI_HY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation OH!GG HYOYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/A/HY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> Give it Up"
+        }
+    ],
+    "OGGI_HY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation OH!GG HYOYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/S/HY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> Give it Up"
+        }
+    ],
+    "OGGI_HY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation OH!GG HYOYEON** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/R/HY.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> Give it Up"
+        }
+    ],
+    
+    "OGGI_YN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation OH!GG YOONA** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/C/YN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> Give it Up"
+        }
+    ],
+    "OGGI_YN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation OH!GG YOONA** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/B/YN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> Give it Up"
+        }
+    ],
+    "OGGI_YN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation OH!GG YOONA** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/A/YN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> Give it Up"
+        }
+    ],
+    "OGGI_YN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation OH!GG YOONA** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/S/YN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> Give it Up"
+        }
+    ],
+    "OGGI_YN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation OH!GG YOONA** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/R/YN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> Give it Up"
+        }
+    ],
+    
+    "OGGI_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation OH!GG YURI** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/C/YR.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> Give it Up"
+        }
+    ],
+    "OGGI_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation OH!GG YURI** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/B/YR.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> Give it Up"
+        }
+    ],
+    "OGGI_YR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation OH!GG YURI** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/A/YR.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> Give it Up"
+        }
+    ],
+    "OGGI_YR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation OH!GG YURI** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/S/YR.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> Give it Up"
+        }
+    ],
+    "OGGI_YR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation OH!GG YURI** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/R/YR.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> Give it Up"
+        }
+    ],
+    
+    "OGGI_SN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation OH!GG SUNNY** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/C/SN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> Give it Up"
+        }
+    ],
+    "OGGI_SN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation OH!GG SUNNY** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/B/SN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> Give it Up"
+        }
+    ],
+    "OGGI_SN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation OH!GG SUNNY** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/A/SN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> Give it Up"
+        }
+    ],
+    "OGGI_SN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation OH!GG SUNNY** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/S/SN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> Give it Up"
+        }
+    ],
+    "OGGI_SN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation OH!GG SUNNY** Give it Up",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/oh_gg/give_it_up/R/SN.png?format=png",
+            "theme": "Lil' Touch [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> Give it Up"
+        }
     ]
     
     
