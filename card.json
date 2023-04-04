@@ -5501,5 +5501,251 @@
             "theme": "FEVER",
             "inv": "<:R_LOGO:1089020300332630096> FEVER"
         }
+    ],
+    
+    "GFCR_SW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GFRIEND SOWON** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/C/SW.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:C_LOGO:1089020314236764240> Crossroads"
+        }
+    ],
+    "GFCR_SW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GFRIEND SOWON** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/B/SW.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:B_LOGO:1089020310508015626> Crossroads"
+        }
+    ],
+    "GFCR_SW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GFRIEND SOWON** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/A/SW.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:A_LOGO:1089020306556989592> Crossroads"
+        }
+    ],
+    "GFCR_SW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GFRIEND SOWON** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/S/SW.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:S_LOGO:1089020304254316624> Crossroads"
+        }
+    ],
+    "GFCR_SW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GFRIEND SOWON** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/R/SW.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:R_LOGO:1089020300332630096> Crossroads"
+        }
+    ],
+    
+    "GFCR_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GFRIEND YERIN** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/C/YR.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:C_LOGO:1089020314236764240> Crossroads"
+        }
+    ],
+    "GFCR_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GFRIEND YERIN** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/B/YR.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:B_LOGO:1089020310508015626> Crossroads"
+        }
+    ],
+    "GFCR_YR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GFRIEND YERIN** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/A/YR.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:A_LOGO:1089020306556989592> Crossroads"
+        }
+    ],
+    "GFCR_YR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GFRIEND YERIN** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/S/YR.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:S_LOGO:1089020304254316624> Crossroads"
+        }
+    ],
+    "GFCR_YR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GFRIEND YERIN** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/R/YR.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:R_LOGO:1089020300332630096> Crossroads"
+        }
+    ],
+    
+    "GFCR_EH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GFRIEND EUNHA** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/C/EH.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:C_LOGO:1089020314236764240> Crossroads"
+        }
+    ],
+    "GFCR_EH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GFRIEND EUNHA** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/B/EH.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:B_LOGO:1089020310508015626> Crossroads"
+        }
+    ],
+    "GFCR_EH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GFRIEND EUNHA** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/A/EH.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:A_LOGO:1089020306556989592> Crossroads"
+        }
+    ],
+    "GFCR_EH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GFRIEND EUNHA** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/S/EH.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:S_LOGO:1089020304254316624> Crossroads"
+        }
+    ],
+    "GFCR_EH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GFRIEND EUNHA** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/R/EH.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:R_LOGO:1089020300332630096> Crossroads"
+        }
+    ],
+    
+    "GFCR_YJ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GFRIEND YUJU** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/C/YJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:C_LOGO:1089020314236764240> Crossroads"
+        }
+    ],
+    "GFCR_YJ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GFRIEND YUJU** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/B/YJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:B_LOGO:1089020310508015626> Crossroads"
+        }
+    ],
+    "GFCR_YJ_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GFRIEND YUJU** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/A/YJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:A_LOGO:1089020306556989592> Crossroads"
+        }
+    ],
+    "GFCR_YJ_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GFRIEND YUJU** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/S/YJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:S_LOGO:1089020304254316624> Crossroads"
+        }
+    ],
+    "GFCR_YJ_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GFRIEND YUJU** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/R/YJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:R_LOGO:1089020300332630096> Crossroads"
+        }
+    ],
+    
+    "GFCR_SB_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GFRIEND SinB** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/C/SB.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:C_LOGO:1089020314236764240> Crossroads"
+        }
+    ],
+    "GFCR_SB_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GFRIEND SinB** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/B/SB.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:B_LOGO:1089020310508015626> Crossroads"
+        }
+    ],
+    "GFCR_SB_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GFRIEND SinB** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/A/SB.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:A_LOGO:1089020306556989592> Crossroads"
+        }
+    ],
+    "GFCR_SB_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GFRIEND SinB** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/S/SB.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:S_LOGO:1089020304254316624> Crossroads"
+        }
+    ],
+    "GFCR_SB_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GFRIEND SinB** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/R/SB.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:R_LOGO:1089020300332630096> Crossroads"
+        }
+    ],
+    
+    "GFCR_UJ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **GFRIEND UMJI** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/C/UJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:C_LOGO:1089020314236764240> Crossroads"
+        }
+    ],
+    "GFCR_UJ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **GFRIEND UMJI** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/B/UJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:B_LOGO:1089020310508015626> Crossroads"
+        }
+    ],
+    "GFCR_UJ_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **GFRIEND UMJI** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/A/UJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:A_LOGO:1089020306556989592> Crossroads"
+        }
+    ],
+    "GFCR_UJ_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **GFRIEND UMJI** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/S/UJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:S_LOGO:1089020304254316624> Crossroads"
+        }
+    ],
+    "GFCR_UJ_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **GFRIEND UMJI** Crossroads",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gf/crossroads/R/UJ.png?format=png",
+            "theme": "Crossroads",
+            "inv": "<:R_LOGO:1089020300332630096> Crossroads"
+        }
     ]
 }
