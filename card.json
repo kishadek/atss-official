@@ -5747,5 +5747,777 @@
             "theme": "Crossroads",
             "inv": "<:R_LOGO:1089020300332630096> Crossroads"
         }
+    ],
+    
+    "BPDD_JN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_C.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_B.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_A.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_S.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_R.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_C.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_B.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_A.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_S.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_JS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_R.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_RS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_C.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_RS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_B.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_RS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_A.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_RS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_S.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_RS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_R.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_C.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_B.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_LS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_A.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_LS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_S.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+        }
+    ],
+    "BPDD_LS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** DDU-DU-DDU-DU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_R.png?format=png",
+            "theme": "DDU-DU-DDU-DU",
+            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+        }
+    ],
+    
+    "BPWH_JN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JN_C.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:C_LOGO:1089020314236764240> WHISTLE"
+        }
+    ],
+    "BPWH_JN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JN_B.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:B_LOGO:1089020310508015626> WHISTLE"
+        }
+    ],
+    "BPWH_JN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JN_A.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:A_LOGO:1089020306556989592> WHISTLE"
+        }
+    ],
+    "BPWH_JN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JN_S.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:S_LOGO:1089020304254316624> WHISTLE"
+        }
+    ],
+    "BPWH_JN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JN_R.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:R_LOGO:1089020300332630096> WHISTLE"
+        }
+    ],
+    "BPWH_JS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JS_C.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:C_LOGO:1089020314236764240> WHISTLE"
+        }
+    ],
+    "BPWH_JS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JS_B.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:B_LOGO:1089020310508015626> WHISTLE"
+        }
+    ],
+    "BPWH_JS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JS_A.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:A_LOGO:1089020306556989592> WHISTLE"
+        }
+    ],
+    "BPWH_JS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JS_S.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:S_LOGO:1089020304254316624> WHISTLE"
+        }
+    ],
+    "BPWH_JS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/JS_R.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:R_LOGO:1089020300332630096> WHISTLE"
+        }
+    ],
+    "BPWH_RS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/RS_C.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:C_LOGO:1089020314236764240> WHISTLE"
+        }
+    ],
+    "BPWH_RS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/RS_B.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:B_LOGO:1089020310508015626> WHISTLE"
+        }
+    ],
+    "BPWH_RS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/RS_A.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:A_LOGO:1089020306556989592> WHISTLE"
+        }
+    ],
+    "BPWH_RS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/RS_S.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:S_LOGO:1089020304254316624> WHISTLE"
+        }
+    ],
+    "BPWH_RS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/RS_R.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:R_LOGO:1089020300332630096> WHISTLE"
+        }
+    ],
+    "BPWH_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/LS_C.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:C_LOGO:1089020314236764240> WHISTLE"
+        }
+    ],
+    "BPWH_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/LS_B.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:B_LOGO:1089020310508015626> WHISTLE"
+        }
+    ],
+    "BPWH_LS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/LS_A.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:A_LOGO:1089020306556989592> WHISTLE"
+        }
+    ],
+    "BPWH_LS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/LS_S.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:S_LOGO:1089020304254316624> WHISTLE"
+        }
+    ],
+    "BPWH_LS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** WHISTLE",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ws/LS_R.png?format=png",
+            "theme": "WHISTLE",
+            "inv": "<:R_LOGO:1089020300332630096> WHISTLE"
+        }
+    ],
+    "TWMA_NY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE NAYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/NY_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_NY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE NAYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/NY_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_NY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE NAYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/NY_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_NY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE NAYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/NY_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_NY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE NAYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/NY_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_JY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE JEONGYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JY_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_JY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE JEONGYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JY_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_JY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE JEONGYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JY_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_JY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE JEONGYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JY_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_JY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE JEONGYEON** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JY_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_MO_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE MOMO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MO_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_MO_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE MOMO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MO_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_MO_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE MOMO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MO_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_MO_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE MOMO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MO_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_MO_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE MOMO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MO_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_SN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE SANA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/SN_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_SN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE SANA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/SN_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_SN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE SANA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/SN_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_SN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE SANA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/SN_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_SN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE SANA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/SN_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_JH_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE JIHYO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JH_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_JH_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE JIHYO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JH_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_JH_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE JIHYO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JH_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_JH_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE JIHYO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JH_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_JH_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE JIHYO** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/JH_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_MN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE MINA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MN_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_MN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE MINA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MN_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_MN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE MINA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MN_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_MN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE MINA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MN_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_MN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE MINA** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/MN_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_DH_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE DAHYUN** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/DH_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_DH_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE DAHYUN** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/DH_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_DH_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE DAHYUN** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/DH_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_DH_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE DAHYUN** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/DH_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_DH_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE DAHYUN** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/DH_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_CY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE CHAEYOUNG** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/CY_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_CY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE CHAEYOUNG** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/CY_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_CY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE CHAEYOUNG** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/CY_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_CY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE CHAEYOUNG** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/CY_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_CY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE CHAEYOUNG** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/CY_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
+    ],
+    
+    "TWMA_TZ_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **TWICE TZUYU** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/TZ_C.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:C_LOGO:1089020314236764240> MORE & MORE"
+    
+    }
+    ],
+ 
+  "TWMA_TZ_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **TWICE TZUYU** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/TZ_B.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:B_LOGO:1089020310508015626> MORE & MORE"
+    
+    }
+    ],
+ 
+   "TWMA_TZ_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **TWICE TZUYU** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/TZ_A.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:A_LOGO:1089020306556989592> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_TZ_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **TWICE TZUYU** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/TZ_S.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:S_LOGO:1089020304254316624> MORE & MORE"
+    
+    }
+    ],
+ 
+    "TWMA_TZ_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **TWICE TZUYU** MORE & MORE",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/twice/moreandmore/TZ_R.png?format=png",
+    "theme": "MORE & MORE",
+    "inv": "<:R_LOGO:1089020300332630096> MORE & MORE"
+    
+    }
     ]
+    
 }
