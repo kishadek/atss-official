@@ -5214,7 +5214,292 @@
             "theme": "Lil' Touch [Verse 2]",
             "inv": "<:R_LOGO:1089020300332630096> Give it Up"
         }
+    ],
+    
+"ENFV_JW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **ENHYPEN JUNGWON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/C/JW.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:C_LOGO:1089020314236764240> FEVER"
+        }
+    ],
+    "ENFV_JW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **ENHYPEN JUNGWON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/B/JW.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:B_LOGO:1089020310508015626> FEVER"
+        }
+    ],
+    "ENFV_JW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **ENHYPEN JUNGWON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/A/JW.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:A_LOGO:1089020306556989592> FEVER"
+        }
+    ],
+    "ENFV_JW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **ENHYPEN JUNGWON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/S/JW.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:S_LOGO:1089020304254316624> FEVER"
+        }
+    ],
+    "ENFV_JW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **ENHYPEN JUNGWON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/R/JW.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:R_LOGO:1089020300332630096> FEVER"
+        }
+    ],
+    
+    "ENFV_JK_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **ENHYPEN JAKE** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/C/JK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:C_LOGO:1089020314236764240> FEVER"
+        }
+    ],
+    "ENFV_JK_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **ENHYPEN JAKE** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/B/JK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:B_LOGO:1089020310508015626> FEVER"
+        }
+    ],
+    "ENFV_JK_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **ENHYPEN JAKE** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/A/JK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:A_LOGO:1089020306556989592> FEVER"
+        }
+    ],
+    "ENFV_JK_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **ENHYPEN JAKE** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/S/JK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:S_LOGO:1089020304254316624> FEVER"
+        }
+    ],
+    "ENFV_JK_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **ENHYPEN JAKE** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/R/JK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:R_LOGO:1089020300332630096> FEVER"
+        }
+    ],
+    
+    "ENFV_JA_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **ENHYPEN JAY** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/C/JA.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:C_LOGO:1089020314236764240> FEVER"
+        }
+    ],
+    "ENFV_JA_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **ENHYPEN JAY** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/B/JA.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:B_LOGO:1089020310508015626> FEVER"
+        }
+    ],
+    "ENFV_JA_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **ENHYPEN JAY** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/A/JA.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:A_LOGO:1089020306556989592> FEVER"
+        }
+    ],
+    "ENFV_JA_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **ENHYPEN JAY** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/S/JA.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:S_LOGO:1089020304254316624> FEVER"
+        }
+    ],
+    "ENFV_JA_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **ENHYPEN JAY** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/R/JA.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:R_LOGO:1089020300332630096> FEVER"
+        }
+    ],
+    
+    "ENFV_SN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **ENHYPEN SUNOO** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/C/SN.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:C_LOGO:1089020314236764240> FEVER"
+        }
+    ],
+    "ENFV_SN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **ENHYPEN SUNOO** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/B/SN.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:B_LOGO:1089020310508015626> FEVER"
+        }
+    ],
+    "ENFV_SN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **ENHYPEN SUNOO** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/A/SN.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:A_LOGO:1089020306556989592> FEVER"
+        }
+    ],
+    "ENFV_SN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **ENHYPEN SUNOO** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/S/SN.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:S_LOGO:1089020304254316624> FEVER"
+        }
+    ],
+    "ENFV_SN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **ENHYPEN SUNOO** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/R/SN.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:R_LOGO:1089020300332630096> FEVER"
+        }
+    ],
+    
+    "ENFV_SH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **ENHYPEN SUNGHOON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/C/SH.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:C_LOGO:1089020314236764240> FEVER"
+        }
+    ],
+    "ENFV_SH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **ENHYPEN SUNGHOON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/B/SH.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:B_LOGO:1089020310508015626> FEVER"
+        }
+    ],
+    "ENFV_SH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **ENHYPEN SUNGHOON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/A/SH.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:A_LOGO:1089020306556989592> FEVER"
+        }
+    ],
+    "ENFV_SH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **ENHYPEN SUNGHOON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/S/SH.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:S_LOGO:1089020304254316624> FEVER"
+        }
+    ],
+    "ENFV_SH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **ENHYPEN SUNGHOON** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/R/SH.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:R_LOGO:1089020300332630096> FEVER"
+        }
+    ],
+    
+    "ENFV_NK_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **ENHYPEN NI-KI** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/C/NK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:C_LOGO:1089020314236764240> FEVER"
+        }
+    ],
+    "ENFV_NK_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **ENHYPEN NI-KI** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/B/NK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:B_LOGO:1089020310508015626> FEVER"
+        }
+    ],
+    "ENFV_NK_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **ENHYPEN NI-KI** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/A/NK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:A_LOGO:1089020306556989592> FEVER"
+        }
+    ],
+    "ENFV_NK_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **ENHYPEN NI-KI** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/S/NK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:S_LOGO:1089020304254316624> FEVER"
+        }
+    ],
+    "ENFV_NK_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **ENHYPEN NI-KI** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/R/NK.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:R_LOGO:1089020300332630096> FEVER"
+        }
+    ],
+    
+    "ENFV_HS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **ENHYPEN HEESEUNG** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/C/HS.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:C_LOGO:1089020314236764240> FEVER"
+        }
+    ],
+    "ENFV_HS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **ENHYPEN HEESEUNG** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/B/HS.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:B_LOGO:1089020310508015626> FEVER"
+        }
+    ],
+    "ENFV_HS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **ENHYPEN HEESEUNG** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/A/HS.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:A_LOGO:1089020306556989592> FEVER"
+        }
+    ],
+    "ENFV_HS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **ENHYPEN HEESEUNG** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/S/HS.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:S_LOGO:1089020304254316624> FEVER"
+        }
+    ],
+    "ENFV_HS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **ENHYPEN HEESEUNG** FEVER",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/en/fever/R/HS.png?format=png",
+            "theme": "FEVER",
+            "inv": "<:R_LOGO:1089020300332630096> FEVER"
+        }
     ]
-    
-    
 }
