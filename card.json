@@ -6768,6 +6768,247 @@
     "inv": "<:R_LOGO:1089020300332630096> Blue Hour"
     
     }
+    ],
+    
+    "IVKI_AY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE ANYUJIN** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/C/AY.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:C_LOGO:1089020314236764240> Kitsch"
+        }
+    ],
+    "IVKI_AY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE ANYUJIN** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/B/AY.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:B_LOGO:1089020310508015626> Kitsch"
+        }
+    ],
+    "IVKI_AY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **IVE ANYUJIN** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/A/AY.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:A_LOGO:1089020306556989592> Kitsch"
+        }
+    ],
+    "IVKI_AY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE ANYUJIN** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/S/AY.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:S_LOGO:1089020304254316624> Kitsch"
+        }
+    ],
+    "IVKI_AY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE ANYUJIN** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/R/AY.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:R_LOGO:1089020300332630096> Kitsch"
+        }
+    ],
+    "IVKI_JW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE JANGWONYOUNG** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/C/JW.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:C_LOGO:1089020314236764240> Kitsch"
+        }
+    ],
+    "IVKI_JW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE JANGWONYOUNG** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/B/JW.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:B_LOGO:1089020310508015626> Kitsch"
+        }
+    ],
+    "IVKI_JW_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE JANGWONYOUNG** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/A/JW.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:A_LOGO:1089020306556989592> Kitsch"
+        }
+    ],
+    "IVKI_JW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE JANGWONYOUNG** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/S/JW.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:S_LOGO:1089020304254316624> Kitsch"
+        }
+    ],
+    "IVKI_JW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE JANGWONYOUNG** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/R/JW.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:R_LOGO:1089020300332630096> Kitsch"
+        }
+    ],
+    "IVKI_LI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE LIZ** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/C/LI.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:C_LOGO:1089020314236764240> Kitsch"
+        }
+    ],
+    "IVKI_LI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE LIZ** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/B/LI.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:B_LOGO:1089020310508015626> Kitsch"
+        }
+    ],
+    "IVKI_LI_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE LIZ** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/A/LI.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:A_LOGO:1089020306556989592> Kitsch"
+        }
+    ],
+    "IVKI_LI_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE LIZ** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/S/LI.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:S_LOGO:1089020304254316624> Kitsch"
+        }
+    ],
+    "IVKI_LI_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE LIZ** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/R/LI.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:R_LOGO:1089020300332630096> Kitsch"
+        }
+    ],
+    "IVKI_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE LEESEO** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/C/LS.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:C_LOGO:1089020314236764240> Kitsch"
+        }
+    ],
+    "IVKI_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE LEESEO** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/B/LS.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:B_LOGO:1089020310508015626> Kitsch"
+        }
+    ],
+    "IVKI_LS_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE LEESEO** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/A/LS.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:A_LOGO:1089020306556989592> Kitsch"
+        }
+    ],
+    "IVKI_LS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE LEESEO** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/S/LS.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:S_LOGO:1089020304254316624> Kitsch"
+        }
+    ],
+    "IVKI_LS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE LEESEO** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/R/LS.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:R_LOGO:1089020300332630096> Kitsch"
+        }
+    ],
+    "IVKI_RE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE REI** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/C/RE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:C_LOGO:1089020314236764240> Kitsch"
+        }
+    ],
+    "IVKI_RE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE REI** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/B/RE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:B_LOGO:1089020310508015626> Kitsch"
+        }
+    ],
+    "IVKI_RE_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE REI** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/A/RE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:A_LOGO:1089020306556989592> Kitsch"
+        }
+    ],
+    "IVKI_RE_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE REI** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/S/RE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:S_LOGO:1089020304254316624> Kitsch"
+        }
+    ],
+    "IVKI_RE_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE REI** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/R/RE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:R_LOGO:1089020300332630096> Kitsch"
+        }
+    ],
+    "IVKI_GE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **IVE GAEUL** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/C/GE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:C_LOGO:1089020314236764240> Kitsch"
+        }
+    ],
+    "IVKI_GE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **IVE GAEUL** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/B/GE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:B_LOGO:1089020310508015626> Kitsch"
+        }
+    ],
+    "IVKI_GE_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **IVE GAEUL** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/A/GE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:A_LOGO:1089020306556989592> Kitsch"
+        }
+    ],
+    "IVKI_GE_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **IVE GAEUL** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/S/GE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:S_LOGO:1089020304254316624> Kitsch"
+        }
+    ],
+    "IVKI_GE_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **IVE GAEUL** Kitsch",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/kitsch/R/GE.png?format=png",
+            "theme": "Kitsch",
+            "inv": "<:R_LOGO:1089020300332630096> Kitsch"
+        }
     ]
     
 }
