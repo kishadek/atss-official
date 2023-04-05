@@ -7661,6 +7661,167 @@
             "theme": "RBB (Really Bad Boy)",
             "inv": "<:R_LOGO:1089020300332630096> RBB"
         }
+    ],
+    
+    "BPBB_JN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JN_C.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:C_LOGO:1089020314236764240> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JN_B.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:B_LOGO:1089020310508015626> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JN_A.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:A_LOGO:1089020306556989592> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JN_S.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:S_LOGO:1089020304254316624> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JN_R.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:R_LOGO:1089020300332630096> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JS_C.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:C_LOGO:1089020314236764240> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JS_B.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:B_LOGO:1089020310508015626> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JS_A.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:A_LOGO:1089020306556989592> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JS_S.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:S_LOGO:1089020304254316624> BOOMBAYAH"
+        }
+    ],
+    "BPBB_JS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/JS_R.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:R_LOGO:1089020300332630096> BOOMBAYAH"
+        }
+    ],
+    "BPBB_RS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/RS_C.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:C_LOGO:1089020314236764240> BOOMBAYAH"
+        }
+    ],
+    "BPBB_RS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/RS_B.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:B_LOGO:1089020310508015626> BOOMBAYAH"
+        }
+    ],
+    "BPBB_RS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/RS_A.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:A_LOGO:1089020306556989592> BOOMBAYAH"
+        }
+    ],
+    "BPBB_RS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/RS_S.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:S_LOGO:1089020304254316624> BOOMBAYAH"
+        }
+    ],
+    "BPBB_RS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/RS_R.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:R_LOGO:1089020300332630096> BOOMBAYAH"
+        }
+    ],
+    "BPBB_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/LS_C.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:C_LOGO:1089020314236764240> BOOMBAYAH"
+        }
+    ],
+    "BPBB_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/LS_B.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:B_LOGO:1089020310508015626> BOOMBAYAH"
+        }
+    ],
+    "BPBB_LS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/LS_A.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:A_LOGO:1089020306556989592> BOOMBAYAH"
+        }
+    ],
+    "BPBB_LS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/LS_S.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:S_LOGO:1089020304254316624> BOOMBAYAH"
+        }
+    ],
+    "BPBB_LS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** BOOMBAYAH",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/boombayah/LS_R.png?format=png",
+            "theme": "BOOMBAYAH",
+            "inv": "<:R_LOGO:1089020300332630096> BOOMBAYAH"
+        }
     ]
     
 }
