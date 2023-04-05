@@ -7259,6 +7259,408 @@
     "inv": "<:R_LOGO:1089020300332630096> Tinnitus"
     
     }
+    ],
+    
+    "RVWA_IN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet IRENE** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/C/IN.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> We are queens"
+        }
+    ],
+    "RVWA_IN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet IRENE** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/B/IN.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> We are queens"
+        }
+    ],
+    "RVWA_IN_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet IRENE** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/A/IN.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> We are queens"
+        }
+    ],
+    "RVWA_IN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet IRENE** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/S/IN.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> We are queens"
+        }
+    ],
+    "RVWA_IN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet IRENE** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/R/IN.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> We are queens"
+        }
+    ],
+    "RVWA_SG_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet SEULGI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/C/SG.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> We are queens"
+        }
+    ],
+    "RVWA_SG_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet SEULGI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/B/SG.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> We are queens"
+        }
+    ],
+    "RVWA_SG_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet SEULGI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/A/SG.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> We are queens"
+        }
+    ],
+    "RVWA_SG_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet SEULGI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/S/SG.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> We are queens"
+        }
+    ],
+    "RVWA_SG_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet SEULGI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/R/SG.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> We are queens"
+        }
+    ],
+    "RVWA_WD_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet WENDY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/C/WD.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> We are queens"
+        }
+    ],
+    "RVWA_WD_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet WENDY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/B/WD.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> We are queens"
+        }
+    ],
+    "RVWA_WD_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet WENDY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/A/WD.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> We are queens"
+        }
+    ],
+    "RVWA_WD_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet WENDY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/S/WD.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> We are queens"
+        }
+    ],
+    "RVWA_WD_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet WENDY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/R/WD.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> We are queens"
+        }
+    ],
+    "RVWA_JO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet JOY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/C/JO.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> We are queens"
+        }
+    ],
+    "RVWA_JO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet JOY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/B/JO.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> We are queens"
+        }
+    ],
+    "RVWA_JO_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet JOY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/A/JO.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> We are queens"
+        }
+    ],
+    "RVWA_JO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet JOY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/S/JO.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> We are queens"
+        }
+    ],
+    "RVWA_JO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet JOY** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/R/JO.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> We are queens"
+        }
+    ],
+    "RVWA_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet YERI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/C/YR.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:C_LOGO:1089020314236764240> We are queens"
+        }
+    ],
+    "RVWA_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet YERI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/B/YR.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:B_LOGO:1089020310508015626> We are queens"
+        }
+    ],
+    "RVWA_YR_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet YERI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/A/YR.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:A_LOGO:1089020306556989592> We are queens"
+        }
+    ],
+    "RVWA_YR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet YERI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/S/YR.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:S_LOGO:1089020304254316624> We are queens"
+        }
+    ],
+    "RVWA_YR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet YERI** We are queens",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/we_are_queens/R/YR.png?format=png",
+            "theme": "Queendom [Verse 2]",
+            "inv": "<:R_LOGO:1089020300332630096> We are queens"
+        }
+    ],
+    
+    "RVRB_IN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet IRENE** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/C/IN.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:C_LOGO:1089020314236764240> RBB"
+        }
+    ],
+    "RVRB_IN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet IRENE** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/B/IN.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:B_LOGO:1089020310508015626> RBB"
+        }
+    ],
+    "RVRB_IN_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet IRENE** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/A/IN.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:A_LOGO:1089020306556989592> RBB"
+        }
+    ],
+    "RVRB_IN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet IRENE** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/S/IN.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:S_LOGO:1089020304254316624> RBB"
+        }
+    ],
+    "RVRB_IN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet IRENE** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/R/IN.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:R_LOGO:1089020300332630096> RBB"
+        }
+    ],
+    "RVRB_SG_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet SEULGI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/C/SG.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:C_LOGO:1089020314236764240> RBB"
+        }
+    ],
+    "RVRB_SG_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet SEULGI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/B/SG.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:B_LOGO:1089020310508015626> RBB"
+        }
+    ],
+    "RVRB_SG_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet SEULGI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/A/SG.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:A_LOGO:1089020306556989592> RBB"
+        }
+    ],
+    "RVRB_SG_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet SEULGI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/S/SG.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:S_LOGO:1089020304254316624> RBB"
+        }
+    ],
+    "RVRB_SG_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet SEULGI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/R/SG.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:R_LOGO:1089020300332630096> RBB"
+        }
+    ],
+    "RVRB_WD_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet WENDY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/C/WD.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:C_LOGO:1089020314236764240> RBB"
+        }
+    ],
+    "RVRB_WD_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet WENDY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/B/WD.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:B_LOGO:1089020310508015626> RBB"
+        }
+    ],
+    "RVRB_WD_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet WENDY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/A/WD.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:A_LOGO:1089020306556989592> RBB"
+        }
+    ],
+    "RVRB_WD_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet WENDY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/S/WD.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:S_LOGO:1089020304254316624> RBB"
+        }
+    ],
+    "RVRB_WD_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet WENDY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/R/WD.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:R_LOGO:1089020300332630096> RBB"
+        }
+    ],
+    "RVRB_JO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet JOY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/C/JO.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:C_LOGO:1089020314236764240> RBB"
+        }
+    ],
+    "RVRB_JO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet JOY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/B/JO.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:B_LOGO:1089020310508015626> RBB"
+        }
+    ],
+    "RVRB_JO_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet JOY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/A/JO.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:A_LOGO:1089020306556989592> RBB"
+        }
+    ],
+    "RVRB_JO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet JOY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/S/JO.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:S_LOGO:1089020304254316624> RBB"
+        }
+    ],
+    "RVRB_JO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet JOY** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/R/JO.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:R_LOGO:1089020300332630096> RBB"
+        }
+    ],
+    "RVRB_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Red Velvet YERI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/C/YR.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:C_LOGO:1089020314236764240> RBB"
+        }
+    ],
+    "RVRB_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Red Velvet YERI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/B/YR.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:B_LOGO:1089020310508015626> RBB"
+        }
+    ],
+    "RVRB_YR_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **Red Velvet YERI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/A/YR.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:A_LOGO:1089020306556989592> RBB"
+        }
+    ],
+    "RVRB_YR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Red Velvet YERI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/S/YR.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:S_LOGO:1089020304254316624> RBB"
+        }
+    ],
+    "RVRB_YR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Red Velvet YERI** RBB",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rv/rbb/R/YR.png?format=png",
+            "theme": "RBB (Really Bad Boy)",
+            "inv": "<:R_LOGO:1089020300332630096> RBB"
+        }
     ]
     
 }
