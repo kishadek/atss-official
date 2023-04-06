@@ -7822,6 +7822,167 @@
             "theme": "BOOMBAYAH",
             "inv": "<:R_LOGO:1089020300332630096> BOOMBAYAH"
         }
+    ],
+    
+    "NJDT_HN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans HANNI** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/C_HN.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:C_LOGO:1089020314236764240> Ditto"
+        }
+    ],
+    "NJDT_HN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans HANNI** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/B_HN.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:B_LOGO:1089020310508015626> Ditto"
+        }
+    ],
+    "NJDT_HN_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans HANNI** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/A_HN.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:A_LOGO:1089020306556989592> Ditto"
+        }
+    ],
+    "NJDT_HN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans HANNI** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/S_HN.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:S_LOGO:1089020304254316624> Ditto"
+        }
+    ],
+    "NJDT_HN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans HANNI** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/R_HN.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:R_LOGO:1089020300332630096> Ditto"
+        }
+    ],
+    "NJDT_DE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans DANIELLE** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/C_DE.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:C_LOGO:1089020314236764240> Ditto"
+        }
+    ],
+    "NJDT_DE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans DANIELLE** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/B_DE.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:B_LOGO:1089020310508015626> Ditto"
+        }
+    ],
+    "NJDT_DE_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans DANIELLE** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/A_DE.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:A_LOGO:1089020306556989592> Ditto"
+        }
+    ],
+    "NJDT_DE_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans DANIELLE** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/S_DE.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:S_LOGO:1089020304254316624> Ditto"
+        }
+    ],
+    "NJDT_DE_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans DANIELLE** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/R_DE.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:R_LOGO:1089020300332630096> Ditto"
+        }
+    ],
+    "NJDT_HR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans HAERIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/C_HR.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:C_LOGO:1089020314236764240> Ditto"
+        }
+    ],
+    "NJDT_HR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans HAERIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/B_HR.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:B_LOGO:1089020310508015626> Ditto"
+        }
+    ],
+    "NJDT_HR_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans HAERIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/A_HR.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:A_LOGO:1089020306556989592> Ditto"
+        }
+    ],
+    "NJDT_HR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans HAERIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/S_HR.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:S_LOGO:1089020304254316624> Ditto"
+        }
+    ],
+    "NJDT_HR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans HAERIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/R_HR.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:R_LOGO:1089020300332630096> Ditto"
+        }
+    ],
+    "NJDT_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NewJeans HYEIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/C_HY.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:C_LOGO:1089020314236764240> Ditto"
+        }
+    ],
+    "NJDT_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NewJeans HYEIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/B_HY.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:B_LOGO:1089020310508015626> Ditto"
+        }
+    ],
+    "NJDT_HY_A": [
+        {
+            "name": " <:A_LOGO:1089020306556989592> **NewJeans HYEIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/A_HY.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:A_LOGO:1089020306556989592> Ditto"
+        }
+    ],
+    "NJDT_HY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NewJeans HYEIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/S_HY.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:S_LOGO:1089020304254316624> Ditto"
+        }
+    ],
+    "NJDT_HY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NewJeans HYEIN** Ditto",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/newjeans/ditto/R_HY.png?format=png",
+            "theme": "Ditto",
+            "inv": "<:R_LOGO:1089020300332630096> Ditto"
+        }
     ]
     
 }
