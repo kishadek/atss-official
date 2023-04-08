@@ -9213,6 +9213,127 @@
             "theme": "Back Down",
             "inv": "<:R_LOGO:1089020300332630096> Back Down"
         }
+    ],
+    
+    "HYDE_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **HYO Vocal** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/5.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:C_LOGO:1089020314236764240> DEEP"
+        }
+    ],
+    "HYDE_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **HYO Vocal** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/4.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:B_LOGO:1089020310508015626> DEEP"
+        }
+    ],
+    "HYDE_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **HYO Vocal** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/3.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:A_LOGO:1089020306556989592> DEEP"
+        }
+    ],
+    "HYDE_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **HYO Vocal** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/2.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:S_LOGO:1089020304254316624> DEEP"
+        }
+    ],
+    "HYDE_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **HYO Vocal** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/1.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:R_LOGO:1089020300332630096> DEEP"
+        }
+    ],
+    "HYDE_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **HYO Dance** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/10.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:C_LOGO:1089020314236764240> DEEP"
+        }
+    ],
+    "HYDE_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **HYO Dance** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/9.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:B_LOGO:1089020310508015626> DEEP"
+        }
+    ],
+    "HYDE_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **HYO Dance** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/8.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:A_LOGO:1089020306556989592> DEEP"
+        }
+    ],
+    "HYDE_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **HYO Dance** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/7.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:S_LOGO:1089020304254316624> DEEP"
+        }
+    ],
+    "HYDE_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **HYO Dance** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/6.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:R_LOGO:1089020300332630096> DEEP"
+        }
+    ],
+    "HYDE_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **HYO Rhythm** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/15.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:C_LOGO:1089020314236764240> DEEP"
+        }
+    ],
+    "HYDE_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **HYO Rhythm** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/14.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:B_LOGO:1089020310508015626> DEEP"
+        }
+    ],
+    "HYDE_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **HYO Rhythm** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/13.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:A_LOGO:1089020306556989592> DEEP"
+        }
+    ],
+    "HYDE_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **HYO Rhythm** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/12.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:S_LOGO:1089020304254316624> DEEP"
+        }
+    ],
+    "HYDE_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **HYO Rhythm** DEEP",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/hyo/deep/11.png?format=png",
+            "theme": "DEEP",
+            "inv": "<:R_LOGO:1089020300332630096> DEEP"
+        }
     ]
     
 }
