@@ -8639,6 +8639,334 @@
             "theme": "Real Love",
             "inv": "<:R_LOGO:1089020300332630096> Real Love"
         }
+    ],
+    
+    "GGF1_TY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation TAEYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TY_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_TY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation TAEYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TY_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_TY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation TAEYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TY_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_TY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation TAEYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TY_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_TY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation TAEYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TY_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
+    ],
+    
+    "GGF1_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation HYOYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/HY_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation HYOYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/HY_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_HY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation HYOYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/HY_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_HY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation HYOYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/HY_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_HY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation HYOYEON** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/HY_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
+    ],
+    
+    "GGF1_TF_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation TIFFANY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TF_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_TF_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation TIFFANY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TF_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_TF_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation TIFFANY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TF_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_TF_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation TIFFANY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TF_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_TF_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation TIFFANY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/TF_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
+    ],
+    
+    "GGF1_SN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation SUNNY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SN_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_SN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation SUNNY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SN_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_SN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation SUNNY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SN_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_SN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation SUNNY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SN_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_SN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation SUNNY** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SN_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
+    ],
+    
+    "GGF1_YR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation YURI** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YR_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_YR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation YURI** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YR_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_YR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation YURI** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YR_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_YR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation YURI** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YR_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_YR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation YURI** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YR_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
+    ],
+    
+    "GGF1_SY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation SOOYOUNG** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SY_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_SY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation SOOYOUNG** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SY_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_SY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation SOOYOUNG** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SY_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_SY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation SOOYOUNG** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SY_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_SY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation SOOYOUNG** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SY_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
+    ],
+    
+    "GGF1_YN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation YOONA** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YN_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_YN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation YOONA** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YN_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_YN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation YOONA** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YN_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_YN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation YOONA** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YN_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_YN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation YOONA** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/YN_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
+    ],
+    
+    "GGF1_SH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **Girls' Generation SEOHYUN** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SH_C.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:C_LOGO:1089020314236764240> FOREVER 1"
+        }
+    ],
+    "GGF1_SH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **Girls' Generation SEOHYUN** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SH_B.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:B_LOGO:1089020310508015626> FOREVER 1"
+        }
+    ],
+    "GGF1_SH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **Girls' Generation SEOHYUN** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SH_A.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:A_LOGO:1089020306556989592> FOREVER 1"
+        }
+    ],
+    "GGF1_SH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **Girls' Generation SEOHYUN** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SH_S.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:S_LOGO:1089020304254316624> FOREVER 1"
+        }
+    ],
+    "GGF1_SH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **Girls' Generation SEOHYUN** FOREVER 1",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/gg/forever1/SH_R.png?format=png",
+            "theme": "FOREVER 1",
+            "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
+        }
     ]
     
 }
