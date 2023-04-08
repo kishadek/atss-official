@@ -7983,6 +7983,662 @@
             "theme": "Ditto",
             "inv": "<:R_LOGO:1089020300332630096> Ditto"
         }
+    ],
+    
+    "N12B_JH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 JAEHYUN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JH_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_JH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 JAEHYUN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JH_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_JH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 JAEHYUN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JH_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_JH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 JAEHYUN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JH_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_JH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 JAEHYUN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JH_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_MA_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 MARK** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/MA_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_MA_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 MARK** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/MA_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_MA_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 MARK** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/MA_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_MA_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 MARK** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/MA_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_MA_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 MARK** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/MA_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_JN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 JOHNNY** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JN_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_JN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 JOHNNY** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JN_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_JN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 JOHNNY** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JN_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_JN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 JOHNNY** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JN_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_JN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 JOHNNY** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JN_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_JW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 JUNGWOO** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JW_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_JW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 JUNGWOO** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JW_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_JW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 JUNGWOO** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JW_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_JW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 JUNGWOO** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JW_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_JW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 JUNGWOO** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/JW_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_DY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 DOYOUNG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/DY_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_DY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 DOYOUNG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/DY_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_DY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 DOYOUNG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/DY_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_DY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 DOYOUNG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/DY_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_DY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 DOYOUNG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/DY_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_TY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 TAEYONG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TY_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_TY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 TAEYONG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TY_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_TY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 TAEYONG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TY_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_TY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 TAEYONG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TY_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_TY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 TAEYONG** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TY_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_TA_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 TAEIL** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TA_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_TA_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 TAEIL** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TA_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_TA_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 TAEIL** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TA_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_TA_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 TAEIL** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TA_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_TA_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 TAEIL** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/TA_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_YT_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 YUTA** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/YT_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_YT_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 YUTA** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/YT_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_YT_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 YUTA** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/YT_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_YT_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 YUTA** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/YT_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_YT_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 YUTA** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/YT_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "N12B_HC_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **NCT 127 HAECHAN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/HC_C.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:C_LOGO:1089020314236764240> 2 Baddies"
+        }
+    ],
+    "N12B_HC_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **NCT 127 HAECHAN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/HC_B.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:B_LOGO:1089020310508015626> 2 Baddies"
+        }
+    ],
+    "N12B_HC_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **NCT 127 HAECHAN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/HC_A.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:A_LOGO:1089020306556989592> 2 Baddies"
+        }
+    ],
+    "N12B_HC_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **NCT 127 HAECHAN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/HC_S.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:S_LOGO:1089020304254316624> 2 Baddies"
+        }
+    ],
+    "N12B_HC_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **NCT 127 HAECHAN** 2 Baddies",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct127/2_baddies/HC_R.png?format=png",
+            "theme": "2 Baddies",
+            "inv": "<:R_LOGO:1089020300332630096> 2 Baddies"
+        }
+    ],
+    
+    "OMRL_YO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **OH MY GIRL YooA** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YO_C.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:C_LOGO:1089020314236764240> Real Love"
+        }
+    ],
+    "OMRL_YO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **OH MY GIRL YooA** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YO_B.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:B_LOGO:1089020310508015626> Real Love"
+        }
+    ],
+    "OMRL_YO_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **OH MY GIRL YooA** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YO_A.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:A_LOGO:1089020306556989592> Real Love"
+        }
+    ],
+    "OMRL_YO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **OH MY GIRL YooA** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YO_S.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:S_LOGO:1089020304254316624> Real Love"
+        }
+    ],
+    "OMRL_YO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **OH MY GIRL YooA** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YO_R.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:R_LOGO:1089020300332630096> Real Love"
+        }
+    ],
+    
+    "OMRL_HJ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **OH MY GIRL HYOJUNG** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/HJ_C.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:C_LOGO:1089020314236764240> Real Love"
+        }
+    ],
+    "OMRL_HJ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **OH MY GIRL HYOJUNG** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/HJ_B.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:B_LOGO:1089020310508015626> Real Love"
+        }
+    ],
+    "OMRL_HJ_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **OH MY GIRL HYOJUNG** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/HJ_A.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:A_LOGO:1089020306556989592> Real Love"
+        }
+    ],
+    "OMRL_HJ_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **OH MY GIRL HYOJUNG** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/HJ_S.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:S_LOGO:1089020304254316624> Real Love"
+        }
+    ],
+    "OMRL_HJ_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **OH MY GIRL HYOJUNG** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/HJ_R.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:R_LOGO:1089020300332630096> Real Love"
+        }
+    ],
+    
+    "OMRL_YB_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **OH MY GIRL YUBIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YB_C.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:C_LOGO:1089020314236764240> Real Love"
+        }
+    ],
+    "OMRL_YB_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **OH MY GIRL YUBIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YB_B.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:B_LOGO:1089020310508015626> Real Love"
+        }
+    ],
+    "OMRL_YB_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **OH MY GIRL YUBIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YB_A.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:A_LOGO:1089020306556989592> Real Love"
+        }
+    ],
+    "OMRL_YB_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **OH MY GIRL YUBIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YB_S.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:S_LOGO:1089020304254316624> Real Love"
+        }
+    ],
+    "OMRL_YB_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **OH MY GIRL YUBIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/YB_R.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:R_LOGO:1089020300332630096> Real Love"
+        }
+    ],
+    
+    "OMRL_SH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **OH MY GIRL SEUNGHEE** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/SH_C.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:C_LOGO:1089020314236764240> Real Love"
+        }
+    ],
+    "OMRL_SH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **OH MY GIRL SEUNGHEE** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/SH_B.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:B_LOGO:1089020310508015626> Real Love"
+        }
+    ],
+    "OMRL_SH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **OH MY GIRL SEUNGHEE** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/SH_A.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:A_LOGO:1089020306556989592> Real Love"
+        }
+    ],
+    "OMRL_SH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **OH MY GIRL SEUNGHEE** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/SH_S.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:S_LOGO:1089020304254316624> Real Love"
+        }
+    ],
+    "OMRL_SH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **OH MY GIRL SEUNGHEE** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/SH_R.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:R_LOGO:1089020300332630096> Real Love"
+        }
+    ],
+    
+    "OMRL_MI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **OH MY GIRL MIMI** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/MI_C.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:C_LOGO:1089020314236764240> Real Love"
+        }
+    ],
+    "OMRL_MI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **OH MY GIRL MIMI** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/MI_B.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:B_LOGO:1089020310508015626> Real Love"
+        }
+    ],
+    "OMRL_MI_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **OH MY GIRL MIMI** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/MI_A.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:A_LOGO:1089020306556989592> Real Love"
+        }
+    ],
+    "OMRL_MI_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **OH MY GIRL MIMI** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/MI_S.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:S_LOGO:1089020304254316624> Real Love"
+        }
+    ],
+    "OMRL_MI_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **OH MY GIRL MIMI** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/MI_R.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:R_LOGO:1089020300332630096> Real Love"
+        }
+    ],
+    
+    "OMRL_AR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **OH MY GIRL ARIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/AR_C.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:C_LOGO:1089020314236764240> Real Love"
+        }
+    ],
+    "OMRL_AR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **OH MY GIRL ARIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/AR_B.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:B_LOGO:1089020310508015626> Real Love"
+        }
+    ],
+    "OMRL_AR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **OH MY GIRL ARIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/AR_A.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:A_LOGO:1089020306556989592> Real Love"
+        }
+    ],
+    "OMRL_AR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **OH MY GIRL ARIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/AR_S.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:S_LOGO:1089020304254316624> Real Love"
+        }
+    ],
+    "OMRL_AR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **OH MY GIRL ARIN** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/AR_R.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:R_LOGO:1089020300332630096> Real Love"
+        }
+    ],
+    
+    "OMRL_JH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **OH MY GIRL JIHO** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/JH_C.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:C_LOGO:1089020314236764240> Real Love"
+        }
+    ],
+    "OMRL_JH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **OH MY GIRL JIHO** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/JH_B.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:B_LOGO:1089020310508015626> Real Love"
+        }
+    ],
+    "OMRL_JH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **OH MY GIRL JIHO** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/JH_A.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:A_LOGO:1089020306556989592> Real Love"
+        }
+    ],
+    "OMRL_JH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **OH MY GIRL JIHO** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/JH_S.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:S_LOGO:1089020304254316624> Real Love"
+        }
+    ],
+    "OMRL_JH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **OH MY GIRL JIHO** Real Love",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/omg/real_love/JH_R.png?format=png",
+            "theme": "Real Love",
+            "inv": "<:R_LOGO:1089020300332630096> Real Love"
+        }
     ]
     
 }
