@@ -8967,6 +8967,252 @@
             "theme": "FOREVER 1",
             "inv": "<:R_LOGO:1089020300332630096> FOREVER 1"
         }
+    ],
+    
+"P1BD_KH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **P1Harmony KEEHO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/KH_C.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:C_LOGO:1089020314236764240> Back Down"
+        }
+    ],
+    "P1BD_KH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **P1Harmony KEEHO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/KH_B.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:B_LOGO:1089020310508015626> Back Down"
+        }
+    ],
+    "P1BD_KH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **P1Harmony KEEHO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/KH_A.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:A_LOGO:1089020306556989592> Back Down"
+        }
+    ],
+    "P1BD_KH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **P1Harmony KEEHO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/KH_S.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:S_LOGO:1089020304254316624> Back Down"
+        }
+    ],
+    "P1BD_KH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **P1Harmony KEEHO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/KH_R.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:R_LOGO:1089020300332630096> Back Down"
+        }
+    ],
+    
+    "P1BD_IN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **P1Harmony INTAK** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/IN_C.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:C_LOGO:1089020314236764240> Back Down"
+        }
+    ],
+    "P1BD_IN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **P1Harmony INTAK** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/IN_B.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:B_LOGO:1089020310508015626> Back Down"
+        }
+    ],
+    "P1BD_IN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **P1Harmony INTAK** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/IN_A.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:A_LOGO:1089020306556989592> Back Down"
+        }
+    ],
+    "P1BD_IN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **P1Harmony INTAK** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/IN_S.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:S_LOGO:1089020304254316624> Back Down"
+        }
+    ],
+    "P1BD_IN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **P1Harmony INTAK** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/IN_R.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:R_LOGO:1089020300332630096> Back Down"
+        }
+    ],
+    
+    "P1BD_JS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **P1Harmony JONGSEOB** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JS_C.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:C_LOGO:1089020314236764240> Back Down"
+        }
+    ],
+    "P1BD_JS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **P1Harmony JONGSEOB** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JS_B.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:B_LOGO:1089020310508015626> Back Down"
+        }
+    ],
+    "P1BD_JS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **P1Harmony JONGSEOB** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JS_A.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:A_LOGO:1089020306556989592> Back Down"
+        }
+    ],
+    "P1BD_JS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **P1Harmony JONGSEOB** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JS_S.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:S_LOGO:1089020304254316624> Back Down"
+        }
+    ],
+    "P1BD_JS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **P1Harmony JONGSEOB** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JS_R.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:R_LOGO:1089020300332630096> Back Down"
+        }
+    ],
+    
+    "P1BD_SO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **P1Harmony SOUL** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/SO_C.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:C_LOGO:1089020314236764240> Back Down"
+        }
+    ],
+    "P1BD_SO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **P1Harmony SOUL** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/SO_B.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:B_LOGO:1089020310508015626> Back Down"
+        }
+    ],
+    "P1BD_SO_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **P1Harmony SOUL** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/SO_A.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:A_LOGO:1089020306556989592> Back Down"
+        }
+    ],
+    "P1BD_SO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **P1Harmony SOUL** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/SO_S.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:S_LOGO:1089020304254316624> Back Down"
+        }
+    ],
+    "P1BD_SO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **P1Harmony SOUL** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/SO_R.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:R_LOGO:1089020300332630096> Back Down"
+        }
+    ],
+    
+    "P1BD_JI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **P1Harmony JIUNG** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JI_C.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:C_LOGO:1089020314236764240> Back Down"
+        }
+    ],
+    "P1BD_JI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **P1Harmony JIUNG** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JI_B.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:B_LOGO:1089020310508015626> Back Down"
+        }
+    ],
+    "P1BD_JI_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **P1Harmony JIUNG** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JI_A.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:A_LOGO:1089020306556989592> Back Down"
+        }
+    ],
+    "P1BD_JI_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **P1Harmony JIUNG** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JI_S.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:S_LOGO:1089020304254316624> Back Down"
+        }
+    ],
+    "P1BD_JI_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **P1Harmony JIUNG** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/JI_R.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:R_LOGO:1089020300332630096> Back Down"
+        }
+    ],
+    
+    "P1BD_TH_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **P1Harmony THEO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/TH_C.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:C_LOGO:1089020314236764240> Back Down"
+        }
+    ],
+    "P1BD_TH_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **P1Harmony THEO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/TH_B.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:B_LOGO:1089020310508015626> Back Down"
+        }
+    ],
+    "P1BD_TH_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **P1Harmony THEO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/TH_A.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:A_LOGO:1089020306556989592> Back Down"
+        }
+    ],
+    "P1BD_TH_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **P1Harmony THEO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/TH_S.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:S_LOGO:1089020304254316624> Back Down"
+        }
+    ],
+    "P1BD_TH_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **P1Harmony THEO** Back Down",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/p1h/backdown/TH_R.png?format=png",
+            "theme": "Back Down",
+            "inv": "<:R_LOGO:1089020300332630096> Back Down"
+        }
     ]
     
 }
