@@ -4043,7 +4043,7 @@
     "SCR2_SM_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **STAYC Sumin** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/SM.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SM_C.png?format=png",
             "theme": "RUN2U",
             "inv": "<:C_LOGO:1089020314236764240> RUN2U"
         }
@@ -4051,7 +4051,7 @@
     "SCR2_SM_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **STAYC Sumin** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/SM.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SM_B.png?format=png",
             "theme": "RUN2U",
             "inv": "<:B_LOGO:1089020310508015626> RUN2U"
         }
@@ -4059,7 +4059,7 @@
     "SCR2_SM_A": [
         {
             "name": "<:A_LOGO:1089020306556989592> **STAYC Sumin** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/SM.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SM_A.png?format=png",
             "theme": "RUN2U",
             "inv": "<:A_LOGO:1089020306556989592> RUN2U"
         }
@@ -4067,7 +4067,7 @@
     "SCR2_SM_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **STAYC Sumin** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/SM.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SM_S.png?format=png",
             "theme": "RUN2U",
             "inv": "<:S_LOGO:1089020304254316624> RUN2U"
         }
@@ -4075,7 +4075,7 @@
     "SCR2_SM_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **STAYC Sumin** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/SM.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SM_R.png?format=png",
             "theme": "RUN2U",
             "inv": "<:R_LOGO:1089020300332630096> RUN2U"
         }
@@ -4083,7 +4083,7 @@
     "SCR2_SI_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **STAYC Sieun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/SI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SI_C.png?format=png",
             "theme": "RUN2U",
             "inv": "<:C_LOGO:1089020314236764240> RUN2U"
         }
@@ -4091,7 +4091,7 @@
     "SCR2_SI_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **STAYC Sieun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/SI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SI_B.png?format=png",
             "theme": "RUN2U",
             "inv": "<:B_LOGO:1089020310508015626> RUN2U"
         }
@@ -4099,7 +4099,7 @@
     "SCR2_SI_A": [
         {
             "name": "<:A_LOGO:1089020306556989592> **STAYC Sieun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/SI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SI_A.png?format=png",
             "theme": "RUN2U",
             "inv": "<:A_LOGO:1089020306556989592> RUN2U"
         }
@@ -4107,7 +4107,7 @@
     "SCR2_SI_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **STAYC Sieun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/SI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SI_S.png?format=png",
             "theme": "RUN2U",
             "inv": "<:S_LOGO:1089020304254316624> RUN2U"
         }
@@ -4115,7 +4115,7 @@
     "SCR2_SI_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **STAYC Sieun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/SI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SI_R.png?format=png",
             "theme": "RUN2U",
             "inv": "<:R_LOGO:1089020300332630096> RUN2U"
         }
@@ -4123,7 +4123,7 @@
     "SCR2_IS_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **STAYC Isa** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/IS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/IS_C.png?format=png",
             "theme": "RUN2U",
             "inv": "<:C_LOGO:1089020314236764240> RUN2U"
         }
@@ -4131,7 +4131,7 @@
     "SCR2_IS_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **STAYC Isa** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/IS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/IS_B.png?format=png",
             "theme": "RUN2U",
             "inv": "<:B_LOGO:1089020310508015626> RUN2U"
         }
@@ -4139,7 +4139,7 @@
     "SCR2_IS_A": [
         {
             "name": "<:A_LOGO:1089020306556989592> **STAYC Isa** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/IS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/IS_A.png?format=png",
             "theme": "RUN2U",
             "inv": "<:A_LOGO:1089020306556989592> RUN2U"
         }
@@ -4147,7 +4147,7 @@
     "SCR2_IS_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **STAYC Isa** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/IS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/IS_S.png?format=png",
             "theme": "RUN2U",
             "inv": "<:S_LOGO:1089020304254316624> RUN2U"
         }
@@ -4155,7 +4155,7 @@
     "SCR2_IS_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **STAYC Isa** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/IS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S_IS.png?format=png",
             "theme": "RUN2U",
             "inv": "<:R_LOGO:1089020300332630096> RUN2U"
         }
@@ -4163,7 +4163,7 @@
     "SCR2_SE_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **STAYC Seeun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/SE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SE_C.png?format=png",
             "theme": "RUN2U",
             "inv": "<:C_LOGO:1089020314236764240> RUN2U"
         }
@@ -4171,7 +4171,7 @@
     "SCR2_SE_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **STAYC Seeun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/SE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SE_B.png?format=png",
             "theme": "RUN2U",
             "inv": "<:B_LOGO:1089020310508015626> RUN2U"
         }
@@ -4179,7 +4179,7 @@
     "SCR2_SE_A": [
         {
             "name": "<:A_LOGO:1089020306556989592> **STAYC Seeun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/SE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SE_A.png?format=png",
             "theme": "RUN2U",
             "inv": "<:A_LOGO:1089020306556989592> RUN2U"
         }
@@ -4187,7 +4187,7 @@
     "SCR2_SE_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **STAYC Seeun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/SE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SE_S.png?format=png",
             "theme": "RUN2U",
             "inv": "<:S_LOGO:1089020304254316624> RUN2U"
         }
@@ -4195,7 +4195,7 @@
     "SCR2_SE_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **STAYC Seeun** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/SE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/SE_R.png?format=png",
             "theme": "RUN2U",
             "inv": "<:R_LOGO:1089020300332630096> RUN2U"
         }
@@ -4203,7 +4203,7 @@
     "SCR2_YO_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **STAYC Yoon** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/YO.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/YO_C.png?format=png",
             "theme": "RUN2U",
             "inv": "<:C_LOGO:1089020314236764240> RUN2U"
         }
@@ -4211,7 +4211,7 @@
     "SCR2_YO_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **STAYC Yoon** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/YO.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/YO_B.png?format=png",
             "theme": "RUN2U",
             "inv": "<:B_LOGO:1089020310508015626> RUN2U"
         }
@@ -4219,7 +4219,7 @@
     "SCR2_YO_A": [
         {
             "name": "<:A_LOGO:1089020306556989592> **STAYC Yoon** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/YO.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/YO_A.png?format=png",
             "theme": "RUN2U",
             "inv": "<:A_LOGO:1089020306556989592> RUN2U"
         }
@@ -4227,7 +4227,7 @@
     "SCR2_YO_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **STAYC Yoon** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/YO.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/YO_S.png?format=png",
             "theme": "RUN2U",
             "inv": "<:S_LOGO:1089020304254316624> RUN2U"
         }
@@ -4235,7 +4235,7 @@
     "SCR2_YO_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **STAYC Yoon** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/YO.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/YO_R.png?format=png",
             "theme": "RUN2U",
             "inv": "<:R_LOGO:1089020300332630096> RUN2U"
         }
@@ -4243,7 +4243,7 @@
     "SCR2_J_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **STAYC J** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/C/J.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/J_C.png?format=png",
             "theme": "RUN2U",
             "inv": "<:C_LOGO:1089020314236764240> RUN2U"
         }
@@ -4251,7 +4251,7 @@
     "SCR2_J_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **STAYC J** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/B/J.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/J_B.png?format=png",
             "theme": "RUN2U",
             "inv": "<:B_LOGO:1089020310508015626> RUN2U"
         }
@@ -4259,7 +4259,7 @@
     "SCR2_J_A": [
         {
             "name": "<:A_LOGO:1089020306556989592> **STAYC J** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/A/J.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/J_A.png?format=png",
             "theme": "RUN2U",
             "inv": "<:A_LOGO:1089020306556989592> RUN2U"
         }
@@ -4267,7 +4267,7 @@
     "SCR2_J_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **STAYC J** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/S/J.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/J_S.png?format=png",
             "theme": "RUN2U",
             "inv": "<:S_LOGO:1089020304254316624> RUN2U"
         }
@@ -4275,7 +4275,7 @@
     "SCR2_J_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **STAYC J** RUN2U",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/R/J.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/run2u/J_R.png?format=png",
             "theme": "RUN2U",
             "inv": "<:R_LOGO:1089020300332630096> RUN2U"
         }
