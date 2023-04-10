@@ -10056,6 +10056,256 @@
             "theme": "DEEP",
             "inv": "<:R_LOGO:1089020300332630096> DEEP"
         }
+    ],
+    
+    "ITSN_YJ_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **ITZY YEJI** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YJ_C.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:C_LOGO:1089020314236764240> SNEAKERS"
+    
+    }
+    ],
+ 
+  "ITSN_YJ_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **ITZY YEJI** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YJ_B.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:B_LOGO:1089020310508015626> SNEAKERS"
+    
+    }
+    ],
+ 
+   "ITSN_YJ_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **ITZY YEJI** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YJ_A.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:A_LOGO:1089020306556989592> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_YJ_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **ITZY YEJI** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YJ_S.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:S_LOGO:1089020304254316624> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_YJ_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **ITZY YEJI** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YJ_R.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:R_LOGO:1089020300332630096> SNEAKERS"
+    
+    }
+    ],
+    
+    "ITSN_LI_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **ITZY LIA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/LI_C.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:C_LOGO:1089020314236764240> SNEAKERS"
+    
+    }
+    ],
+ 
+  "ITSN_LI_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **ITZY LIA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/LI_B.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:B_LOGO:1089020310508015626> SNEAKERS"
+    
+    }
+    ],
+ 
+   "ITSN_LI_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **ITZY LIA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/LI_A.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:A_LOGO:1089020306556989592> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_LI_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **ITZY LIA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/LI_S.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:S_LOGO:1089020304254316624> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_LI_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **ITZY LIA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/LI_R.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:R_LOGO:1089020300332630096> SNEAKERS"
+    
+    }
+    ],
+    
+    "ITSN_RJ_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **ITZY RYUJIN** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/RJ_C.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:C_LOGO:1089020314236764240> SNEAKERS"
+    
+    }
+    ],
+ 
+  "ITSN_RJ_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **ITZY RYUJIN** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/RJ_B.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:B_LOGO:1089020310508015626> SNEAKERS"
+    
+    }
+    ],
+ 
+   "ITSN_RJ_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **ITZY RYUJIN** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/RJ_A.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:A_LOGO:1089020306556989592> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_RJ_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **ITZY RYUJIN** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/RJ_S.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:S_LOGO:1089020304254316624> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_RJ_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **ITZY RYUJIN** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/RJ_R.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:R_LOGO:1089020300332630096> SNEAKERS"
+    
+    }
+    ],
+    
+    "ITSN_CY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **ITZY CHAERYEONG** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/CY_C.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:C_LOGO:1089020314236764240> SNEAKERS"
+    
+    }
+    ],
+ 
+  "ITSN_CY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **ITZY CHAERYEONG** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/CY_B.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:B_LOGO:1089020310508015626> SNEAKERS"
+    
+    }
+    ],
+ 
+   "ITSN_CY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **ITZY CHAERYEONG** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/CY_A.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:A_LOGO:1089020306556989592> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_CY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **ITZY CHAERYEONG** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/CY_S.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:S_LOGO:1089020304254316624> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_CY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **ITZY CHAERYEONG** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/CY_R.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:R_LOGO:1089020300332630096> SNEAKERS"
+    
+    }
+    ],
+    
+    "ITSN_YN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **ITZY YUNA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YN_C.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:C_LOGO:1089020314236764240> SNEAKERS"
+    
+    }
+    ],
+ 
+  "ITSN_YN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **ITZY YUNA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YN_B.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:B_LOGO:1089020310508015626> SNEAKERS"
+    
+    }
+    ],
+ 
+   "ITSN_YN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **ITZY YUNA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YN_A.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:A_LOGO:1089020306556989592> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_YN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **ITZY YUNA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YN_S.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:S_LOGO:1089020304254316624> SNEAKERS"
+    
+    }
+    ],
+ 
+    "ITSN_YN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **ITZY YUNA** SNEAKERS",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/itzy/sneakers/YN_R.png?format=png",
+    "theme": "SNEAKERS",
+    "inv": "<:R_LOGO:1089020300332630096> SNEAKERS"
+    
+    }
     ]
     
 }
