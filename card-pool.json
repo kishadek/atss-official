@@ -52,8 +52,8 @@
     "i_am": [
     {
    "card1": "IVIA_JW;IVIA_AY;IVIA_RE;IVIA_GE;IVIA_LI;IVIA_LS",
-        "card1": "IVIA_JW;IVIA_AY;IVIA_RE;IVIA_GE;IVIA_LI;IVIA_LS",
-        "card1": "IVIA_JW;IVIA_LI;IVIA_LS;IVIA_AY;IVIA_RE;IVIA_GE"
+        "card2": "IVIA_JW;IVIA_AY;IVIA_RE;IVIA_GE;IVIA_LI;IVIA_LS",
+        "card3": "IVIA_JW;IVIA_LI;IVIA_LS;IVIA_AY;IVIA_RE;IVIA_GE"
       
     }
     ]
