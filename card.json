@@ -4281,6 +4281,487 @@
         }
     ],
     
+    "SCBT_SM_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sumin** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SM_C.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:C_LOGO:1089020314236764240> BUTTERFLY"
+        }
+    ],
+    "SCBT_SM_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sumin** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SM_B.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:B_LOGO:1089020310508015626> BUTTERFLY"
+        }
+    ],
+    "SCBT_SM_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sumin** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SM_A.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:A_LOGO:1089020306556989592> BUTTERFLY"
+        }
+    ],
+    "SCBT_SM_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sumin** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SM_S.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:S_LOGO:1089020304254316624> BUTTERFLY"
+        }
+    ],
+    "SCBT_SM_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sumin** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SM_R.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:R_LOGO:1089020300332630096> BUTTERFLY"
+        }
+    ],
+    "SCBT_SI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sieun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SI_C.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:C_LOGO:1089020314236764240> BUTTERFLY"
+        }
+    ],
+    "SCBT_SI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sieun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SI_B.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:B_LOGO:1089020310508015626> BUTTERFLY"
+        }
+    ],
+    "SCBT_SI_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sieun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SI_A.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:A_LOGO:1089020306556989592> BUTTERFLY"
+        }
+    ],
+    "SCBT_SI_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sieun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SI_S.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:S_LOGO:1089020304254316624> BUTTERFLY"
+        }
+    ],
+    "SCBT_SI_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sieun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SI_R.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:R_LOGO:1089020300332630096> BUTTERFLY"
+        }
+    ],
+    "SCBT_IS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Isa** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/IS_C.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:C_LOGO:1089020314236764240> BUTTERFLY"
+        }
+    ],
+    "SCBT_IS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Isa** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/IS_B.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:B_LOGO:1089020310508015626> BUTTERFLY"
+        }
+    ],
+    "SCBT_IS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Isa** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/IS_A.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:A_LOGO:1089020306556989592> BUTTERFLY"
+        }
+    ],
+    "SCBT_IS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Isa** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/IS_S.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:S_LOGO:1089020304254316624> BUTTERFLY"
+        }
+    ],
+    "SCBT_IS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Isa** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/S_IS.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:R_LOGO:1089020300332630096> BUTTERFLY"
+        }
+    ],
+    "SCBT_SE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Seeun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SE_C.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:C_LOGO:1089020314236764240> BUTTERFLY"
+        }
+    ],
+    "SCBT_SE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Seeun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SE_B.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:B_LOGO:1089020310508015626> BUTTERFLY"
+        }
+    ],
+    "SCBT_SE_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Seeun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SE_A.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:A_LOGO:1089020306556989592> BUTTERFLY"
+        }
+    ],
+    "SCBT_SE_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Seeun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SE_S.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:S_LOGO:1089020304254316624> BUTTERFLY"
+        }
+    ],
+    "SCBT_SE_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Seeun** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/SE_R.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:R_LOGO:1089020300332630096> BUTTERFLY"
+        }
+    ],
+    "SCBT_YO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Yoon** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/YO_C.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:C_LOGO:1089020314236764240> BUTTERFLY"
+        }
+    ],
+    "SCBT_YO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Yoon** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/YO_B.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:B_LOGO:1089020310508015626> BUTTERFLY"
+        }
+    ],
+    "SCBT_YO_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Yoon** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/YO_A.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:A_LOGO:1089020306556989592> BUTTERFLY"
+        }
+    ],
+    "SCBT_YO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Yoon** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/YO_S.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:S_LOGO:1089020304254316624> BUTTERFLY"
+        }
+    ],
+    "SCBT_YO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Yoon** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/YO_R.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:R_LOGO:1089020300332630096> BUTTERFLY"
+        }
+    ],
+    "SCBT_J_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC J** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/J_C.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:C_LOGO:1089020314236764240> BUTTERFLY"
+        }
+    ],
+    "SCBT_J_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC J** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/J_B.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:B_LOGO:1089020310508015626> BUTTERFLY"
+        }
+    ],
+    "SCBT_J_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC J** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/J_A.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:A_LOGO:1089020306556989592> BUTTERFLY"
+        }
+    ],
+    "SCBT_J_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC J** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/J_S.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:S_LOGO:1089020304254316624> BUTTERFLY"
+        }
+    ],
+    "SCBT_J_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC J** BUTTERFLY",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/butterfly/J_R.png?format=png",
+            "theme": "BUTTERFLY",
+            "inv": "<:R_LOGO:1089020300332630096> BUTTERFLY"
+        }
+    ],
+    
+    "SCYL_SM_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sumin** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SM_C.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:C_LOGO:1089020314236764240> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SM_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sumin** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SM_B.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:B_LOGO:1089020310508015626> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SM_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sumin** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SM_A.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:A_LOGO:1089020306556989592> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SM_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sumin** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SM_S.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:S_LOGO:1089020304254316624> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SM_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sumin** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SM_R.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:R_LOGO:1089020300332630096> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SI_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Sieun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SI_C.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:C_LOGO:1089020314236764240> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SI_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Sieun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SI_B.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:B_LOGO:1089020310508015626> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SI_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Sieun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SI_A.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:A_LOGO:1089020306556989592> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SI_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Sieun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SI_S.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:S_LOGO:1089020304254316624> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SI_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Sieun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SI_R.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:R_LOGO:1089020300332630096> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_IS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Isa** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/IS_C.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:C_LOGO:1089020314236764240> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_IS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Isa** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/IS_B.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:B_LOGO:1089020310508015626> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_IS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Isa** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/IS_A.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:A_LOGO:1089020306556989592> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_IS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Isa** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/IS_S.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:S_LOGO:1089020304254316624> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_IS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Isa** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/S_IS.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:R_LOGO:1089020300332630096> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SE_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Seeun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SE_C.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:C_LOGO:1089020314236764240> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SE_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Seeun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SE_B.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:B_LOGO:1089020310508015626> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SE_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Seeun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SE_A.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:A_LOGO:1089020306556989592> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SE_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Seeun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SE_S.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:S_LOGO:1089020304254316624> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_SE_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Seeun** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/SE_R.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:R_LOGO:1089020300332630096> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_YO_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC Yoon** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/YO_C.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:C_LOGO:1089020314236764240> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_YO_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC Yoon** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/YO_B.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:B_LOGO:1089020310508015626> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_YO_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC Yoon** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/YO_A.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:A_LOGO:1089020306556989592> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_YO_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC Yoon** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/YO_S.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:S_LOGO:1089020304254316624> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_YO_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC Yoon** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/YO_R.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:R_LOGO:1089020300332630096> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_J_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **STAYC J** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/J_C.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:C_LOGO:1089020314236764240> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_J_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **STAYC J** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/J_B.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:B_LOGO:1089020310508015626> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_J_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **STAYC J** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/J_A.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:A_LOGO:1089020306556989592> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_J_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **STAYC J** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/J_S.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:S_LOGO:1089020304254316624> YOUNG-LUV.COM"
+        }
+    ],
+    "SCYL_J_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **STAYC J** YOUNG-LUV.COM",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/youngluvcom/J_R.png?format=png",
+            "theme": "YOUNG LUV",
+            "inv": "<:R_LOGO:1089020300332630096> YOUNG-LUV.COM"
+        }
+    ],
     "LSFL_SK_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM SAKURA** FEARLESS",
