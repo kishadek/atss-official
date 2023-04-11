@@ -7492,10 +7492,10 @@
         }
     ],
     
-    "IVIA_AY_C": [
+"IVIA_AY_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **IVE ANYUJIN** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C/AY.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C_AY.png?format=png",
             "theme": "I AM",
             "inv": "<:C_LOGO:1089020314236764240> I AM"
         }
@@ -7503,7 +7503,7 @@
     "IVIA_AY_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **IVE ANYUJIN** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B/AY.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B_AY.png?format=png",
             "theme": "I AM",
             "inv": "<:B_LOGO:1089020310508015626> I AM"
         }
@@ -7511,7 +7511,7 @@
     "IVIA_AY_A": [
         {
             "name": "<:A_LOGO:1089020306556989592> **IVE ANYUJIN** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A/AY.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A_AY.png?format=png",
             "theme": "I AM",
             "inv": "<:A_LOGO:1089020306556989592> I AM"
         }
@@ -7519,7 +7519,7 @@
     "IVIA_AY_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **IVE ANYUJIN** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S/AY.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S_AY.png?format=png",
             "theme": "I AM",
             "inv": "<:S_LOGO:1089020304254316624> I AM"
         }
@@ -7527,7 +7527,7 @@
     "IVIA_AY_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **IVE ANYUJIN** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R/AY.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R_AY.png?format=png",
             "theme": "I AM",
             "inv": "<:R_LOGO:1089020300332630096> I AM"
         }
@@ -7535,7 +7535,7 @@
     "IVIA_JW_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **IVE JANGWONYOUNG** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C/JW.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C_JW.png?format=png",
             "theme": "I AM",
             "inv": "<:C_LOGO:1089020314236764240> I AM"
         }
@@ -7543,7 +7543,7 @@
     "IVIA_JW_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **IVE JANGWONYOUNG** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B/JW.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B_JW.png?format=png",
             "theme": "I AM",
             "inv": "<:B_LOGO:1089020310508015626> I AM"
         }
@@ -7551,7 +7551,7 @@
     "IVIA_JW_A": [
         {
             "name": " <:A_LOGO:1089020306556989592> **IVE JANGWONYOUNG** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A/JW.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A_JW.png?format=png",
             "theme": "I AM",
             "inv": "<:A_LOGO:1089020306556989592> I AM"
         }
@@ -7559,7 +7559,7 @@
     "IVIA_JW_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **IVE JANGWONYOUNG** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S/JW.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S_JW.png?format=png",
             "theme": "I AM",
             "inv": "<:S_LOGO:1089020304254316624> I AM"
         }
@@ -7567,7 +7567,7 @@
     "IVIA_JW_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **IVE JANGWONYOUNG** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R/JW.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R_JW.png?format=png",
             "theme": "I AM",
             "inv": "<:R_LOGO:1089020300332630096> I AM"
         }
@@ -7575,7 +7575,7 @@
     "IVIA_LI_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **IVE LIZ** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C/LI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C_LI.png?format=png",
             "theme": "I AM",
             "inv": "<:C_LOGO:1089020314236764240> I AM"
         }
@@ -7583,7 +7583,7 @@
     "IVIA_LI_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **IVE LIZ** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B/LI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B_LI.png?format=png",
             "theme": "I AM",
             "inv": "<:B_LOGO:1089020310508015626> I AM"
         }
@@ -7591,7 +7591,7 @@
     "IVIA_LI_A": [
         {
             "name": " <:A_LOGO:1089020306556989592> **IVE LIZ** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A/LI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A_LI.png?format=png",
             "theme": "I AM",
             "inv": "<:A_LOGO:1089020306556989592> I AM"
         }
@@ -7599,7 +7599,7 @@
     "IVIA_LI_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **IVE LIZ** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S/LI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S_LI.png?format=png",
             "theme": "I AM",
             "inv": "<:S_LOGO:1089020304254316624> I AM"
         }
@@ -7607,7 +7607,7 @@
     "IVIA_LI_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **IVE LIZ** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R/LI.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R_LI.png?format=png",
             "theme": "I AM",
             "inv": "<:R_LOGO:1089020300332630096> I AM"
         }
@@ -7615,7 +7615,7 @@
     "IVIA_LS_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **IVE LEESEO** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C/LS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C_LS.png?format=png",
             "theme": "I AM",
             "inv": "<:C_LOGO:1089020314236764240> I AM"
         }
@@ -7623,7 +7623,7 @@
     "IVIA_LS_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **IVE LEESEO** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B/LS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B_LS.png?format=png",
             "theme": "I AM",
             "inv": "<:B_LOGO:1089020310508015626> I AM"
         }
@@ -7631,7 +7631,7 @@
     "IVIA_LS_A": [
         {
             "name": " <:A_LOGO:1089020306556989592> **IVE LEESEO** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A/LS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A_LS.png?format=png",
             "theme": "I AM",
             "inv": "<:A_LOGO:1089020306556989592> I AM"
         }
@@ -7639,7 +7639,7 @@
     "IVIA_LS_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **IVE LEESEO** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S/LS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S_LS.png?format=png",
             "theme": "I AM",
             "inv": "<:S_LOGO:1089020304254316624> I AM"
         }
@@ -7647,7 +7647,7 @@
     "IVIA_LS_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **IVE LEESEO** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R/LS.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R_LS.png?format=png",
             "theme": "I AM",
             "inv": "<:R_LOGO:1089020300332630096> I AM"
         }
@@ -7655,7 +7655,7 @@
     "IVIA_RE_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **IVE REI** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C/RE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C_RE.png?format=png",
             "theme": "I AM",
             "inv": "<:C_LOGO:1089020314236764240> I AM"
         }
@@ -7663,7 +7663,7 @@
     "IVIA_RE_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **IVE REI** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B/RE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B_RE.png?format=png",
             "theme": "I AM",
             "inv": "<:B_LOGO:1089020310508015626> I AM"
         }
@@ -7671,7 +7671,7 @@
     "IVIA_RE_A": [
         {
             "name": " <:A_LOGO:1089020306556989592> **IVE REI** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A/RE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A_RE.png?format=png",
             "theme": "I AM",
             "inv": "<:A_LOGO:1089020306556989592> I AM"
         }
@@ -7679,7 +7679,7 @@
     "IVIA_RE_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **IVE REI** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S/RE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S_RE.png?format=png",
             "theme": "I AM",
             "inv": "<:S_LOGO:1089020304254316624> I AM"
         }
@@ -7687,7 +7687,7 @@
     "IVIA_RE_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **IVE REI** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R/RE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R_RE.png?format=png",
             "theme": "I AM",
             "inv": "<:R_LOGO:1089020300332630096> I AM"
         }
@@ -7695,7 +7695,7 @@
     "IVIA_GE_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **IVE GAEUL** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C/GE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/C_GE.png?format=png",
             "theme": "I AM",
             "inv": "<:C_LOGO:1089020314236764240> I AM"
         }
@@ -7703,7 +7703,7 @@
     "IVIA_GE_B": [
         {
             "name": "<:B_LOGO:1089020310508015626> **IVE GAEUL** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B/GE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/B_GE.png?format=png",
             "theme": "I AM",
             "inv": "<:B_LOGO:1089020310508015626> I AM"
         }
@@ -7711,7 +7711,7 @@
     "IVIA_GE_A": [
         {
             "name": " <:A_LOGO:1089020306556989592> **IVE GAEUL** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A/GE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/A_GE.png?format=png",
             "theme": "I AM",
             "inv": "<:A_LOGO:1089020306556989592> I AM"
         }
@@ -7719,7 +7719,7 @@
     "IVIA_GE_S": [
         {
             "name": "<:S_LOGO:1089020304254316624> **IVE GAEUL** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S/GE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/S_GE.png?format=png",
             "theme": "I AM",
             "inv": "<:S_LOGO:1089020304254316624> I AM"
         }
@@ -7727,7 +7727,7 @@
     "IVIA_GE_R": [
         {
             "name": "<:R_LOGO:1089020300332630096> **IVE GAEUL** I AM",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R/GE.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ive/i_am/R_GE.png?format=png",
             "theme": "I AM",
             "inv": "<:R_LOGO:1089020300332630096> I AM"
         }
