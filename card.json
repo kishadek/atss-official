@@ -6230,164 +6230,164 @@
         }
     ],
     
-    "BPDD_JN_C": [
+"BPHN_JN_C": [
         {
-            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_C.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JN_C.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:C_LOGO:1089020314236764240> Hope Not"
         }
     ],
-    "BPDD_JN_B": [
+    "BPHN_JN_B": [
         {
-            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_B.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JN_B.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:B_LOGO:1089020310508015626> Hope Not"
         }
     ],
-    "BPDD_JN_A": [
+    "BPHN_JN_A": [
         {
-            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_A.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JN_A.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:A_LOGO:1089020306556989592> Hope Not"
         }
     ],
-    "BPDD_JN_S": [
+    "BPHN_JN_S": [
         {
-            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_S.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JN_S.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:S_LOGO:1089020304254316624> Hope Not"
         }
     ],
-    "BPDD_JN_R": [
+    "BPHN_JN_R": [
         {
-            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JN_R.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JN_R.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:R_LOGO:1089020300332630096> Hope Not"
         }
     ],
-    "BPDD_JS_C": [
+    "BPHN_JS_C": [
         {
-            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_C.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JS_C.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:C_LOGO:1089020314236764240> Hope Not"
         }
     ],
-    "BPDD_JS_B": [
+    "BPHN_JS_B": [
         {
-            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_B.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JS_B.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:B_LOGO:1089020310508015626> Hope Not"
         }
     ],
-    "BPDD_JS_A": [
+    "BPHN_JS_A": [
         {
-            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_A.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JS_A.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:A_LOGO:1089020306556989592> Hope Not"
         }
     ],
-    "BPDD_JS_S": [
+    "BPHN_JS_S": [
         {
-            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_S.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JS_S.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:S_LOGO:1089020304254316624> Hope Not"
         }
     ],
-    "BPDD_JS_R": [
+    "BPHN_JS_R": [
         {
-            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/JS_R.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/JS_R.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:R_LOGO:1089020300332630096> Hope Not"
         }
     ],
-    "BPDD_RS_C": [
+    "BPHN_RS_C": [
         {
-            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_C.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/RS_C.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:C_LOGO:1089020314236764240> Hope Not"
         }
     ],
-    "BPDD_RS_B": [
+    "BPHN_RS_B": [
         {
-            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_B.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/RS_B.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:B_LOGO:1089020310508015626> Hope Not"
         }
     ],
-    "BPDD_RS_A": [
+    "BPHN_RS_A": [
         {
-            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_A.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/RS_A.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:A_LOGO:1089020306556989592> Hope Not"
         }
     ],
-    "BPDD_RS_S": [
+    "BPHN_RS_S": [
         {
-            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_S.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/RS_S.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:S_LOGO:1089020304254316624> Hope Not"
         }
     ],
-    "BPDD_RS_R": [
+    "BPHN_RS_R": [
         {
-            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/RS_R.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/RS_R.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:R_LOGO:1089020300332630096> Hope Not"
         }
     ],
-    "BPDD_LS_C": [
+    "BPHN_LS_C": [
         {
-            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_C.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:C_LOGO:1089020314236764240> DDU-DU-DDU-DU"
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/LS_C.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:C_LOGO:1089020314236764240> Hope Not"
         }
     ],
-    "BPDD_LS_B": [
+    "BPHN_LS_B": [
         {
-            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_B.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:B_LOGO:1089020310508015626> DDU-DU-DDU-DU"
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/LS_B.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:B_LOGO:1089020310508015626> Hope Not"
         }
     ],
-    "BPDD_LS_A": [
+    "BPHN_LS_A": [
         {
-            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_A.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:A_LOGO:1089020306556989592> DDU-DU-DDU-DU"
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/LS_A.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:A_LOGO:1089020306556989592> Hope Not"
         }
     ],
-    "BPDD_LS_S": [
+    "BPHN_LS_S": [
         {
-            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_S.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:S_LOGO:1089020304254316624> DDU-DU-DDU-DU"
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/LS_S.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:S_LOGO:1089020304254316624> Hope Not"
         }
     ],
-    "BPDD_LS_R": [
+    "BPHN_LS_R": [
         {
-            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** DDU-DU-DDU-DU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/d4/LS_R.png?format=png",
-            "theme": "DDU-DU-DDU-DU",
-            "inv": "<:R_LOGO:1089020300332630096> DDU-DU-DDU-DU"
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** Hope Not",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/LS_R.png?format=png",
+            "theme": "Hope Not",
+            "inv": "<:R_LOGO:1089020300332630096> Hope Not"
         }
     ],
     
