@@ -10306,6 +10306,404 @@
     "inv": "<:R_LOGO:1089020300332630096> SNEAKERS"
     
     }
+    ],
+    
+        "XGSS_JR_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG JURIN** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JR_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_JR_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG JURIN** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JR_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_JR_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG JURIN** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JR_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_JR_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG JURIN** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JR_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_JR_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG JURIN** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JR_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
+    ],
+    
+        "XGSS_CS_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG CHISA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CS_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_CS_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG CHISA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CS_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_CS_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG CHISA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CS_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_CS_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG CHISA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CS_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_CS_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG CHISA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CS_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
+    ],
+    
+        "XGSS_HN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_HN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_HN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_HN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_HN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
+    ],    "XGSS_HN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_HN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_HN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_HN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_HN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG HINATA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HN_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
+    ],
+    
+        "XGSS_HV_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG HARVEY** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HV_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_HV_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG HARVEY** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HV_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_HV_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG HARVEY** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HV_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_HV_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG HARVEY** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HV_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_HV_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG HARVEY** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/HV_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
+    ],
+    
+        "XGSS_JU_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG JURIA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JU_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_JU_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG JURIA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JU_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_JU_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG JURIA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JU_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_JU_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG JURIA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JU_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_JU_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG JURIA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/JU_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
+    ],
+    
+        "XGSS_MY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG MAYA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/MY_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_MY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG MAYA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/MY_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_MY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG MAYA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/MY_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_MY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG MAYA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/MY_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_MY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG MAYA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/MY_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
+    ],
+    
+        "XGSS_CC_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **XG COCONA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CC_C.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:C_LOGO:1089020314236764240> SHOOTING STAR"
+    
+    }
+    ],
+ 
+  "XGSS_CC_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **XG COCONA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CC_B.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:B_LOGO:1089020310508015626> SHOOTING STAR"
+    
+    }
+    ],
+ 
+   "XGSS_CC_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **XG COCONA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CC_A.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:A_LOGO:1089020306556989592> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_CC_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **XG COCONA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CC_S.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:S_LOGO:1089020304254316624> SHOOTING STAR"
+    
+    }
+    ],
+ 
+    "XGSS_CC_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **XG COCONA** SHOOTING STAR",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/CC_R.png?format=png",
+    "theme": "SHOOTING STAR",
+    "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
+    
+    }
     ]
     
 }
