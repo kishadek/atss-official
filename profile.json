@@ -14,7 +14,30 @@
             "OMG_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/omg_event.png?format=png",
             "OMG_TEXT": "`Event` **NewJeans OMG** Wallpaper",
             "CUPID_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/my_lobby/background/limited/mylobby_bg_fifty_fifty_cupid_l.png?format=png",
-            "CUPID_TEXT": "`Event` **FIFTY FIFTY Cupid** Wallpaper"
+            "CUPID_TEXT": "`Event` **FIFTY FIFTY Cupid** Wallpaper",
+            
+            "SHOOTINGSTAR_CS": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_shootingstar_chisa.png?format=png",
+            "SHOOTINGSTAR_CS_TEXT": "`Limited` SHOOTING STAR CHISA Profile Picture",
+            
+            "SHOOTINGSTAR_HV": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_shootingstar_harvey.png?format=png",
+            "SHOOTINGSTAR_HV_TEXT": "`Limited` SHOOTING STAR HARVEY Profile Picture",
+            
+            "SHOOTINGSTAR_CC": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_shootingstar_cocona.png?format=png",
+            "SHOOTINGSTAR_CC_TEXT": "`Limited` SHOOTING STAR COCONA Profile Picture",
+            
+            "SHOOTINGSTAR_MY": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_shootingstar_maya.png?format=png",
+            "SHOOTINGSTAR_MY_TEXT": "`Limited` SHOOTING STAR MAYA Profile Picture",
+            "SHOOTINGSTAR_JR": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_shootingstar_jurin.png?format=png",
+            "SHOOTINGSTAR_JR_TEXT": "`Limited` SHOOTING STAR JURIN Profile Picture",
+            
+            "SHOOTINGSTAR_JU": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_shootingstar_juria.png?format=png",
+            "SHOOTINGSTAR_JU_TEXT": "`Limited` SHOOTING STAR JURIA Profile Picture",
+            
+            "SHOOTINGSTAR_HN": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/profile/p_shootingstar_hinata.png?format=png",
+            "SHOOTINGSTAR_HN_TEXT": "`Limited` SHOOTING STAR HINATA Profile Picture",
+            
+            "SHOOTINGSTAR_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/shootingstar_event.png?format=png",
+            "SHOOTINGSTAR_TEXT": "`Event` **XG SHOOTING STAR** Wallpaper"
         }
     ]
 }
