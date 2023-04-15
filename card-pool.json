@@ -60,9 +60,9 @@
     
         "shooting_star": [
     {
-   "card1": "XGSS_CS;XGSS_MY;XGSS_HV;XGSS_CC;XGSS_HN;XGSS_JR;XGSS_LS",
-        "card2": "XGSS_CS;XGSS_MY;XGSS_HV;XGSS_CC;XGSS_HN;XGSS_JR;XGSS_LS",
-        "card3": "XGSS_CS;XGSS_JR;XGSS_LS;XGSS_MY;XGSS_HV;XGSS_CC;XGSS_HN"
+   "card1": "XGSS_CS;XGSS_MY;XGSS_HV;XGSS_CC;XGSS_HN;XGSS_JR;XGSS_JU",
+        "card2": "XGSS_CS;XGSS_MY;XGSS_HV;XGSS_CC;XGSS_HN;XGSS_JR;XGSS_JU",
+        "card3": "XGSS_CS;XGSS_JR;XGSS_JU;XGSS_MY;XGSS_HV;XGSS_CC;XGSS_HN"
       
     }
     ]
