@@ -10704,6 +10704,127 @@
     "inv": "<:R_LOGO:1089020300332630096> SHOOTING STAR"
     
     }
+    ],
+    
+    "LNMT_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Vocal** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/5.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:C_LOGO:1089020314236764240> MONTERO"
+        }
+    ],
+    "LNMT_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Vocal** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/4.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:B_LOGO:1089020310508015626> MONTERO"
+        }
+    ],
+    "LNMT_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Vocal** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/3.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:A_LOGO:1089020306556989592> MONTERO"
+        }
+    ],
+    "LNMT_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Vocal** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/2.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:S_LOGO:1089020304254316624> MONTERO"
+        }
+    ],
+    "LNMT_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Vocal** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/1.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:R_LOGO:1089020300332630096> MONTERO"
+        }
+    ],
+    "LNMT_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Dance** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/10.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:C_LOGO:1089020314236764240> MONTERO"
+        }
+    ],
+    "LNMT_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Dance** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/9.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:B_LOGO:1089020310508015626> MONTERO"
+        }
+    ],
+    "LNMT_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Dance** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/8.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:A_LOGO:1089020306556989592> MONTERO"
+        }
+    ],
+    "LNMT_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Dance** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/7.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:S_LOGO:1089020304254316624> MONTERO"
+        }
+    ],
+    "LNMT_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Dance** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/6.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:R_LOGO:1089020300332630096> MONTERO"
+        }
+    ],
+    "LNMT_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WONPIL Rhythm** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/15.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:C_LOGO:1089020314236764240> MONTERO"
+        }
+    ],
+    "LNMT_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WONPIL Rhythm** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/14.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:B_LOGO:1089020310508015626> MONTERO"
+        }
+    ],
+    "LNMT_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WONPIL Rhythm** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/13.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:A_LOGO:1089020306556989592> MONTERO"
+        }
+    ],
+    "LNMT_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WONPIL Rhythm** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/12.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:S_LOGO:1089020304254316624> MONTERO"
+        }
+    ],
+    "LNMT_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WONPIL Rhythm** MONTERO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/11.png?format=png",
+            "theme": "MONTERO (Call Me By Your Name)",
+            "inv": "<:R_LOGO:1089020300332630096> MONTERO"
+        }
     ]
     
 }
