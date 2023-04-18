@@ -67,11 +67,11 @@
     }
     ],
     
-            "montero": [
+"western": [
     {
-   "card1": "LNMT_V;LNMT_D;LNMT_R",
-        "card2": "LNMT_R;LNMT_V;LNMT_D",
-        "card3": "LNMT_V;LNMT_R;LNMT_D"
+   "card1": "LNMT_V;LNMT_D;LNMT_R;AGPS_V;AGPS_D;AGPS_R;TSLV_V;TSLV_D;TSLV_R;LGRO_V;LGRO_D;LGRO_R;ORHP_V;ORHP_D;ORHP_R",
+        "card2": "LNMT_R;LNMT_V;LNMT_D;AGPS_R;AGPS_V;AGPS_D;TSLV_V;TSLV_D;TSLV_R;LGRO_V;LGRO_D;LGRO_R;ORHP_V;ORHP_D;ORHP_R",
+        "card3": "LNMT_V;LNMT_R;LNMT_D;AGPS_V;AGPS_R;AGPS_D;TSLV_V;TSLV_D;TSLV_R;LGRO_V;LGRO_D;LGRO_R;ORHP_V;ORHP_D;ORHP_R"
       
     }
     ]
