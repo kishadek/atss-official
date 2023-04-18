@@ -5371,124 +5371,124 @@
         }
     ],
     
-    "LGHO_V_C": [
+ "LGRO_V_C": [
         {
-            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Vocal** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/5.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:C_LOGO:1089020314236764240> Hold My Hand"
+            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Vocal** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/5.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:C_LOGO:1089020314236764240> Rain On Me"
         }
     ],
-    "LGHO_V_B": [
+    "LGRO_V_B": [
         {
-            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Vocal** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/4.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:B_LOGO:1089020310508015626> Hold My Hand"
+            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Vocal** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/4.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:B_LOGO:1089020310508015626> Rain On Me"
         }
     ],
-    "LGHO_V_A": [
+    "LGRO_V_A": [
         {
-            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Vocal** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/3.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:A_LOGO:1089020306556989592> Hold My Hand"
+            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Vocal** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/3.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:A_LOGO:1089020306556989592> Rain On Me"
         }
     ],
-    "LGHO_V_S": [
+    "LGRO_V_S": [
         {
-            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Vocal** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/2.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:S_LOGO:1089020304254316624> Hold My Hand"
+            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Vocal** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/2.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:S_LOGO:1089020304254316624> Rain On Me"
         }
     ],
-    "LGHO_V_R": [
+    "LGRO_V_R": [
         {
-            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Vocal** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/1.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:R_LOGO:1089020300332630096> Hold My Hand"
+            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Vocal** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/1.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:R_LOGO:1089020300332630096> Rain On Me"
         }
     ],
-    "LGHO_D_C": [
+    "LGRO_D_C": [
         {
-            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Dance** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/10.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:C_LOGO:1089020314236764240> Hold My Hand"
+            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Dance** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/10.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:C_LOGO:1089020314236764240> Rain On Me"
         }
     ],
-    "LGHO_D_B": [
+    "LGRO_D_B": [
         {
-            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Dance** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/9.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:B_LOGO:1089020310508015626> Hold My Hand"
+            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Dance** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/9.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:B_LOGO:1089020310508015626> Rain On Me"
         }
     ],
-    "LGHO_D_A": [
+    "LGRO_D_A": [
         {
-            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Dance** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/8.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:A_LOGO:1089020306556989592> Hold My Hand"
+            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Dance** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/8.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:A_LOGO:1089020306556989592> Rain On Me"
         }
     ],
-    "LGHO_D_S": [
+    "LGRO_D_S": [
         {
-            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Dance** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/7.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:S_LOGO:1089020304254316624> Hold My Hand"
+            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Dance** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/7.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:S_LOGO:1089020304254316624> Rain On Me"
         }
     ],
-    "LGHO_D_R": [
+    "LGRO_D_R": [
         {
-            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Dance** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/6.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:R_LOGO:1089020300332630096> Hold My Hand"
+            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Dance** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/6.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:R_LOGO:1089020300332630096> Rain On Me"
         }
     ],
-    "LGHO_R_C": [
+    "LGRO_R_C": [
         {
-            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Rhythm** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/15.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:C_LOGO:1089020314236764240> Hold My Hand"
+            "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Rhythm** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/15.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:C_LOGO:1089020314236764240> Rain On Me"
         }
     ],
-    "LGHO_R_B": [
+    "LGRO_R_B": [
         {
-            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Rhythm** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/14.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:B_LOGO:1089020310508015626> Hold My Hand"
+            "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Rhythm** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/14.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:B_LOGO:1089020310508015626> Rain On Me"
         }
     ],
-    "LGHO_R_A": [
+    "LGRO_R_A": [
         {
-            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Rhythm** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/13.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:A_LOGO:1089020306556989592> Hold My Hand"
+            "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Rhythm** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/13.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:A_LOGO:1089020306556989592> Rain On Me"
         }
     ],
-    "LGHO_R_S": [
+    "LGRO_R_S": [
         {
-            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Rhythm** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/12.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:S_LOGO:1089020304254316624> Hold My Hand"
+            "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Rhythm** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/12.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:S_LOGO:1089020304254316624> Rain On Me"
         }
     ],
-    "LGHO_R_R": [
+    "LGRO_R_R": [
         {
-            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Rhythm** Hold My Hand",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/holdmyhand/11.png?format=png",
-            "theme": "Hold My Hand",
-            "inv": "<:R_LOGO:1089020300332630096> Hold My Hand"
+            "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Rhythm** Rain On Me",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/11.png?format=png",
+            "theme": "Rain On Me (Feat. Ariana Grande)",
+            "inv": "<:R_LOGO:1089020300332630096> Rain On Me"
         }
     ],
     
@@ -6388,6 +6388,167 @@
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/LS_R.png?format=png",
             "theme": "Hope Not",
             "inv": "<:R_LOGO:1089020300332630096> Hope Not"
+        }
+    ],
+    
+    "BPHY_JN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JN_C.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:C_LOGO:1089020314236764240> How You Like That"
+        }
+    ],
+    "BPHY_JN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JN_B.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:B_LOGO:1089020310508015626> How You Like That"
+        }
+    ],
+    "BPHY_JN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JN_A.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:A_LOGO:1089020306556989592> How You Like That"
+        }
+    ],
+    "BPHY_JN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JN_S.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:S_LOGO:1089020304254316624> How You Like That"
+        }
+    ],
+    "BPHY_JN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JN_R.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:R_LOGO:1089020300332630096> How You Like That"
+        }
+    ],
+    "BPHY_JS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JS_C.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:C_LOGO:1089020314236764240> How You Like That"
+        }
+    ],
+    "BPHY_JS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JS_B.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:B_LOGO:1089020310508015626> How You Like That"
+        }
+    ],
+    "BPHY_JS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JS_A.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:A_LOGO:1089020306556989592> How You Like That"
+        }
+    ],
+    "BPHY_JS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JS_S.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:S_LOGO:1089020304254316624> How You Like That"
+        }
+    ],
+    "BPHY_JS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/JS_R.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:R_LOGO:1089020300332630096> How You Like That"
+        }
+    ],
+    "BPHY_RS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/RS_C.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:C_LOGO:1089020314236764240> How You Like That"
+        }
+    ],
+    "BPHY_RS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/RS_B.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:B_LOGO:1089020310508015626> How You Like That"
+        }
+    ],
+    "BPHY_RS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/RS_A.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:A_LOGO:1089020306556989592> How You Like That"
+        }
+    ],
+    "BPHY_RS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/RS_S.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:S_LOGO:1089020304254316624> How You Like That"
+        }
+    ],
+    "BPHY_RS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/RS_R.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:R_LOGO:1089020300332630096> How You Like That"
+        }
+    ],
+    "BPHY_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/LS_C.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:C_LOGO:1089020314236764240> How You Like That"
+        }
+    ],
+    "BPHY_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/LS_B.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:B_LOGO:1089020310508015626> How You Like That"
+        }
+    ],
+    "BPHY_LS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/LS_A.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:A_LOGO:1089020306556989592> How You Like That"
+        }
+    ],
+    "BPHY_LS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/LS_S.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:S_LOGO:1089020304254316624> How You Like That"
+        }
+    ],
+    "BPHY_LS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** How You Like That",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hylt/LS_R.png?format=png",
+            "theme": "How You Like That",
+            "inv": "<:R_LOGO:1089020300332630096> How You Like That"
         }
     ],
     
@@ -10825,6 +10986,250 @@
             "theme": "MONTERO (Call Me By Your Name)",
             "inv": "<:R_LOGO:1089020300332630096> MONTERO"
         }
+    ],
+    
+    "TSLV_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/5.png?format=png",
+            "theme": "Lover",
+            "inv": "<:C_LOGO:1089020314236764240> Lover"
+        }
+    ],
+    "TSLV_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/4.png?format=png",
+            "theme": "Lover",
+            "inv": "<:B_LOGO:1089020310508015626> Lover"
+        }
+    ],
+    "TSLV_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/3.png?format=png",
+            "theme": "Lover",
+            "inv": "<:A_LOGO:1089020306556989592> Lover"
+        }
+    ],
+    "TSLV_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/2.png?format=png",
+            "theme": "Lover",
+            "inv": "<:S_LOGO:1089020304254316624> Lover"
+        }
+    ],
+    "TSLV_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/1.png?format=png",
+            "theme": "Lover",
+            "inv": "<:R_LOGO:1089020300332630096> Lover"
+        }
+    ],
+    "TSLV_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/10.png?format=png",
+            "theme": "Lover",
+            "inv": "<:C_LOGO:1089020314236764240> Lover"
+        }
+    ],
+    "TSLV_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/9.png?format=png",
+            "theme": "Lover",
+            "inv": "<:B_LOGO:1089020310508015626> Lover"
+        }
+    ],
+    "TSLV_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/8.png?format=png",
+            "theme": "Lover",
+            "inv": "<:A_LOGO:1089020306556989592> Lover"
+        }
+    ],
+    "TSLV_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/7.png?format=png",
+            "theme": "Lover",
+            "inv": "<:S_LOGO:1089020304254316624> Lover"
+        }
+    ],
+    "TSLV_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/6.png?format=png",
+            "theme": "Lover",
+            "inv": "<:R_LOGO:1089020300332630096> Lover"
+        }
+    ],
+    "TSLV_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/15.png?format=png",
+            "theme": "Lover",
+            "inv": "<:C_LOGO:1089020314236764240> Lover"
+        }
+    ],
+    "TSLV_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/14.png?format=png",
+            "theme": "Lover",
+            "inv": "<:B_LOGO:1089020310508015626> Lover"
+        }
+    ],
+    "TSLV_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/13.png?format=png",
+            "theme": "Lover",
+            "inv": "<:A_LOGO:1089020306556989592> Lover"
+        }
+    ],
+    "TSLV_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/12.png?format=png",
+            "theme": "Lover",
+            "inv": "<:S_LOGO:1089020304254316624> Lover"
+        }
+    ],
+    "TSLV_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Lover",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylorswift/lover/11.png?format=png",
+            "theme": "Lover",
+            "inv": "<:R_LOGO:1089020300332630096> Lover"
+        }
+    ],
+    
+    "AGPS_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Ariana Grande Vocal** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/5.png?format=png",
+            "theme": "positions",
+            "inv": "<:C_LOGO:1089020314236764240> positions"
+        }
+    ],
+    "AGPS_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Ariana Grande Vocal** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/4.png?format=png",
+            "theme": "positions",
+            "inv": "<:B_LOGO:1089020310508015626> positions"
+        }
+    ],
+    "AGPS_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Ariana Grande Vocal** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/3.png?format=png",
+            "theme": "positions",
+            "inv": "<:A_LOGO:1089020306556989592> positions"
+        }
+    ],
+    "AGPS_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Ariana Grande Vocal** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/2.png?format=png",
+            "theme": "positions",
+            "inv": "<:S_LOGO:1089020304254316624> positions"
+        }
+    ],
+    "AGPS_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Ariana Grande Vocal** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/1.png?format=png",
+            "theme": "positions",
+            "inv": "<:R_LOGO:1089020300332630096> positions"
+        }
+    ],
+    "AGPS_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Ariana Grande Dance** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/10.png?format=png",
+            "theme": "positions",
+            "inv": "<:C_LOGO:1089020314236764240> positions"
+        }
+    ],
+    "AGPS_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Ariana Grande Dance** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/9.png?format=png",
+            "theme": "positions",
+            "inv": "<:B_LOGO:1089020310508015626> positions"
+        }
+    ],
+    "AGPS_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Ariana Grande Dance** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/8.png?format=png",
+            "theme": "positions",
+            "inv": "<:A_LOGO:1089020306556989592> positions"
+        }
+    ],
+    "AGPS_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Ariana Grande Dance** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/7.png?format=png",
+            "theme": "positions",
+            "inv": "<:S_LOGO:1089020304254316624> positions"
+        }
+    ],
+    "AGPS_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Ariana Grande Dance** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/6.png?format=png",
+            "theme": "positions",
+            "inv": "<:R_LOGO:1089020300332630096> positions"
+        }
+    ],
+    "AGPS_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Ariana Grande Rhythm** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/15.png?format=png",
+            "theme": "positions",
+            "inv": "<:C_LOGO:1089020314236764240> positions"
+        }
+    ],
+    "AGPS_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Ariana Grande Rhythm** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/14.png?format=png",
+            "theme": "positions",
+            "inv": "<:B_LOGO:1089020310508015626> positions"
+        }
+    ],
+    "AGPS_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Ariana Grande Rhythm** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/13.png?format=png",
+            "theme": "positions",
+            "inv": "<:A_LOGO:1089020306556989592> positions"
+        }
+    ],
+    "AGPS_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Ariana Grande Rhythm** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/12.png?format=png",
+            "theme": "positions",
+            "inv": "<:S_LOGO:1089020304254316624> positions"
+        }
+    ],
+    "AGPS_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Ariana Grande Rhythm** positions",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/arianagrande/positions/11.png?format=png",
+            "theme": "positions",
+            "inv": "<:R_LOGO:1089020300332630096> positions"
+        }
     ]
+    
+    
     
 }
