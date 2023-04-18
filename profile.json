@@ -37,7 +37,22 @@
             "SHOOTINGSTAR_HN_TEXT": "`Limited` SHOOTING STAR HINATA Profile Picture",
             
             "SHOOTINGSTAR_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/xg/shooting_star/shootingstar_event.png?format=png",
-            "SHOOTINGSTAR_TEXT": "`Event` **XG SHOOTING STAR** Wallpaper"
+            "SHOOTINGSTAR_TEXT": "`Event` **XG SHOOTING STAR** Wallpaper",
+            
+            "MONTERO_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/western/montero_event.png?format=png",
+            "MONTERO_TEXT": "`Event` **Lil Nas X MONTERO** Wallpaper",
+            
+            "POSITIONS_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/western/positions_event.png?format=png",
+            "POSITIONS_TEXT": "`Event` **Ariana Grande positions** Wallpaper",
+            
+            "LOVER_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/western/lover_event.png?format=png",
+            "LOVER_TEXT": "`Event` **Taylor Swift Lover** Wallpaper",
+            
+            "RAINONME_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/western/rainonme_event.png?format=png",
+            "RAINONME_TEXT": "`Event` **Lady Gaga Rain On Me** Wallpaper",
+            
+            "HAPPIER_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/western/happier_event.png?format=png",
+            "HAPPIER_TEXT": "`Event` **Olivia Rodrigo happier** Wallpaper"
         }
     ]
 }
