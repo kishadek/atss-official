@@ -5374,7 +5374,7 @@
  "LGRO_V_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Vocal** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/5.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/5.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:C_LOGO:1089020314236764240> Rain On Me"
         }
@@ -5382,7 +5382,7 @@
     "LGRO_V_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Vocal** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/4.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/4.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:B_LOGO:1089020310508015626> Rain On Me"
         }
@@ -5390,7 +5390,7 @@
     "LGRO_V_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Vocal** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/3.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/3.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:A_LOGO:1089020306556989592> Rain On Me"
         }
@@ -5398,7 +5398,7 @@
     "LGRO_V_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Vocal** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/2.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/2.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:S_LOGO:1089020304254316624> Rain On Me"
         }
@@ -5406,7 +5406,7 @@
     "LGRO_V_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Vocal** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/1.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/1.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:R_LOGO:1089020300332630096> Rain On Me"
         }
@@ -5414,7 +5414,7 @@
     "LGRO_D_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Dance** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/10.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/10.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:C_LOGO:1089020314236764240> Rain On Me"
         }
@@ -5422,7 +5422,7 @@
     "LGRO_D_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Dance** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/9.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/9.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:B_LOGO:1089020310508015626> Rain On Me"
         }
@@ -5430,7 +5430,7 @@
     "LGRO_D_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Dance** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/8.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/8.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:A_LOGO:1089020306556989592> Rain On Me"
         }
@@ -5438,7 +5438,7 @@
     "LGRO_D_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Dance** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/7.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/7.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:S_LOGO:1089020304254316624> Rain On Me"
         }
@@ -5446,7 +5446,7 @@
     "LGRO_D_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Dance** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/6.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/6.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:R_LOGO:1089020300332630096> Rain On Me"
         }
@@ -5454,7 +5454,7 @@
     "LGRO_R_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **Lady Gaga Rhythm** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/15.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/15.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:C_LOGO:1089020314236764240> Rain On Me"
         }
@@ -5462,7 +5462,7 @@
     "LGRO_R_B": [
         {
             "name": "<:B_EMBLEM:1080736338938171443> **Lady Gaga Rhythm** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/14.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/14.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:B_LOGO:1089020310508015626> Rain On Me"
         }
@@ -5470,7 +5470,7 @@
     "LGRO_R_A": [
         {
             "name": "<:A_EMBLEM:1080736335591112764> **Lady Gaga Rhythm** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/13.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/13.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:A_LOGO:1089020306556989592> Rain On Me"
         }
@@ -5478,7 +5478,7 @@
     "LGRO_R_S": [
         {
             "name": "<:S_EMBLEM:1080736333615616030> **Lady Gaga Rhythm** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/12.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/12.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:S_LOGO:1089020304254316624> Rain On Me"
         }
@@ -5486,7 +5486,7 @@
     "LGRO_R_R": [
         {
             "name": "<:R_EMBLEM:1080736329735880724> **Lady Gaga Rhythm** Rain On Me",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ladygaga/rainonme/11.png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/11.png?format=png",
             "theme": "Rain On Me (Feat. Ariana Grande)",
             "inv": "<:R_LOGO:1089020300332630096> Rain On Me"
         }
