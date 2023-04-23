@@ -74,5 +74,14 @@
         "card3": "LNMT_V;LNMT_R;LNMT_D;AGPS_V;AGPS_R;AGPS_D;TSLV_V;TSLV_D;TSLV_R;LGRO_V;LGRO_D;LGRO_R;ORHP_V;ORHP_D;ORHP_R"
       
     }
+    ],
+    
+    "hope_not": [
+    {
+   "card1": "BPHN_JN;BPHN_JS;BPHN_RS;BPHN_LS",
+        "card2": "BPHN_JN;BPHN_LS;BPHN_JS;BPHN_RS",
+        "card3": "BPHN_JS;BPHN_RS;BPHN_JN;BPHN_LS"
+      
+    }
     ]
                              }
