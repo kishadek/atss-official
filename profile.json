@@ -64,7 +64,61 @@
             "ROSE_HOPENOT_TEXT": "`Event` **ROSÉ Hope Not** Wallpaper",
             
             "LISA_HOPENOT_EVENT": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/my_lobby/background/event/lisa_event.png?format=png",
-            "LISA_HOPENOT_TEXT": "`Event` **LISA Hope Not** Wallpaper"
+            "LISA_HOPENOT_TEXT": "`Event` **LISA Hope Not** Wallpaper",
+            
+            "LGRO_V": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/p_rainonme_v.png?format=png",
+            "LGRO_V_TEXT": "`Limited` **Rain On Me** Vocal Profile Picture",
+            
+            "LGRO_D": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/p_rainonme_d.png?format=png",
+            "LGRO_D_TEXT": "`Limited` **Rain On Me** Dance Profile Picture",
+            
+            "LGRO_R": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lady_gaga/rainonme/p_rainonme_r.png?format=png",
+            "LGRO_R_TEXT": "`Limited` **Rain On Me** Rhythm Profile Picture",
+            
+                        "LNMT_V": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/p_montero_v.png?format=png",
+            "LNMT_V_TEXT": "`Limited` **MONTERO** Vocal Profile Picture",
+            
+            "LNMT_D": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/p_montero_d.png?format=png",
+            "LNMT_D_TEXT": "`Limited` **MONTERO** Dance Profile Picture",
+            
+            "LNMT_R": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lil_nas_x/montero/p_montero_r.png?format=png",
+            "LNMT_R_TEXT": "`Limited` **MONTERO** Rhythm Profile Picture",
+            
+                        "AGPS_V": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/positions/p_positions_v.png?format=png",
+            "AGPS_V_TEXT": "`Limited` **positions** Vocal Profile Picture",
+            
+            "AGPS_D": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/positions/p_positions_d.png?format=png",
+            "AGPS_D_TEXT": "`Limited` **positions** Dance Profile Picture",
+            
+            "AGPS_R": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/positions/p_positions_r.png?format=png",
+            "AGPS_R_TEXT": "`Limited` **positions** Rhythm Profile Picture",
+            
+                        "TSLV_V": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/lover/p_lover_v.png?format=png",
+            "TSLV_V_TEXT": "`Limited` **Lover** Vocal Profile Picture",
+            
+            "TSLV_D": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/lover/p_lover_d.png?format=png",
+            "TSLV_D_TEXT": "`Limited` **Lover** Dance Profile Picture",
+            
+            "TSLV_R": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/lover/p_lover_r.png?format=png",
+            "TSLV_R_TEXT": "`Limited` **Lover** Rhythm Profile Picture",
+            
+                        "ORHP_V": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/olivia_rodrigo/happier/p_happier_v.png?format=png",
+            "ORHP_V_TEXT": "`Limited` **happier** Vocal Profile Picture",
+            
+            "ORHP_D": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/olivia_rodrigo/happier/p_happier_d.png?format=png",
+            "ORHP_D_TEXT": "`Limited` **happier** Dance Profile Picture",
+            
+            "ORHP_R": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/olivia_rodrigo/happier/p_happier_r.png?format=png",
+            "ORHP_R_TEXT": "`Limited` **happier** Rhythm Profile Picture",
+            
+                        "BPHN_JN": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/p_hopenot_jennie.png?format=png",
+            "BPHN_JN_TEXT": "`Limited` **Hope Not** Vocal Profile Picture",
+            
+            "BPHN_JS": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/p_hopenot_jisoo.png?format=png",
+            "BPHN_JS_TEXT": "`Limited` **Hope Not** Dance Profile Picture",
+            
+            "BPHN_RS": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/hopenot/p_hopenot_rose.png?format=png",
+            "BPHN_RS_TEXT": "`Limited` **Hope Not** Rhythm Profile Picture"
         }
     ]
 }
