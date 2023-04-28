@@ -11228,6 +11228,406 @@
             "theme": "positions",
             "inv": "<:R_LOGO:1089020300332630096> positions"
         }
+    ],
+    
+    "EXBI_SH_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO SUHO** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SH_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_SH_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO SUHO** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SH_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_SH_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO SUHO** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SH_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_SH_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO SUHO** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SH_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_SH_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO SUHO** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SH_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
+    ],
+    
+    "EXBI_XM_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO XIUMIN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/XM_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_XM_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO XIUMIN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/XM_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_XM_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO XIUMIN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/XM_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_XM_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO XIUMIN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/XM_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_XM_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO XIUMIN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/XM_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
+    ],
+    
+    "EXBI_BH_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO BAEKHYUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/BH_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_BH_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO BAEKHYUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/BH_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_BH_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO BAEKHYUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/BH_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_BH_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO BAEKHYUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/BH_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_BH_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO BAEKHYUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/BH_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
+    ],
+    
+    "EXBI_CH_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO CHEN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CH_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_CH_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO CHEN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CH_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_CH_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO CHEN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CH_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_CH_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO CHEN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CH_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_CH_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO CHEN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CH_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
+    ],
+    
+    "EXBI_CY_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO CHANYEOL** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CY_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_CY_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO CHANYEOL** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CY_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_CY_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO CHANYEOL** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CY_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_CY_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO CHANYEOL** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CY_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_CY_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO CHANYEOL** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/CY_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
+    ],
+    
+    "EXBI_DO_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO D.O** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/DO_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_DO_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO D.O** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/DO_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_DO_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO D.O** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/DO_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_DO_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO D.O** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/DO_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_DO_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO D.O** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/DO_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
+    ],
+    
+    "EXBI_KA_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO KAI** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/KA_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_KA_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO KAI** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/KA_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_KA_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO KAI** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/KA_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_KA_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO KAI** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/KA_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_KA_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO KAI** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/KA_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
+    ],
+    
+    "EXBI_SE_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO SEHUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SE_C.png?format=png",
+    "theme": "Bird",
+    "inv": "<:C_LOGO:1089020314236764240> Bird"
+    
+    }
+    ],
+ 
+  "EXBI_SE_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO SEHUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SE_B.png?format=png",
+    "theme": "Bird",
+    "inv": "<:B_LOGO:1089020310508015626> Bird"
+    
+    }
+    ],
+ 
+   "EXBI_SE_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO SEHUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SE_A.png?format=png",
+    "theme": "Bird",
+    "inv": "<:A_LOGO:1089020306556989592> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_SE_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO SEHUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SE_S.png?format=png",
+    "theme": "Bird",
+    "inv": "<:S_LOGO:1089020304254316624> Bird"
+    
+    }
+    ],
+ 
+    "EXBI_SE_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO SEHUN** Bird",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/exo/bird/SE_R.png?format=png",
+    "theme": "Bird",
+    "inv": "<:R_LOGO:1089020300332630096> Bird"
+    
+    }
     ]
     
     
