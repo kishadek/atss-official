@@ -11628,6 +11628,129 @@
     "inv": "<:R_LOGO:1089020300332630096> Bird"
     
     }
+    ],
+    
+    "DJPF_JH_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NCT DOJAEJUNG JAEHYUN** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/5.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:C_LOGO:1089020314236764240> Perfume"
+        }
+    ],
+    "DJPF_JH_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NCT DOJAEJUNG JAEHYUN** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/4.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:B_LOGO:1089020310508015626> Perfume"
+        }
+    ],
+    "DJPF_JH_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NCT DOJAEJUNG JAEHYUN** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/3.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:A_LOGO:1089020306556989592> Perfume"
+        }
+    ],
+    "DJPF_JH_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NCT DOJAEJUNG JAEHYUN** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/2.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:S_LOGO:1089020304254316624> Perfume"
+        }
+    ],
+    "DJPF_JH_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NCT DOJAEJUNG JAEHYUN** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/1.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:R_LOGO:1089020300332630096> Perfume"
+        }
+    ],
+    
+    "DJPF_JW_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NCT DOJAEJUNG JUNGWOO** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/10.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:C_LOGO:1089020314236764240> Perfume"
+        }
+    ],
+    "DJPF_JW_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NCT DOJAEJUNG JUNGWOO** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/9.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:B_LOGO:1089020310508015626> Perfume"
+        }
+    ],
+    "DJPF_JW_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NCT DOJAEJUNG JUNGWOO** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/8.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:A_LOGO:1089020306556989592> Perfume"
+        }
+    ],
+    "DJPF_JW_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NCT DOJAEJUNG JUNGWOO** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/7.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:S_LOGO:1089020304254316624> Perfume"
+        }
+    ],
+    "DJPF_JW_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NCT DOJAEJUNG JUNGWOO** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/6.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:R_LOGO:1089020300332630096> Perfume"
+        }
+    ],
+    
+    "DJPF_DY_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NCT DOJAEJUNG DOYOUNG** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/15.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:C_LOGO:1089020314236764240> Perfume"
+        }
+    ],
+    "DJPF_DY_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NCT DOJAEJUNG DOYOUNG** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/14.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:B_LOGO:1089020310508015626> Perfume"
+        }
+    ],
+    "DJPF_DY_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NCT DOJAEJUNG DOYOUNG** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/13.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:A_LOGO:1089020306556989592> Perfume"
+        }
+    ],
+    "DJPF_DY_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NCT DOJAEJUNG DOYOUNG** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/12.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:S_LOGO:1089020304254316624> Perfume"
+        }
+    ],
+    "DJPF_DY_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NCT DOJAEJUNG DOYOUNG** Perfume",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfume/11.png?format=png",
+            "theme": "Perfume",
+            "inv": "<:R_LOGO:1089020300332630096> Perfume"
+        }
     ]
     
     
