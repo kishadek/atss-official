@@ -1601,6 +1601,167 @@
             "inv": "<:R_LOGO:1089020300332630096> Savage"
         }
     ],
+    
+    "AEGI_KR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_KR_C.png?format=png",
+            "theme": "Girls",
+            "inv": "<:C_LOGO:1089020314236764240> Girls"
+        }
+    ],
+    "AEGI_KR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_KR_B.png?format=png",
+            "theme": "Girls",
+            "inv": "<:B_LOGO:1089020310508015626> Girls"
+        }
+    ],
+    "AEGI_KR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_KR_A.png?format=png",
+            "theme": "Girls",
+            "inv": "<:A_LOGO:1089020306556989592> Girls"
+        }
+    ],
+    "AEGI_KR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_KR_S.png?format=png",
+            "theme": "Girls",
+            "inv": "<:S_LOGO:1089020304254316624> Girls"
+        }
+    ],
+    "AEGI_KR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_KR_R.png?format=png",
+            "theme": "Girls",
+            "inv": "<:R_LOGO:1089020300332630096> Girls"
+        }
+    ],
+    "AEGI_GS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa GISELLE** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_GS_C.png?format=png",
+            "theme": "Girls",
+            "inv": "<:C_LOGO:1089020314236764240> Girls"
+        }
+    ],
+    "AEGI_GS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa GISELLE** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_GS_B.png?format=png",
+            "theme": "Girls",
+            "inv": "<:B_LOGO:1089020310508015626> Girls"
+        }
+    ],
+    "AEGI_GS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa GISELLE** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_GS_A.png?format=png",
+            "theme": "Girls",
+            "inv": "<:A_LOGO:1089020306556989592> Girls"
+        }
+    ],
+    "AEGI_GS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa GISELLE** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_GS_S.png?format=png",
+            "theme": "Girls",
+            "inv": "<:S_LOGO:1089020304254316624> Girls"
+        }
+    ],
+    "AEGI_GS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa GISELLE** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_GS_R.png?format=png",
+            "theme": "Girls",
+            "inv": "<:R_LOGO:1089020300332630096> Girls"
+        }
+    ],
+    "AEGI_WT_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa WINTER** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_WT_C.png?format=png",
+            "theme": "Girls",
+            "inv": "<:C_LOGO:1089020314236764240> Girls"
+        }
+    ],
+    "AEGI_WT_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa WINTER** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_WT_B.png?format=png",
+            "theme": "Girls",
+            "inv": "<:B_LOGO:1089020310508015626> Girls"
+        }
+    ],
+    "AEGI_WT_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa WINTER** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_WT_A.png?format=png",
+            "theme": "Girls",
+            "inv": "<:A_LOGO:1089020306556989592> Girls"
+        }
+    ],
+    "AEGI_WT_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa WINTER** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_WT_S.png?format=png",
+            "theme": "Girls",
+            "inv": "<:S_LOGO:1089020304254316624> Girls"
+        }
+    ],
+    "AEGI_WT_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa WINTER** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_WT_R.png?format=png",
+            "theme": "Girls",
+            "inv": "<:R_LOGO:1089020300332630096> Girls"
+        }
+    ],
+    "AEGI_NN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa NINGNING** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_NN_C.png?format=png",
+            "theme": "Girls",
+            "inv": "<:C_LOGO:1089020314236764240> Girls"
+        }
+    ],
+    "AEGI_NN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa NINGNING** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_NN_B.png?format=png",
+            "theme": "Girls",
+            "inv": "<:B_LOGO:1089020310508015626> Girls"
+        }
+    ],
+    "AEGI_NN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa NINGNING** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_NN_A.png?format=png",
+            "theme": "Girls",
+            "inv": "<:A_LOGO:1089020306556989592> Girls"
+        }
+    ],
+    "AEGI_NN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa NINGNING** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_NN_S.png?format=png",
+            "theme": "Girls",
+            "inv": "<:S_LOGO:1089020304254316624> Girls"
+        }
+    ],
+    "AEGI_NN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa NINGNING** Girls",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/girls/AEGI_NN_R.png?format=png",
+            "theme": "Girls",
+            "inv": "<:R_LOGO:1089020300332630096> Girls"
+        }
+    ],
     "BPSD_JN_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Shut Down",
