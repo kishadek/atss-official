@@ -11109,6 +11109,127 @@
         }
     ],
     
+    "TSCS_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/5.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:C_LOGO:1089020314236764240> Cruel Summer"
+        }
+    ],
+    "TSCS_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/4.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:B_LOGO:1089020310508015626> Cruel Summer"
+        }
+    ],
+    "TSCS_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/3.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:A_LOGO:1089020306556989592> Cruel Summer"
+        }
+    ],
+    "TSCS_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/2.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:S_LOGO:1089020304254316624> Cruel Summer"
+        }
+    ],
+    "TSCS_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/1.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:R_LOGO:1089020300332630096> Cruel Summer"
+        }
+    ],
+    "TSCS_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/10.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:C_LOGO:1089020314236764240> Cruel Summer"
+        }
+    ],
+    "TSCS_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/9.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:B_LOGO:1089020310508015626> Cruel Summer"
+        }
+    ],
+    "TSCS_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/8.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:A_LOGO:1089020306556989592> Cruel Summer"
+        }
+    ],
+    "TSCS_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/7.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:S_LOGO:1089020304254316624> Cruel Summer"
+        }
+    ],
+    "TSCS_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/6.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:R_LOGO:1089020300332630096> Cruel Summer"
+        }
+    ],
+    "TSCS_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/15.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:C_LOGO:1089020314236764240> Cruel Summer"
+        }
+    ],
+    "TSCS_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/14.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:B_LOGO:1089020310508015626> Cruel Summer"
+        }
+    ],
+    "TSCS_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/13.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:A_LOGO:1089020306556989592> Cruel Summer"
+        }
+    ],
+    "TSCS_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/12.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:S_LOGO:1089020304254316624> Cruel Summer"
+        }
+    ],
+    "TSCS_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taylor_swift/cruelsummer/11.png?format=png",
+            "theme": "Cruel Summer",
+            "inv": "<:R_LOGO:1089020300332630096> Cruel Summer"
+        }
+    ],
+    
     "AGPS_V_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **Ariana Grande Vocal** positions",
