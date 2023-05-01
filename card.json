@@ -680,91 +680,51 @@
         }
     ],
 
-"JSME_V_C": [
+
+    "TYIN_V_C": [
         {
-            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Vocal** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/5.png?format=png",
-            "theme": "ME",
-            "inv": "<:C_LOGO:1089020314236764240> ME"
+            "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Vocal** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/5.png?format=png",
+            "theme": "INVU",
+            "inv": "<:C_LOGO:1089020314236764240> INVU"
         }
     ],
-    "JSME_V_B": [
+    "TYIN_V_B": [
         {
-            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Vocal** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/4.png?format=png",
-            "theme": "ME",
-            "inv": "<:B_LOGO:1089020310508015626> ME"
+            "name": "<:B_EMBLEM:1080736338938171443> **TAEYEON Vocal** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/4.png?format=png",
+            "theme": "INVU",
+            "inv": "<:B_LOGO:1089020310508015626> INVU"
         }
     ],
-    "JSME_V_A": [
+    "TYIN_V_A": [
         {
-            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Vocal** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/3.png?format=png",
-            "theme": "ME",
-            "inv": "<:A_LOGO:1089020306556989592> ME"
+            "name": "<:A_EMBLEM:1080736335591112764> **TAEYEON Vocal** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/3.png?format=png",
+            "theme": "INVU",
+            "inv": "<:A_LOGO:1089020306556989592> INVU"
         }
     ],
-    "JSME_V_S": [
+    "TYIN_V_S": [
         {
-            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Vocal** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/2.png?format=png",
-            "theme": "ME",
-            "inv": "<:S_LOGO:1089020304254316624> ME"
+            "name": "<:S_EMBLEM:1080736333615616030> **TAEYEON Vocal** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/2.png?format=png",
+            "theme": "INVU",
+            "inv": "<:S_LOGO:1089020304254316624> INVU"
         }
     ],
-    "JSME_V_R": [
+    "TYIN_V_R": [
         {
-            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Vocal** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/1.png?format=png",
-            "theme": "ME",
-            "inv": "<:R_LOGO:1089020300332630096> ME"
-        }
-    ],
-    
-    "JSME_D_C": [
-        {
-            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Dance** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/5.png?format=png",
-            "theme": "ME",
-            "inv": "<:C_LOGO:1089020314236764240> ME"
-        }
-    ],
-    "JSME_D_B": [
-        {
-            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Dance** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/4.png?format=png",
-            "theme": "ME",
-            "inv": "<:B_LOGO:1089020310508015626> ME"
-        }
-    ],
-    "JSME_D_A": [
-        {
-            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Dance** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/3.png?format=png",
-            "theme": "ME",
-            "inv": "<:A_LOGO:1089020306556989592> ME"
-        }
-    ],
-    "JSME_D_S": [
-        {
-            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Dance** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/2.png?format=png",
-            "theme": "ME",
-            "inv": "<:S_LOGO:1089020304254316624> ME"
-        }
-    ],
-    "JSME_D_R": [
-        {
-            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Dance** ME",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/1.png?format=png",
-            "theme": "ME",
-            "inv": "<:R_LOGO:1089020300332630096> ME"
+            "name": "<:R_EMBLEM:1080736329735880724> **TAEYEON Vocal** INVU",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/1.png?format=png",
+            "theme": "INVU",
+            "inv": "<:R_LOGO:1089020300332630096> INVU"
         }
     ],
     "TYIN_D_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **TAEYEON Dance** INVU",
-            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/10..png?format=png",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/invu/10.png?format=png",
             "theme": "INVU",
             "inv": "<:C_LOGO:1089020314236764240> INVU"
         }
@@ -12032,6 +11992,490 @@
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dojaejung/perfum/15.png?format=png",
             "theme": "Perfume",
             "inv": "<:R_LOGO:1089020300332630096> Perfume"
+        }
+    ],
+    
+    "JSME_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/5.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
+        }
+    ],
+    "JSME_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/4.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
+        }
+    ],
+    "JSME_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/3.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
+        }
+    ],
+    "JSME_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/2.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
+        }
+    ],
+    "JSME_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Vocal** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/1.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
+        }
+    ],
+    "JSME_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/10.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
+        }
+    ],
+    "JSME_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/9.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
+        }
+    ],
+    "JSME_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/8.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
+        }
+    ],
+    "JSME_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/7.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
+        }
+    ],
+    "JSME_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Dance** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/6.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
+        }
+    ],
+    "JSME_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/15.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:C_LOGO:1089020314236764240> ME"
+        }
+    ],
+    "JSME_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/14.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:B_LOGO:1089020310508015626> ME"
+        }
+    ],
+    "JSME_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/13.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:A_LOGO:1089020306556989592> ME"
+        }
+    ],
+    "JSME_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/12.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:S_LOGO:1089020304254316624> ME"
+        }
+    ],
+    "JSME_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JISOO Rhythm** ME",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jisoo/me/11.png?format=png",
+            "theme": "FLOWER",
+            "inv": "<:R_LOGO:1089020300332630096> ME"
+        }
+    ],
+    
+    "RSOT_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **ROSE Vocal** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/5.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:C_LOGO:1089020314236764240> On The Ground"
+        }
+    ],
+    "RSOT_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **ROSE Vocal** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/4.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:B_LOGO:1089020310508015626> On The Ground"
+        }
+    ],
+    "RSOT_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **ROSE Vocal** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/3.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:A_LOGO:1089020306556989592> On The Ground"
+        }
+    ],
+    "RSOT_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **ROSE Vocal** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/2.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:S_LOGO:1089020304254316624> On The Ground"
+        }
+    ],
+    "RSOT_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **ROSE Vocal** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/1.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:R_LOGO:1089020300332630096> On The Ground"
+        }
+    ],
+    "RSOT_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **ROSE Dance** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/10.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:C_LOGO:1089020314236764240> On The Ground"
+        }
+    ],
+    "RSOT_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **ROSE Dance** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/9.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:B_LOGO:1089020310508015626> On The Ground"
+        }
+    ],
+    "RSOT_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **ROSE Dance** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/8.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:A_LOGO:1089020306556989592> On The Ground"
+        }
+    ],
+    "RSOT_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **ROSE Dance** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/7.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:S_LOGO:1089020304254316624> On The Ground"
+        }
+    ],
+    "RSOT_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **ROSE Dance** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/6.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:R_LOGO:1089020300332630096> On The Ground"
+        }
+    ],
+    "RSOT_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **ROSE Rhythm** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/15.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:C_LOGO:1089020314236764240> On The Ground"
+        }
+    ],
+    "RSOT_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **ROSE Rhythm** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/14.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:B_LOGO:1089020310508015626> On The Ground"
+        }
+    ],
+    "RSOT_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **ROSE Rhythm** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/13.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:A_LOGO:1089020306556989592> On The Ground"
+        }
+    ],
+    "RSOT_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **ROSE Rhythm** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/12.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:S_LOGO:1089020304254316624> On The Ground"
+        }
+    ],
+    "RSOT_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **ROSE Rhythm** On The Ground",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/rose/otg/11.png?format=png",
+            "theme": "On The Ground",
+            "inv": "<:R_LOGO:1089020300332630096> On The Ground"
+        }
+    ],
+    
+    "LSLL_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **LISA Vocal** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/5.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:C_LOGO:1089020314236764240> LALISA"
+        }
+    ],
+    "LSLL_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **LISA Vocal** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/4.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:B_LOGO:1089020310508015626> LALISA"
+        }
+    ],
+    "LSLL_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **LISA Vocal** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/3.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:A_LOGO:1089020306556989592> LALISA"
+        }
+    ],
+    "LSLL_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **LISA Vocal** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/2.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:S_LOGO:1089020304254316624> LALISA"
+        }
+    ],
+    "LSLL_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **LISA Vocal** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/1.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:R_LOGO:1089020300332630096> LALISA"
+        }
+    ],
+    "LSLL_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **LISA Dance** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/10.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:C_LOGO:1089020314236764240> LALISA"
+        }
+    ],
+    "LSLL_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **LISA Dance** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/9.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:B_LOGO:1089020310508015626> LALISA"
+        }
+    ],
+    "LSLL_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **LISA Dance** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/8.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:A_LOGO:1089020306556989592> LALISA"
+        }
+    ],
+    "LSLL_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **LISA Dance** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/7.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:S_LOGO:1089020304254316624> LALISA"
+        }
+    ],
+    "LSLL_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **LISA Dance** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/6.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:R_LOGO:1089020300332630096> LALISA"
+        }
+    ],
+    "LSLL_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **LISA Rhythm** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/15.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:C_LOGO:1089020314236764240> LALISA"
+        }
+    ],
+    "LSLL_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **LISA Rhythm** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/14.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:B_LOGO:1089020310508015626> LALISA"
+        }
+    ],
+    "LSLL_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **LISA Rhythm** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/13.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:A_LOGO:1089020306556989592> LALISA"
+        }
+    ],
+    "LSLL_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **LISA Rhythm** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/12.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:S_LOGO:1089020304254316624> LALISA"
+        }
+    ],
+    "LSLL_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **LISA Rhythm** LALISA",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lisa/lalisa/11.png?format=png",
+            "theme": "LALISA",
+            "inv": "<:R_LOGO:1089020300332630096> LALISA"
+        }
+    ],
+    
+    "JNSL_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JENNIE Vocal** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/5.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:C_LOGO:1089020314236764240> SOLO"
+        }
+    ],
+    "JNSL_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JENNIE Vocal** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/4.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:B_LOGO:1089020310508015626> SOLO"
+        }
+    ],
+    "JNSL_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JENNIE Vocal** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/3.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:A_LOGO:1089020306556989592> SOLO"
+        }
+    ],
+    "JNSL_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JENNIE Vocal** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/2.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:S_LOGO:1089020304254316624> SOLO"
+        }
+    ],
+    "JNSL_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JENNIE Vocal** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/1.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:R_LOGO:1089020300332630096> SOLO"
+        }
+    ],
+    "JNSL_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JENNIE Dance** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/10.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:C_LOGO:1089020314236764240> SOLO"
+        }
+    ],
+    "JNSL_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JENNIE Dance** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/9.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:B_LOGO:1089020310508015626> SOLO"
+        }
+    ],
+    "JNSL_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JENNIE Dance** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/8.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:A_LOGO:1089020306556989592> SOLO"
+        }
+    ],
+    "JNSL_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JENNIE Dance** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/7.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:S_LOGO:1089020304254316624> SOLO"
+        }
+    ],
+    "JNSL_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JENNIE Dance** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/6.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:R_LOGO:1089020300332630096> SOLO"
+        }
+    ],
+    "JNSL_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **JENNIE Rhythm** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/15.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:C_LOGO:1089020314236764240> SOLO"
+        }
+    ],
+    "JNSL_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **JENNIE Rhythm** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/14.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:B_LOGO:1089020310508015626> SOLO"
+        }
+    ],
+    "JNSL_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **JENNIE Rhythm** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/13.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:A_LOGO:1089020306556989592> SOLO"
+        }
+    ],
+    "JNSL_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **JENNIE Rhythm** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/12.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:S_LOGO:1089020304254316624> SOLO"
+        }
+    ],
+    "JNSL_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **JENNIE Rhythm** SOLO",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/solo/11.png?format=png",
+            "theme": "SOLO",
+            "inv": "<:R_LOGO:1089020300332630096> SOLO"
         }
     ]
     
