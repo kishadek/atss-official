@@ -1722,6 +1722,167 @@
             "inv": "<:R_LOGO:1089020300332630096> Girls"
         }
     ],
+    
+    "AELG_KR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_KR_C.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:C_LOGO:1089020314236764240> Lingo"
+        }
+    ],
+    "AELG_KR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_KR_B.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:B_LOGO:1089020310508015626> Lingo"
+        }
+    ],
+    "AELG_KR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_KR_A.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:A_LOGO:1089020306556989592> Lingo"
+        }
+    ],
+    "AELG_KR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_KR_S.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:S_LOGO:1089020304254316624> Lingo"
+        }
+    ],
+    "AELG_KR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_KR_R.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:R_LOGO:1089020300332630096> Lingo"
+        }
+    ],
+    "AELG_GS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa GISELLE** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_GS_C.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:C_LOGO:1089020314236764240> Lingo"
+        }
+    ],
+    "AELG_GS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa GISELLE** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_GS_B.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:B_LOGO:1089020310508015626> Lingo"
+        }
+    ],
+    "AELG_GS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa GISELLE** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_GS_A.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:A_LOGO:1089020306556989592> Lingo"
+        }
+    ],
+    "AELG_GS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa GISELLE** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_GS_S.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:S_LOGO:1089020304254316624> Lingo"
+        }
+    ],
+    "AELG_GS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa GISELLE** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_GS_R.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:R_LOGO:1089020300332630096> Lingo"
+        }
+    ],
+    "AELG_WT_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa WINTER** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_WT_C.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:C_LOGO:1089020314236764240> Lingo"
+        }
+    ],
+    "AELG_WT_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa WINTER** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_WT_B.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:B_LOGO:1089020310508015626> Lingo"
+        }
+    ],
+    "AELG_WT_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa WINTER** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_WT_A.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:A_LOGO:1089020306556989592> Lingo"
+        }
+    ],
+    "AELG_WT_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa WINTER** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_WT_S.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:S_LOGO:1089020304254316624> Lingo"
+        }
+    ],
+    "AELG_WT_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa WINTER** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_WT_R.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:R_LOGO:1089020300332630096> Lingo"
+        }
+    ],
+    "AELG_NN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa NINGNING** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_NN_C.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:C_LOGO:1089020314236764240> Lingo"
+        }
+    ],
+    "AELG_NN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa NINGNING** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_NN_B.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:B_LOGO:1089020310508015626> Lingo"
+        }
+    ],
+    "AELG_NN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa NINGNING** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_NN_A.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:A_LOGO:1089020306556989592> Lingo"
+        }
+    ],
+    "AELG_NN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa NINGNING** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_NN_S.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:S_LOGO:1089020304254316624> Lingo"
+        }
+    ],
+    "AELG_NN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa NINGNING** Lingo",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AELG_NN_R.png?format=png",
+            "theme": "Lingo",
+            "inv": "<:R_LOGO:1089020300332630096> Lingo"
+        }
+    ],
     "BPSD_JN_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Shut Down",
