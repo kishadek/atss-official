@@ -1883,6 +1883,167 @@
             "inv": "<:R_LOGO:1089020300332630096> Lingo"
         }
     ],
+    
+    "AEMW_KR_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa KARINA** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_KR_C.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:C_LOGO:1089020314236764240> MY World"
+        }
+    ],
+    "AEMW_KR_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa KARINA** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_KR_B.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:B_LOGO:1089020310508015626> MY World"
+        }
+    ],
+    "AEMW_KR_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa KARINA** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_KR_A.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:A_LOGO:1089020306556989592> MY World"
+        }
+    ],
+    "AEMW_KR_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa KARINA** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_KR_S.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:S_LOGO:1089020304254316624> MY World"
+        }
+    ],
+    "AEMW_KR_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa KARINA** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_KR_R.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:R_LOGO:1089020300332630096> MY World"
+        }
+    ],
+    "AEMW_GS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa GISELLE** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_GS_C.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:C_LOGO:1089020314236764240> MY World"
+        }
+    ],
+    "AEMW_GS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa GISELLE** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_GS_B.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:B_LOGO:1089020310508015626> MY World"
+        }
+    ],
+    "AEMW_GS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa GISELLE** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_GS_A.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:A_LOGO:1089020306556989592> MY World"
+        }
+    ],
+    "AEMW_GS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa GISELLE** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_GS_S.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:S_LOGO:1089020304254316624> MY World"
+        }
+    ],
+    "AEMW_GS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa GISELLE** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_GS_R.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:R_LOGO:1089020300332630096> MY World"
+        }
+    ],
+    "AEMW_WT_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa WINTER** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_WT_C.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:C_LOGO:1089020314236764240> MY World"
+        }
+    ],
+    "AEMW_WT_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa WINTER** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_WT_B.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:B_LOGO:1089020310508015626> MY World"
+        }
+    ],
+    "AEMW_WT_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa WINTER** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_WT_A.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:A_LOGO:1089020306556989592> MY World"
+        }
+    ],
+    "AEMW_WT_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa WINTER** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_WT_S.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:S_LOGO:1089020304254316624> MY World"
+        }
+    ],
+    "AEMW_WT_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa WINTER** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_WT_R.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:R_LOGO:1089020300332630096> MY World"
+        }
+    ],
+    "AEMW_NN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **aespa NINGNING** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_NN_C.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:C_LOGO:1089020314236764240> MY World"
+        }
+    ],
+    "AEMW_NN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **aespa NINGNING** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_NN_B.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:B_LOGO:1089020310508015626> MY World"
+        }
+    ],
+    "AEMW_NN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **aespa NINGNING** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_NN_A.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:A_LOGO:1089020306556989592> MY World"
+        }
+    ],
+    "AEMW_NN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **aespa NINGNING** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_NN_S.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:S_LOGO:1089020304254316624> MY World"
+        }
+    ],
+    "AEMW_NN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **aespa NINGNING** MY World",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/aep/lingo/AEMW_NN_R.png?format=png",
+            "theme": "Welcome To MY World (feat. naevis)",
+            "inv": "<:R_LOGO:1089020300332630096> MY World"
+        }
+    ],
     "BPSD_JN_C": [
         {
             "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Shut Down",
@@ -2241,6 +2402,207 @@
             "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/antifragile/HC_R.png?format=png",
             "theme": "ANTIFRAGILE",
             "inv": "<:R_LOGO:1089020300332630096> ANTIFRAGILE"
+        }
+    ],
+    
+    "LSUF_SK_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM SAKURA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/SK_C.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:C_LOGO:1089020314236764240> UNFORGIVEN"
+        }
+    ],
+    "LSUF_SK_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM SAKURA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/SK_B.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:B_LOGO:1089020310508015626> UNFORGIVEN"
+        }
+    ],
+    "LSUF_SK_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM SAKURA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/SK_A.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:A_LOGO:1089020306556989592> UNFORGIVEN"
+        }
+    ],
+    "LSUF_SK_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM SAKURA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/SK_S.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:S_LOGO:1089020304254316624> UNFORGIVEN"
+        }
+    ],
+    "LSUF_SK_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM SAKURA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/SK_R.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:R_LOGO:1089020300332630096> UNFORGIVEN"
+        }
+    ],
+    "LSUF_CW_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM CHAEWON** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/CW_C.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:C_LOGO:1089020314236764240> UNFORGIVEN"
+        }
+    ],
+    "LSUF_CW_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM CHAEWON** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/CW_B.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:B_LOGO:1089020310508015626> UNFORGIVEN"
+        }
+    ],
+    "LSUF_CW_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM CHAEWON** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/CW_A.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:A_LOGO:1089020306556989592> UNFORGIVEN"
+        }
+    ],
+    "LSUF_CW_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM CHAEWON** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/CW_S.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:S_LOGO:1089020304254316624> UNFORGIVEN"
+        }
+    ],
+    "LSUF_CW_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM CHAEWON** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/CW_R.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:R_LOGO:1089020300332630096> UNFORGIVEN"
+        }
+    ],
+    "LSUF_HY_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HY_C.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:C_LOGO:1089020314236764240> UNFORGIVEN"
+        }
+    ],
+    "LSUF_HY_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HY_B.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:B_LOGO:1089020310508015626> UNFORGIVEN"
+        }
+    ],
+    "LSUF_HY_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HY_A.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:A_LOGO:1089020306556989592> UNFORGIVEN"
+        }
+    ],
+    "LSUF_HY_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HY_S.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:S_LOGO:1089020304254316624> UNFORGIVEN"
+        }
+    ],
+    "LSUF_HY_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HY_R.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:R_LOGO:1089020300332630096> UNFORGIVEN"
+        }
+    ],
+    "LSUF_KZ_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/KZ_C.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:C_LOGO:1089020314236764240> UNFORGIVEN"
+        }
+    ],
+    "LSUF_KZ_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/KZ_B.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:B_LOGO:1089020310508015626> UNFORGIVEN"
+        }
+    ],
+    "LSUF_KZ_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/KZ_A.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:A_LOGO:1089020306556989592> UNFORGIVEN"
+        }
+    ],
+    "LSUF_KZ_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/KZ_S.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:S_LOGO:1089020304254316624> UNFORGIVEN"
+        }
+    ],
+    "LSUF_KZ_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM KAZUHA** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/KZ_R.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:R_LOGO:1089020300332630096> UNFORGIVEN"
+        }
+    ],
+    "LSUF_EC_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **LE SSERAFIM EUNCHAE** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HC_C.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:C_LOGO:1089020314236764240> UNFORGIVEN"
+        }
+    ],
+    "LSUF_EC_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **LE SSERAFIM EUNCHAE** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HC_B.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:B_LOGO:1089020310508015626> UNFORGIVEN"
+        }
+    ],
+    "LSUF_EC_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **LE SSERAFIM EUNCHAE** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HC_A.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:A_LOGO:1089020306556989592> UNFORGIVEN"
+        }
+    ],
+    "LSUF_EC_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **LE SSERAFIM EUNCHAE** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HC_S.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:S_LOGO:1089020304254316624> UNFORGIVEN"
+        }
+    ],
+    "LSUF_EC_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **LE SSERAFIM EUNCHAE** UNFORGIVEN",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/lsf/unforgiven/HC_R.png?format=png",
+            "theme": "UNFORGIVEN",
+            "inv": "<:R_LOGO:1089020300332630096> UNFORGIVEN"
         }
     ],
     "FFCP_SI_C": [
