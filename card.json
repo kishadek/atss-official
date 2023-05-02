@@ -12638,6 +12638,127 @@
             "theme": "SOLO",
             "inv": "<:R_LOGO:1089020300332630096> SOLO"
         }
+    ],
+    
+    "WDLW_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WENDY Vocal** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/5.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:C_LOGO:1089020314236764240> Like Water"
+        }
+    ],
+    "WDLW_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WENDY Vocal** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/4.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:B_LOGO:1089020310508015626> Like Water"
+        }
+    ],
+    "WDLW_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WENDY Vocal** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/3.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:A_LOGO:1089020306556989592> Like Water"
+        }
+    ],
+    "WDLW_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WENDY Vocal** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/2.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:S_LOGO:1089020304254316624> Like Water"
+        }
+    ],
+    "WDLW_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WENDY Vocal** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/1.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:R_LOGO:1089020300332630096> Like Water"
+        }
+    ],
+    "WDLW_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WENDY Dance** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/10.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:C_LOGO:1089020314236764240> Like Water"
+        }
+    ],
+    "WDLW_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WENDY Dance** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/9.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:B_LOGO:1089020310508015626> Like Water"
+        }
+    ],
+    "WDLW_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WENDY Dance** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/8.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:A_LOGO:1089020306556989592> Like Water"
+        }
+    ],
+    "WDLW_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WENDY Dance** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/7.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:S_LOGO:1089020304254316624> Like Water"
+        }
+    ],
+    "WDLW_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WENDY Dance** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/6.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:R_LOGO:1089020300332630096> Like Water"
+        }
+    ],
+    "WDLW_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **WENDY Rhythm** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/15.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:C_LOGO:1089020314236764240> Like Water"
+        }
+    ],
+    "WDLW_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **WENDY Rhythm** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/14.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:B_LOGO:1089020310508015626> Like Water"
+        }
+    ],
+    "WDLW_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **WENDY Rhythm** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/13.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:A_LOGO:1089020306556989592> Like Water"
+        }
+    ],
+    "WDLW_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **WENDY Rhythm** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/12.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:S_LOGO:1089020304254316624> Like Water"
+        }
+    ],
+    "WDLW_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **WENDY Rhythm** Like Water",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/wendy/like_water/11.png?format=png",
+            "theme": "Like Water",
+            "inv": "<:R_LOGO:1089020300332630096> Like Water"
+        }
     ]
     
     
