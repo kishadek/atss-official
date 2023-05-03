@@ -13121,6 +13121,248 @@
             "theme": "Like Water",
             "inv": "<:R_LOGO:1089020300332630096> Like Water"
         }
+    ],
+    
+    "NYIN_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NAYEON Vocal** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/5.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:C_LOGO:1089020314236764240> IM NAYEON"
+        }
+    ],
+    "NYIN_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NAYEON Vocal** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/4.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:B_LOGO:1089020310508015626> IM NAYEON"
+        }
+    ],
+    "NYIN_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NAYEON Vocal** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/3.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:A_LOGO:1089020306556989592> IM NAYEON"
+        }
+    ],
+    "NYIN_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NAYEON Vocal** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/2.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:S_LOGO:1089020304254316624> IM NAYEON"
+        }
+    ],
+    "NYIN_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NAYEON Vocal** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/1.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:R_LOGO:1089020300332630096> IM NAYEON"
+        }
+    ],
+    "NYIN_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NAYEON Dance** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/10.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:C_LOGO:1089020314236764240> IM NAYEON"
+        }
+    ],
+    "NYIN_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NAYEON Dance** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/9.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:B_LOGO:1089020310508015626> IM NAYEON"
+        }
+    ],
+    "NYIN_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NAYEON Dance** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/8.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:A_LOGO:1089020306556989592> IM NAYEON"
+        }
+    ],
+    "NYIN_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NAYEON Dance** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/7.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:S_LOGO:1089020304254316624> IM NAYEON"
+        }
+    ],
+    "NYIN_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NAYEON Dance** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/6.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:R_LOGO:1089020300332630096> IM NAYEON"
+        }
+    ],
+    "NYIN_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **NAYEON Rhythm** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/15.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:C_LOGO:1089020314236764240> IM NAYEON"
+        }
+    ],
+    "NYIN_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **NAYEON Rhythm** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/14.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:B_LOGO:1089020310508015626> IM NAYEON"
+        }
+    ],
+    "NYIN_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **NAYEON Rhythm** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/13.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:A_LOGO:1089020306556989592> IM NAYEON"
+        }
+    ],
+    "NYIN_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **NAYEON Rhythm** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/12.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:S_LOGO:1089020304254316624> IM NAYEON"
+        }
+    ],
+    "NYIN_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **NAYEON Rhythm** IM NAYEON",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nayeon/im_nayeon/11.png?format=png",
+            "theme": "IM NAYEON",
+            "inv": "<:R_LOGO:1089020300332630096> IM NAYEON"
+        }
+    ],
+    
+    "BHBM_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **BAEKHYUN Vocal** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/5.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:C_LOGO:1089020314236764240> Bambi"
+        }
+    ],
+    "BHBM_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **BAEKHYUN Vocal** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/4.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:B_LOGO:1089020310508015626> Bambi"
+        }
+    ],
+    "BHBM_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **BAEKHYUN Vocal** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/3.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:A_LOGO:1089020306556989592> Bambi"
+        }
+    ],
+    "BHBM_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **BAEKHYUN Vocal** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/2.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:S_LOGO:1089020304254316624> Bambi"
+        }
+    ],
+    "BHBM_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **BAEKHYUN Vocal** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/1.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:R_LOGO:1089020300332630096> Bambi"
+        }
+    ],
+    "BHBM_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **BAEKHYUN Dance** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/10.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:C_LOGO:1089020314236764240> Bambi"
+        }
+    ],
+    "BHBM_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **BAEKHYUN Dance** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/9.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:B_LOGO:1089020310508015626> Bambi"
+        }
+    ],
+    "BHBM_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **BAEKHYUN Dance** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/8.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:A_LOGO:1089020306556989592> Bambi"
+        }
+    ],
+    "BHBM_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **BAEKHYUN Dance** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/7.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:S_LOGO:1089020304254316624> Bambi"
+        }
+    ],
+    "BHBM_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **BAEKHYUN Dance** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/6.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:R_LOGO:1089020300332630096> Bambi"
+        }
+    ],
+    "BHBM_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **BAEKHYUN Rhythm** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/15.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:C_LOGO:1089020314236764240> Bambi"
+        }
+    ],
+    "BHBM_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **BAEKHYUN Rhythm** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/14.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:B_LOGO:1089020310508015626> Bambi"
+        }
+    ],
+    "BHBM_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **BAEKHYUN Rhythm** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/13.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:A_LOGO:1089020306556989592> Bambi"
+        }
+    ],
+    "BHBM_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **BAEKHYUN Rhythm** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/12.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:S_LOGO:1089020304254316624> Bambi"
+        }
+    ],
+    "BHBM_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **BAEKHYUN Rhythm** Bambi",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/baekhyun/bambi/11.png?format=png",
+            "theme": "Bambi",
+            "inv": "<:R_LOGO:1089020300332630096> Bambi"
+        }
     ]
     
     
