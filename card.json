@@ -13363,6 +13363,248 @@
             "theme": "Bambi",
             "inv": "<:R_LOGO:1089020300332630096> Bambi"
         }
+    ],
+    
+    "DLLV_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Dua Lipa Vocal** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/5.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:C_LOGO:1089020314236764240> Levitating"
+        }
+    ],
+    "DLLV_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Dua Lipa Vocal** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/4.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:B_LOGO:1089020310508015626> Levitating"
+        }
+    ],
+    "DLLV_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Dua Lipa Vocal** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/3.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:A_LOGO:1089020306556989592> Levitating"
+        }
+    ],
+    "DLLV_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Dua Lipa Vocal** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/2.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:S_LOGO:1089020304254316624> Levitating"
+        }
+    ],
+    "DLLV_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Dua Lipa Vocal** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/1.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:R_LOGO:1089020300332630096> Levitating"
+        }
+    ],
+    "DLLV_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Dua Lipa Dance** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/10.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:C_LOGO:1089020314236764240> Levitating"
+        }
+    ],
+    "DLLV_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Dua Lipa Dance** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/9.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:B_LOGO:1089020310508015626> Levitating"
+        }
+    ],
+    "DLLV_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Dua Lipa Dance** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/8.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:A_LOGO:1089020306556989592> Levitating"
+        }
+    ],
+    "DLLV_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Dua Lipa Dance** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/7.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:S_LOGO:1089020304254316624> Levitating"
+        }
+    ],
+    "DLLV_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Dua Lipa Dance** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/6.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:R_LOGO:1089020300332630096> Levitating"
+        }
+    ],
+    "DLLV_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Dua Lipa Rhythm** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/15.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:C_LOGO:1089020314236764240> Levitating"
+        }
+    ],
+    "DLLV_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Dua Lipa Rhythm** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/14.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:B_LOGO:1089020310508015626> Levitating"
+        }
+    ],
+    "DLLV_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Dua Lipa Rhythm** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/13.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:A_LOGO:1089020306556989592> Levitating"
+        }
+    ],
+    "DLLV_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Dua Lipa Rhythm** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/12.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:S_LOGO:1089020304254316624> Levitating"
+        }
+    ],
+    "DLLV_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Dua Lipa Rhythm** Levitating",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/levitating/11.png?format=png",
+            "theme": "Levitating",
+            "inv": "<:R_LOGO:1089020300332630096> Levitating"
+        }
+    ],
+    
+    "DLPS_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Dua Lipa Vocal** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/5.png?format=png",
+            "theme": "Physical",
+            "inv": "<:C_LOGO:1089020314236764240> Physical"
+        }
+    ],
+    "DLPS_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Dua Lipa Vocal** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/4.png?format=png",
+            "theme": "Physical",
+            "inv": "<:B_LOGO:1089020310508015626> Physical"
+        }
+    ],
+    "DLPS_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Dua Lipa Vocal** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/3.png?format=png",
+            "theme": "Physical",
+            "inv": "<:A_LOGO:1089020306556989592> Physical"
+        }
+    ],
+    "DLPS_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Dua Lipa Vocal** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/2.png?format=png",
+            "theme": "Physical",
+            "inv": "<:S_LOGO:1089020304254316624> Physical"
+        }
+    ],
+    "DLPS_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Dua Lipa Vocal** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/1.png?format=png",
+            "theme": "Physical",
+            "inv": "<:R_LOGO:1089020300332630096> Physical"
+        }
+    ],
+    "DLPS_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Dua Lipa Dance** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/10.png?format=png",
+            "theme": "Physical",
+            "inv": "<:C_LOGO:1089020314236764240> Physical"
+        }
+    ],
+    "DLPS_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Dua Lipa Dance** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/9.png?format=png",
+            "theme": "Physical",
+            "inv": "<:B_LOGO:1089020310508015626> Physical"
+        }
+    ],
+    "DLPS_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Dua Lipa Dance** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/8.png?format=png",
+            "theme": "Physical",
+            "inv": "<:A_LOGO:1089020306556989592> Physical"
+        }
+    ],
+    "DLPS_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Dua Lipa Dance** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/7.png?format=png",
+            "theme": "Physical",
+            "inv": "<:S_LOGO:1089020304254316624> Physical"
+        }
+    ],
+    "DLPS_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Dua Lipa Dance** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/6.png?format=png",
+            "theme": "Physical",
+            "inv": "<:R_LOGO:1089020300332630096> Physical"
+        }
+    ],
+    "DLPS_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Dua Lipa Rhythm** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/15.png?format=png",
+            "theme": "Physical",
+            "inv": "<:C_LOGO:1089020314236764240> Physical"
+        }
+    ],
+    "DLPS_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Dua Lipa Rhythm** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/14.png?format=png",
+            "theme": "Physical",
+            "inv": "<:B_LOGO:1089020310508015626> Physical"
+        }
+    ],
+    "DLPS_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Dua Lipa Rhythm** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/13.png?format=png",
+            "theme": "Physical",
+            "inv": "<:A_LOGO:1089020306556989592> Physical"
+        }
+    ],
+    "DLPS_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Dua Lipa Rhythm** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/12.png?format=png",
+            "theme": "Physical",
+            "inv": "<:S_LOGO:1089020304254316624> Physical"
+        }
+    ],
+    "DLPS_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Dua Lipa Rhythm** Physical",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/dua_lipa/physical/11.png?format=png",
+            "theme": "Physical",
+            "inv": "<:R_LOGO:1089020300332630096> Physical"
+        }
     ]
     
     
