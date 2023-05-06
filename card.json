@@ -13605,7 +13605,128 @@
             "theme": "Physical",
             "inv": "<:R_LOGO:1089020300332630096> Physical"
         }
-    ]
+    ],
+    
+    "SZSO_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **SZA Vocal** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/5.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:C_LOGO:1089020314236764240> SOS"
+        }
+    ],
+    "SZSO_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **SZA Vocal** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/4.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:B_LOGO:1089020310508015626> SOS"
+        }
+    ],
+    "SZSO_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **SZA Vocal** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/3.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:A_LOGO:1089020306556989592> SOS"
+        }
+    ],
+    "SZSO_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **SZA Vocal** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/2.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:S_LOGO:1089020304254316624> SOS"
+        }
+    ],
+    "SZSO_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **SZA Vocal** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/1.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:R_LOGO:1089020300332630096> SOS"
+        }
+    ],
+    "SZSO_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **SZA Dance** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/10.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:C_LOGO:1089020314236764240> SOS"
+        }
+    ],
+    "SZSO_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **SZA Dance** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/9.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:B_LOGO:1089020310508015626> SOS"
+        }
+    ],
+    "SZSO_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **SZA Dance** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/8.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:A_LOGO:1089020306556989592> SOS"
+        }
+    ],
+    "SZSO_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **SZA Dance** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/7.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:S_LOGO:1089020304254316624> SOS"
+        }
+    ],
+    "SZSO_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **SZA Dance** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/6.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:R_LOGO:1089020300332630096> SOS"
+        }
+    ],
+    "SZSO_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **SZA Rhythm** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/15.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:C_LOGO:1089020314236764240> SOS"
+        }
+    ],
+    "SZSO_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **SZA Rhythm** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/14.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:B_LOGO:1089020310508015626> SOS"
+        }
+    ],
+    "SZSO_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **SZA Rhythm** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/13.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:A_LOGO:1089020306556989592> SOS"
+        }
+    ],
+    "SZSO_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **SZA Rhythm** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/12.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:S_LOGO:1089020304254316624> SOS"
+        }
+    ],
+    "SZSO_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **SZA Rhythm** SOS",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/sza/kill_bill/11.png?format=png",
+            "theme": "Kill Bill",
+            "inv": "<:R_LOGO:1089020300332630096> SOS"
+        }
+    ],
     
     
     
