@@ -13726,7 +13726,128 @@
             "theme": "Kill Bill",
             "inv": "<:R_LOGO:1089020300332630096> SOS"
         }
-    ]    
+    ],
+    
+    "IULL_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **IU Vocal** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/5.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:C_LOGO:1089020314236764240> LILAC"
+        }
+    ],
+    "IULL_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **IU Vocal** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/4.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:B_LOGO:1089020310508015626> LILAC"
+        }
+    ],
+    "IULL_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **IU Vocal** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/3.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:A_LOGO:1089020306556989592> LILAC"
+        }
+    ],
+    "IULL_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **IU Vocal** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/2.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:S_LOGO:1089020304254316624> LILAC"
+        }
+    ],
+    "IULL_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **IU Vocal** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/1.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:R_LOGO:1089020300332630096> LILAC"
+        }
+    ],
+    "IULL_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **IU Dance** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/10.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:C_LOGO:1089020314236764240> LILAC"
+        }
+    ],
+    "IULL_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **IU Dance** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/9.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:B_LOGO:1089020310508015626> LILAC"
+        }
+    ],
+    "IULL_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **IU Dance** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/8.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:A_LOGO:1089020306556989592> LILAC"
+        }
+    ],
+    "IULL_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **IU Dance** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/7.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:S_LOGO:1089020304254316624> LILAC"
+        }
+    ],
+    "IULL_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **IU Dance** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/6.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:R_LOGO:1089020300332630096> LILAC"
+        }
+    ],
+    "IULL_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **IU Rhythm** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/15.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:C_LOGO:1089020314236764240> LILAC"
+        }
+    ],
+    "IULL_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **IU Rhythm** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/14.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:B_LOGO:1089020310508015626> LILAC"
+        }
+    ],
+    "IULL_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **IU Rhythm** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/13.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:A_LOGO:1089020306556989592> LILAC"
+        }
+    ],
+    "IULL_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **IU Rhythm** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/12.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:S_LOGO:1089020304254316624> LILAC"
+        }
+    ],
+    "IULL_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **IU Rhythm** LILAC",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/iu/lilac/11.png?format=png",
+            "theme": "LILAC",
+            "inv": "<:R_LOGO:1089020300332630096> LILAC"
+        }
+    ]
     
     
 }
