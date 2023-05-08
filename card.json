@@ -14091,9 +14091,9 @@
         }
     ],
     
-    "NCCD_MR_C": [
+"NCCD_MR_C": [
     {
-    "name": "<:C_LOGO:1089020314236764240> **EXO MARK** Candy",
+    "name": "<:C_LOGO:1089020314236764240> **NCT DREAM MARK** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_C.png?format=png",
     "theme": "Candy",
     "inv": "<:C_LOGO:1089020314236764240> Candy"
@@ -14103,7 +14103,7 @@
  
   "NCCD_MR_B": [
     {
-    "name": "<:B_LOGO:1089020310508015626> **EXO MARK** Candy",
+    "name": "<:B_LOGO:1089020310508015626> **NCT DREAM MARK** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_B.png?format=png",
     "theme": "Candy",
     "inv": "<:B_LOGO:1089020310508015626> Candy"
@@ -14113,7 +14113,7 @@
  
    "NCCD_MR_A": [
     {
-    "name": "<:A_LOGO:1089020306556989592> **EXO MARK** Candy",
+    "name": "<:A_LOGO:1089020306556989592> **NCT DREAM MARK** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_A.png?format=png",
     "theme": "Candy",
     "inv": "<:A_LOGO:1089020306556989592> Candy"
@@ -14123,7 +14123,7 @@
  
     "NCCD_MR_S": [
     {
-    "name": "<:S_LOGO:1089020304254316624> **EXO MARK** Candy",
+    "name": "<:S_LOGO:1089020304254316624> **NCT DREAM MARK** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_S.png?format=png",
     "theme": "Candy",
     "inv": "<:S_LOGO:1089020304254316624> Candy"
@@ -14133,7 +14133,7 @@
  
     "NCCD_MR_R": [
     {
-    "name": "<:R_LOGO:1089020300332630096> **EXO MARK** Candy",
+    "name": "<:R_LOGO:1089020300332630096> **NCT DREAM MARK** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_R.png?format=png",
     "theme": "Candy",
     "inv": "<:R_LOGO:1089020300332630096> Candy"
@@ -14143,7 +14143,7 @@
     
     "NCCD_JS_C": [
     {
-    "name": "<:C_LOGO:1089020314236764240> **EXO JISUNG** Candy",
+    "name": "<:C_LOGO:1089020314236764240> **NCT DREAM JISUNG** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_C.png?format=png",
     "theme": "Candy",
     "inv": "<:C_LOGO:1089020314236764240> Candy"
@@ -14153,7 +14153,7 @@
  
   "NCCD_JS_B": [
     {
-    "name": "<:B_LOGO:1089020310508015626> **EXO JISUNG** Candy",
+    "name": "<:B_LOGO:1089020310508015626> **NCT DREAM JISUNG** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_B.png?format=png",
     "theme": "Candy",
     "inv": "<:B_LOGO:1089020310508015626> Candy"
@@ -14163,7 +14163,7 @@
  
    "NCCD_JS_A": [
     {
-    "name": "<:A_LOGO:1089020306556989592> **EXO JISUNG** Candy",
+    "name": "<:A_LOGO:1089020306556989592> **NCT DREAM JISUNG** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_A.png?format=png",
     "theme": "Candy",
     "inv": "<:A_LOGO:1089020306556989592> Candy"
@@ -14173,7 +14173,7 @@
  
     "NCCD_JS_S": [
     {
-    "name": "<:S_LOGO:1089020304254316624> **EXO JISUNG** Candy",
+    "name": "<:S_LOGO:1089020304254316624> **NCT DREAM JISUNG** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_S.png?format=png",
     "theme": "Candy",
     "inv": "<:S_LOGO:1089020304254316624> Candy"
@@ -14183,7 +14183,7 @@
  
     "NCCD_JS_R": [
     {
-    "name": "<:R_LOGO:1089020300332630096> **EXO JISUNG** Candy",
+    "name": "<:R_LOGO:1089020300332630096> **NCT DREAM JISUNG** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_R.png?format=png",
     "theme": "Candy",
     "inv": "<:R_LOGO:1089020300332630096> Candy"
@@ -14193,7 +14193,7 @@
     
     "NCCD_HC_C": [
     {
-    "name": "<:C_LOGO:1089020314236764240> **EXO HAECHAN** Candy",
+    "name": "<:C_LOGO:1089020314236764240> **NCT DREAM HAECHAN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_C.png?format=png",
     "theme": "Candy",
     "inv": "<:C_LOGO:1089020314236764240> Candy"
@@ -14203,7 +14203,7 @@
  
   "NCCD_HC_B": [
     {
-    "name": "<:B_LOGO:1089020310508015626> **EXO HAECHAN** Candy",
+    "name": "<:B_LOGO:1089020310508015626> **NCT DREAM HAECHAN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_B.png?format=png",
     "theme": "Candy",
     "inv": "<:B_LOGO:1089020310508015626> Candy"
@@ -14213,7 +14213,7 @@
  
    "NCCD_HC_A": [
     {
-    "name": "<:A_LOGO:1089020306556989592> **EXO HAECHAN** Candy",
+    "name": "<:A_LOGO:1089020306556989592> **NCT DREAM HAECHAN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_A.png?format=png",
     "theme": "Candy",
     "inv": "<:A_LOGO:1089020306556989592> Candy"
@@ -14223,7 +14223,7 @@
  
     "NCCD_HC_S": [
     {
-    "name": "<:S_LOGO:1089020304254316624> **EXO HAECHAN** Candy",
+    "name": "<:S_LOGO:1089020304254316624> **NCT DREAM HAECHAN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_S.png?format=png",
     "theme": "Candy",
     "inv": "<:S_LOGO:1089020304254316624> Candy"
@@ -14233,7 +14233,7 @@
  
     "NCCD_HC_R": [
     {
-    "name": "<:R_LOGO:1089020300332630096> **EXO HAECHAN** Candy",
+    "name": "<:R_LOGO:1089020300332630096> **NCT DREAM HAECHAN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_R.png?format=png",
     "theme": "Candy",
     "inv": "<:R_LOGO:1089020300332630096> Candy"
@@ -14243,7 +14243,7 @@
     
     "NCCD_RJ_C": [
     {
-    "name": "<:C_LOGO:1089020314236764240> **EXO RENJUN** Candy",
+    "name": "<:C_LOGO:1089020314236764240> **NCT DREAM RENJUN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_C.png?format=png",
     "theme": "Candy",
     "inv": "<:C_LOGO:1089020314236764240> Candy"
@@ -14253,7 +14253,7 @@
  
   "NCCD_RJ_B": [
     {
-    "name": "<:B_LOGO:1089020310508015626> **EXO RENJUN** Candy",
+    "name": "<:B_LOGO:1089020310508015626> **NCT DREAM RENJUN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_B.png?format=png",
     "theme": "Candy",
     "inv": "<:B_LOGO:1089020310508015626> Candy"
@@ -14263,7 +14263,7 @@
  
    "NCCD_RJ_A": [
     {
-    "name": "<:A_LOGO:1089020306556989592> **EXO RENJUN** Candy",
+    "name": "<:A_LOGO:1089020306556989592> **NCT DREAM RENJUN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_A.png?format=png",
     "theme": "Candy",
     "inv": "<:A_LOGO:1089020306556989592> Candy"
@@ -14273,7 +14273,7 @@
  
     "NCCD_RJ_S": [
     {
-    "name": "<:S_LOGO:1089020304254316624> **EXO RENJUN** Candy",
+    "name": "<:S_LOGO:1089020304254316624> **NCT DREAM RENJUN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_S.png?format=png",
     "theme": "Candy",
     "inv": "<:S_LOGO:1089020304254316624> Candy"
@@ -14283,7 +14283,7 @@
  
     "NCCD_RJ_R": [
     {
-    "name": "<:R_LOGO:1089020300332630096> **EXO RENJUN** Candy",
+    "name": "<:R_LOGO:1089020300332630096> **NCT DREAM RENJUN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_R.png?format=png",
     "theme": "Candy",
     "inv": "<:R_LOGO:1089020300332630096> Candy"
@@ -14293,7 +14293,7 @@
     
     "NCCD_JM_C": [
     {
-    "name": "<:C_LOGO:1089020314236764240> **EXO JAEMIN** Candy",
+    "name": "<:C_LOGO:1089020314236764240> **NCT DREAM JAEMIN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_C.png?format=png",
     "theme": "Candy",
     "inv": "<:C_LOGO:1089020314236764240> Candy"
@@ -14303,7 +14303,7 @@
  
   "NCCD_JM_B": [
     {
-    "name": "<:B_LOGO:1089020310508015626> **EXO JAEMIN** Candy",
+    "name": "<:B_LOGO:1089020310508015626> **NCT DREAM JAEMIN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_B.png?format=png",
     "theme": "Candy",
     "inv": "<:B_LOGO:1089020310508015626> Candy"
@@ -14313,7 +14313,7 @@
  
    "NCCD_JM_A": [
     {
-    "name": "<:A_LOGO:1089020306556989592> **EXO JAEMIN** Candy",
+    "name": "<:A_LOGO:1089020306556989592> **NCT DREAM JAEMIN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_A.png?format=png",
     "theme": "Candy",
     "inv": "<:A_LOGO:1089020306556989592> Candy"
@@ -14323,7 +14323,7 @@
  
     "NCCD_JM_S": [
     {
-    "name": "<:S_LOGO:1089020304254316624> **EXO JAEMIN** Candy",
+    "name": "<:S_LOGO:1089020304254316624> **NCT DREAM JAEMIN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_S.png?format=png",
     "theme": "Candy",
     "inv": "<:S_LOGO:1089020304254316624> Candy"
@@ -14333,7 +14333,7 @@
  
     "NCCD_JM_R": [
     {
-    "name": "<:R_LOGO:1089020300332630096> **EXO JAEMIN** Candy",
+    "name": "<:R_LOGO:1089020300332630096> **NCT DREAM JAEMIN** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_R.png?format=png",
     "theme": "Candy",
     "inv": "<:R_LOGO:1089020300332630096> Candy"
@@ -14343,7 +14343,7 @@
     
     "NCCD_JN_C": [
     {
-    "name": "<:C_LOGO:1089020314236764240> **EXO JENO** Candy",
+    "name": "<:C_LOGO:1089020314236764240> **NCT DREAM JENO** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_C.png?format=png",
     "theme": "Candy",
     "inv": "<:C_LOGO:1089020314236764240> Candy"
@@ -14353,7 +14353,7 @@
  
   "NCCD_JN_B": [
     {
-    "name": "<:B_LOGO:1089020310508015626> **EXO JENO** Candy",
+    "name": "<:B_LOGO:1089020310508015626> **NCT DREAM JENO** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_B.png?format=png",
     "theme": "Candy",
     "inv": "<:B_LOGO:1089020310508015626> Candy"
@@ -14363,7 +14363,7 @@
  
    "NCCD_JN_A": [
     {
-    "name": "<:A_LOGO:1089020306556989592> **EXO JENO** Candy",
+    "name": "<:A_LOGO:1089020306556989592> **NCT DREAM JENO** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_A.png?format=png",
     "theme": "Candy",
     "inv": "<:A_LOGO:1089020306556989592> Candy"
@@ -14373,7 +14373,7 @@
  
     "NCCD_JN_S": [
     {
-    "name": "<:S_LOGO:1089020304254316624> **EXO JENO** Candy",
+    "name": "<:S_LOGO:1089020304254316624> **NCT DREAM JENO** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_S.png?format=png",
     "theme": "Candy",
     "inv": "<:S_LOGO:1089020304254316624> Candy"
@@ -14383,8 +14383,58 @@
  
     "NCCD_JN_R": [
     {
-    "name": "<:R_LOGO:1089020300332630096> **EXO JENO** Candy",
+    "name": "<:R_LOGO:1089020300332630096> **NCT DREAM JENO** Candy",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_R.png?format=png",
+    "theme": "Candy",
+    "inv": "<:R_LOGO:1089020300332630096> Candy"
+    
+    }
+    ],
+    
+    "NCCD_CL_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **NCT DREAM CHENLE** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/CL_C.png?format=png",
+    "theme": "Candy",
+    "inv": "<:C_LOGO:1089020314236764240> Candy"
+    
+    }
+    ],
+ 
+  "NCCD_CL_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **NCT DREAM CHENLE** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/CL_B.png?format=png",
+    "theme": "Candy",
+    "inv": "<:B_LOGO:1089020310508015626> Candy"
+    
+    }
+    ],
+ 
+   "NCCD_CL_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **NCT DREAM CHENLE** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/CL_A.png?format=png",
+    "theme": "Candy",
+    "inv": "<:A_LOGO:1089020306556989592> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_CL_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **NCT DREAM CHENLE** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/CL_S.png?format=png",
+    "theme": "Candy",
+    "inv": "<:S_LOGO:1089020304254316624> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_CL_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **NCT DREAM CHENLE** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/CL_R.png?format=png",
     "theme": "Candy",
     "inv": "<:R_LOGO:1089020300332630096> Candy"
     
