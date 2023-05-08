@@ -13847,7 +13847,551 @@
             "theme": "LILAC",
             "inv": "<:R_LOGO:1089020300332630096> LILAC"
         }
+    ],
+    
+    "LDOB_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lana Del Rey Vocal** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/5.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:C_LOGO:1089020314236764240> Ocean bvld"
+        }
+    ],
+    "LDOB_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lana Del Rey Vocal** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/4.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:B_LOGO:1089020310508015626> Ocean bvld"
+        }
+    ],
+    "LDOB_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lana Del Rey Vocal** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/3.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:A_LOGO:1089020306556989592> Ocean bvld"
+        }
+    ],
+    "LDOB_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lana Del Rey Vocal** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/2.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:S_LOGO:1089020304254316624> Ocean bvld"
+        }
+    ],
+    "LDOB_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lana Del Rey Vocal** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/1.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:R_LOGO:1089020300332630096> Ocean bvld"
+        }
+    ],
+    "LDOB_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lana Del Rey Dance** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/10.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:C_LOGO:1089020314236764240> Ocean bvld"
+        }
+    ],
+    "LDOB_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lana Del Rey Dance** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/9.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:B_LOGO:1089020310508015626> Ocean bvld"
+        }
+    ],
+    "LDOB_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lana Del Rey Dance** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/8.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:A_LOGO:1089020306556989592> Ocean bvld"
+        }
+    ],
+    "LDOB_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lana Del Rey Dance** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/7.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:S_LOGO:1089020304254316624> Ocean bvld"
+        }
+    ],
+    "LDOB_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lana Del Rey Dance** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/6.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:R_LOGO:1089020300332630096> Ocean bvld"
+        }
+    ],
+    "LDOB_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lana Del Rey Rhythm** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/15.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:C_LOGO:1089020314236764240> Ocean bvld"
+        }
+    ],
+    "LDOB_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lana Del Rey Rhythm** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/14.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:B_LOGO:1089020310508015626> Ocean bvld"
+        }
+    ],
+    "LDOB_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lana Del Rey Rhythm** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/13.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:A_LOGO:1089020306556989592> Ocean bvld"
+        }
+    ],
+    "LDOB_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lana Del Rey Rhythm** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/12.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:S_LOGO:1089020304254316624> Ocean bvld"
+        }
+    ],
+    "LDOB_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lana Del Rey Rhythm** Ocean bvld",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/ocean_bvld/11.png?format=png",
+            "theme": "Ocean bvld",
+            "inv": "<:R_LOGO:1089020300332630096> Ocean bvld"
+        }
+    ],
+    
+    "LDRD_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lana Del Rey Vocal** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/5.png?format=png",
+            "theme": "Radio",
+            "inv": "<:C_LOGO:1089020314236764240> Radio"
+        }
+    ],
+    "LDRD_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lana Del Rey Vocal** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/4.png?format=png",
+            "theme": "Radio",
+            "inv": "<:B_LOGO:1089020310508015626> Radio"
+        }
+    ],
+    "LDRD_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lana Del Rey Vocal** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/3.png?format=png",
+            "theme": "Radio",
+            "inv": "<:A_LOGO:1089020306556989592> Radio"
+        }
+    ],
+    "LDRD_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lana Del Rey Vocal** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/2.png?format=png",
+            "theme": "Radio",
+            "inv": "<:S_LOGO:1089020304254316624> Radio"
+        }
+    ],
+    "LDRD_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lana Del Rey Vocal** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/1.png?format=png",
+            "theme": "Radio",
+            "inv": "<:R_LOGO:1089020300332630096> Radio"
+        }
+    ],
+    "LDRD_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lana Del Rey Dance** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/10.png?format=png",
+            "theme": "Radio",
+            "inv": "<:C_LOGO:1089020314236764240> Radio"
+        }
+    ],
+    "LDRD_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lana Del Rey Dance** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/9.png?format=png",
+            "theme": "Radio",
+            "inv": "<:B_LOGO:1089020310508015626> Radio"
+        }
+    ],
+    "LDRD_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lana Del Rey Dance** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/8.png?format=png",
+            "theme": "Radio",
+            "inv": "<:A_LOGO:1089020306556989592> Radio"
+        }
+    ],
+    "LDRD_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lana Del Rey Dance** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/7.png?format=png",
+            "theme": "Radio",
+            "inv": "<:S_LOGO:1089020304254316624> Radio"
+        }
+    ],
+    "LDRD_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lana Del Rey Dance** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/6.png?format=png",
+            "theme": "Radio",
+            "inv": "<:R_LOGO:1089020300332630096> Radio"
+        }
+    ],
+    "LDRD_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Lana Del Rey Rhythm** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/15.png?format=png",
+            "theme": "Radio",
+            "inv": "<:C_LOGO:1089020314236764240> Radio"
+        }
+    ],
+    "LDRD_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Lana Del Rey Rhythm** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/14.png?format=png",
+            "theme": "Radio",
+            "inv": "<:B_LOGO:1089020310508015626> Radio"
+        }
+    ],
+    "LDRD_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Lana Del Rey Rhythm** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/13.png?format=png",
+            "theme": "Radio",
+            "inv": "<:A_LOGO:1089020306556989592> Radio"
+        }
+    ],
+    "LDRD_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Lana Del Rey Rhythm** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/12.png?format=png",
+            "theme": "Radio",
+            "inv": "<:S_LOGO:1089020304254316624> Radio"
+        }
+    ],
+    "LDRD_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Lana Del Rey Rhythm** Radio",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ldr/radio/11.png?format=png",
+            "theme": "Radio",
+            "inv": "<:R_LOGO:1089020300332630096> Radio"
+        }
+    ],
+    
+    "NCCD_MR_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO MARK** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_C.png?format=png",
+    "theme": "Candy",
+    "inv": "<:C_LOGO:1089020314236764240> Candy"
+    
+    }
+    ],
+ 
+  "NCCD_MR_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO MARK** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_B.png?format=png",
+    "theme": "Candy",
+    "inv": "<:B_LOGO:1089020310508015626> Candy"
+    
+    }
+    ],
+ 
+   "NCCD_MR_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO MARK** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_A.png?format=png",
+    "theme": "Candy",
+    "inv": "<:A_LOGO:1089020306556989592> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_MR_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO MARK** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_S.png?format=png",
+    "theme": "Candy",
+    "inv": "<:S_LOGO:1089020304254316624> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_MR_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO MARK** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/MR_R.png?format=png",
+    "theme": "Candy",
+    "inv": "<:R_LOGO:1089020300332630096> Candy"
+    
+    }
+    ],
+    
+    "NCCD_JS_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO JISUNG** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_C.png?format=png",
+    "theme": "Candy",
+    "inv": "<:C_LOGO:1089020314236764240> Candy"
+    
+    }
+    ],
+ 
+  "NCCD_JS_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO JISUNG** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_B.png?format=png",
+    "theme": "Candy",
+    "inv": "<:B_LOGO:1089020310508015626> Candy"
+    
+    }
+    ],
+ 
+   "NCCD_JS_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO JISUNG** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_A.png?format=png",
+    "theme": "Candy",
+    "inv": "<:A_LOGO:1089020306556989592> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_JS_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO JISUNG** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_S.png?format=png",
+    "theme": "Candy",
+    "inv": "<:S_LOGO:1089020304254316624> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_JS_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO JISUNG** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JS_R.png?format=png",
+    "theme": "Candy",
+    "inv": "<:R_LOGO:1089020300332630096> Candy"
+    
+    }
+    ],
+    
+    "NCCD_HC_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO HAECHAN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_C.png?format=png",
+    "theme": "Candy",
+    "inv": "<:C_LOGO:1089020314236764240> Candy"
+    
+    }
+    ],
+ 
+  "NCCD_HC_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO HAECHAN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_B.png?format=png",
+    "theme": "Candy",
+    "inv": "<:B_LOGO:1089020310508015626> Candy"
+    
+    }
+    ],
+ 
+   "NCCD_HC_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO HAECHAN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_A.png?format=png",
+    "theme": "Candy",
+    "inv": "<:A_LOGO:1089020306556989592> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_HC_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO HAECHAN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_S.png?format=png",
+    "theme": "Candy",
+    "inv": "<:S_LOGO:1089020304254316624> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_HC_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO HAECHAN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/HC_R.png?format=png",
+    "theme": "Candy",
+    "inv": "<:R_LOGO:1089020300332630096> Candy"
+    
+    }
+    ],
+    
+    "NCCD_RJ_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO RENJUN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_C.png?format=png",
+    "theme": "Candy",
+    "inv": "<:C_LOGO:1089020314236764240> Candy"
+    
+    }
+    ],
+ 
+  "NCCD_RJ_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO RENJUN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_B.png?format=png",
+    "theme": "Candy",
+    "inv": "<:B_LOGO:1089020310508015626> Candy"
+    
+    }
+    ],
+ 
+   "NCCD_RJ_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO RENJUN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_A.png?format=png",
+    "theme": "Candy",
+    "inv": "<:A_LOGO:1089020306556989592> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_RJ_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO RENJUN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_S.png?format=png",
+    "theme": "Candy",
+    "inv": "<:S_LOGO:1089020304254316624> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_RJ_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO RENJUN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/RJ_R.png?format=png",
+    "theme": "Candy",
+    "inv": "<:R_LOGO:1089020300332630096> Candy"
+    
+    }
+    ],
+    
+    "NCCD_JM_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO JAEMIN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_C.png?format=png",
+    "theme": "Candy",
+    "inv": "<:C_LOGO:1089020314236764240> Candy"
+    
+    }
+    ],
+ 
+  "NCCD_JM_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO JAEMIN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_B.png?format=png",
+    "theme": "Candy",
+    "inv": "<:B_LOGO:1089020310508015626> Candy"
+    
+    }
+    ],
+ 
+   "NCCD_JM_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO JAEMIN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_A.png?format=png",
+    "theme": "Candy",
+    "inv": "<:A_LOGO:1089020306556989592> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_JM_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO JAEMIN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_S.png?format=png",
+    "theme": "Candy",
+    "inv": "<:S_LOGO:1089020304254316624> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_JM_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO JAEMIN** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JM_R.png?format=png",
+    "theme": "Candy",
+    "inv": "<:R_LOGO:1089020300332630096> Candy"
+    
+    }
+    ],
+    
+    "NCCD_JN_C": [
+    {
+    "name": "<:C_LOGO:1089020314236764240> **EXO JENO** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_C.png?format=png",
+    "theme": "Candy",
+    "inv": "<:C_LOGO:1089020314236764240> Candy"
+    
+    }
+    ],
+ 
+  "NCCD_JN_B": [
+    {
+    "name": "<:B_LOGO:1089020310508015626> **EXO JENO** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_B.png?format=png",
+    "theme": "Candy",
+    "inv": "<:B_LOGO:1089020310508015626> Candy"
+    
+    }
+    ],
+ 
+   "NCCD_JN_A": [
+    {
+    "name": "<:A_LOGO:1089020306556989592> **EXO JENO** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_A.png?format=png",
+    "theme": "Candy",
+    "inv": "<:A_LOGO:1089020306556989592> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_JN_S": [
+    {
+    "name": "<:S_LOGO:1089020304254316624> **EXO JENO** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_S.png?format=png",
+    "theme": "Candy",
+    "inv": "<:S_LOGO:1089020304254316624> Candy"
+    
+    }
+    ],
+ 
+    "NCCD_JN_R": [
+    {
+    "name": "<:R_LOGO:1089020300332630096> **EXO JENO** Candy",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/nct_dream/candy/JN_R.png?format=png",
+    "theme": "Candy",
+    "inv": "<:R_LOGO:1089020300332630096> Candy"
+    
+    }
     ]
+    
+    
     
     
 }
