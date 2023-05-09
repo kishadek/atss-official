@@ -14439,6 +14439,167 @@
     "inv": "<:R_LOGO:1089020300332630096> Candy"
     
     }
+    ],
+    
+    "BPIC_JN_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JENNIE** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JN_C.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:C_LOGO:1089020314236764240> Ice Cream"
+        }
+    ],
+    "BPIC_JN_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JENNIE** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JN_B.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:B_LOGO:1089020310508015626> Ice Cream"
+        }
+    ],
+    "BPIC_JN_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JENNIE** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JN_A.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:A_LOGO:1089020306556989592> Ice Cream"
+        }
+    ],
+    "BPIC_JN_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JENNIE** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JN_S.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:S_LOGO:1089020304254316624> Ice Cream"
+        }
+    ],
+    "BPIC_JN_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JENNIE** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JN_R.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:R_LOGO:1089020300332630096> Ice Cream"
+        }
+    ],
+    "BPIC_JS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK JISOO** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JS_C.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:C_LOGO:1089020314236764240> Ice Cream"
+        }
+    ],
+    "BPIC_JS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK JISOO** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JS_B.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:B_LOGO:1089020310508015626> Ice Cream"
+        }
+    ],
+    "BPIC_JS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK JISOO** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JS_A.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:A_LOGO:1089020306556989592> Ice Cream"
+        }
+    ],
+    "BPIC_JS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK JISOO** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JS_S.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:S_LOGO:1089020304254316624> Ice Cream"
+        }
+    ],
+    "BPIC_JS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK JISOO** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/JS_R.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:R_LOGO:1089020300332630096> Ice Cream"
+        }
+    ],
+    "BPIC_RS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK ROSÉ** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/RS_C.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:C_LOGO:1089020314236764240> Ice Cream"
+        }
+    ],
+    "BPIC_RS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK ROSÉ** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/RS_B.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:B_LOGO:1089020310508015626> Ice Cream"
+        }
+    ],
+    "BPIC_RS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK ROSÉ** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/RS_A.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:A_LOGO:1089020306556989592> Ice Cream"
+        }
+    ],
+    "BPIC_RS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK ROSÉ** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/RS_S.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:S_LOGO:1089020304254316624> Ice Cream"
+        }
+    ],
+    "BPIC_RS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK ROSÉ** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/RS_R.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:R_LOGO:1089020300332630096> Ice Cream"
+        }
+    ],
+    "BPIC_LS_C": [
+        {
+            "name": "<:C_LOGO:1089020314236764240> **BLACKPINK LISA** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/LS_C.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:C_LOGO:1089020314236764240> Ice Cream"
+        }
+    ],
+    "BPIC_LS_B": [
+        {
+            "name": "<:B_LOGO:1089020310508015626> **BLACKPINK LISA** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/LS_B.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:B_LOGO:1089020310508015626> Ice Cream"
+        }
+    ],
+    "BPIC_LS_A": [
+        {
+            "name": "<:A_LOGO:1089020306556989592> **BLACKPINK LISA** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/LS_A.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:A_LOGO:1089020306556989592> Ice Cream"
+        }
+    ],
+    "BPIC_LS_S": [
+        {
+            "name": "<:S_LOGO:1089020304254316624> **BLACKPINK LISA** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/LS_S.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:S_LOGO:1089020304254316624> Ice Cream"
+        }
+    ],
+    "BPIC_LS_R": [
+        {
+            "name": "<:R_LOGO:1089020300332630096> **BLACKPINK LISA** Ice Cream",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/blackpink/ice_cream/LS_R.png?format=png",
+            "theme": "Ice Cream",
+            "inv": "<:R_LOGO:1089020300332630096> Ice Cream"
+        }
     ]
     
     
