@@ -14600,6 +14600,127 @@
             "theme": "Ice Cream",
             "inv": "<:R_LOGO:1089020300332630096> Ice Cream"
         }
+    ],
+    
+    "AGEV_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Ariana Grande Vocal** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/5.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:C_LOGO:1089020314236764240> Everyday"
+        }
+    ],
+    "AGEV_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Ariana Grande Vocal** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/4.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:B_LOGO:1089020310508015626> Everyday"
+        }
+    ],
+    "AGEV_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Ariana Grande Vocal** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/3.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:A_LOGO:1089020306556989592> Everyday"
+        }
+    ],
+    "AGEV_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Ariana Grande Vocal** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/2.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:S_LOGO:1089020304254316624> Everyday"
+        }
+    ],
+    "AGEV_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Ariana Grande Vocal** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/1.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:R_LOGO:1089020300332630096> Everyday"
+        }
+    ],
+    "AGEV_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Ariana Grande Dance** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/10.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:C_LOGO:1089020314236764240> Everyday"
+        }
+    ],
+    "AGEV_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Ariana Grande Dance** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/9.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:B_LOGO:1089020310508015626> Everyday"
+        }
+    ],
+    "AGEV_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Ariana Grande Dance** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/8.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:A_LOGO:1089020306556989592> Everyday"
+        }
+    ],
+    "AGEV_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Ariana Grande Dance** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/7.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:S_LOGO:1089020304254316624> Everyday"
+        }
+    ],
+    "AGEV_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Ariana Grande Dance** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/6.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:R_LOGO:1089020300332630096> Everyday"
+        }
+    ],
+    "AGEV_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Ariana Grande Rhythm** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/15.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:C_LOGO:1089020314236764240> Everyday"
+        }
+    ],
+    "AGEV_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Ariana Grande Rhythm** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/14.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:B_LOGO:1089020310508015626> Everyday"
+        }
+    ],
+    "AGEV_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Ariana Grande Rhythm** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/13.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:A_LOGO:1089020306556989592> Everyday"
+        }
+    ],
+    "AGEV_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Ariana Grande Rhythm** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/12.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:S_LOGO:1089020304254316624> Everyday"
+        }
+    ],
+    "AGEV_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Ariana Grande Rhythm** Everyday",
+            "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/ariana_grande/everyday/11.png?format=png",
+            "theme": "Everyday",
+            "inv": "<:R_LOGO:1089020300332630096> Everyday"
+        }
     ]
     
     
